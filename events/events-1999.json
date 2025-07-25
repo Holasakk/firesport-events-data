@@ -1,0 +1,1018 @@
+{
+  "year": 1999,
+  "events": [
+    {
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "position": 1,
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "25,27"
+              },
+              {
+                "position": 2,
+                "teamName": "Vepříkov",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "25,39"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 3,
+                "teamName": "Ždírec nad Doubravou",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,45"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 4,
+                "teamName": "Sloupno",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,71"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 5,
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,32"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 6,
+                "teamName": "Klouzovy",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,43"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 7,
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,37"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 8,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,94"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 9,
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "finalTime": "44,84"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "startingList": {
+        "categories": []
+      },
+      "location": "Přibyslav, HB",
+      "date": "12. 07. 1999 13:00",
+      "url": "vysledek-pribyslav-1999-07-12-722.html",
+      "title": "O pohár SDH Přibyslav",
+      "id": "722",
+      "status": "completed",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Herálec, HB",
+      "title": "O pohár SDH Herálec",
+      "id": "721",
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "finalTime": "25,22"
+              },
+              {
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "finalTime": "26,72"
+              },
+              {
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "finalTime": "26,87"
+              },
+              {
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "finalTime": "28,91"
+              },
+              {
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "firstTargetTime": "-",
+                "finalTime": "29,15"
+              }
+            ]
+          }
+        ]
+      },
+      "date": "11. 07. 1999 13:00",
+      "url": "vysledek-heralec-1999-07-11-721.html",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "id": "720",
+      "title": "O pohár SDH Chotěboř",
+      "location": "Chotěboř, HB",
+      "status": "completed",
+      "url": "vysledek-chotebor-1999-07-10-720.html",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "finalTime": "23,77"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "finalTime": "25,25"
+              },
+              {
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "finalTime": "25,56"
+              },
+              {
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "finalTime": "27,06"
+              },
+              {
+                "teamName": "Klouzovy",
+                "firstTargetTime": "-",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "finalTime": "30,83"
+              }
+            ]
+          }
+        ]
+      },
+      "date": "10. 07. 1999 13:00",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Habry, HB",
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "finalTime": "23,45"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Květinov",
+                "firstTargetTime": "-",
+                "finalTime": "25,67"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "teamName": "Vepříkov",
+                "firstTargetTime": "-",
+                "finalTime": "25,69"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "teamName": "Klouzovy",
+                "firstTargetTime": "-",
+                "finalTime": "27,90"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": "Sloupno",
+                "firstTargetTime": "-",
+                "finalTime": "29,53"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "finalTime": "34,80"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "teamName": "Herálec",
+                "firstTargetTime": "-",
+                "finalTime": "34,85"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "finalTime": "37,84"
+              },
+              {
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "finalTime": "51,68"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "vysledek-habry-1999-07-09-719.html",
+      "id": "719",
+      "title": "O pohár SDH Habry",
+      "date": "09. 07. 1999 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "date": "08. 07. 1999 13:00",
+      "startingList": {
+        "categories": []
+      },
+      "location": "Podmoklany, HB",
+      "url": "vysledek-podmoklany-1999-07-08-718.html",
+      "title": "O pohár obce SDH Podmoklany",
+      "status": "completed",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "26,56"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "28,40"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "28,59"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "29,05"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": "Herálec",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "29,19"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "31,34"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "teamName": "Ždírec nad Doubravou",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "47,10"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "teamName": "Sloupno",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "finalTime": "55,80"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "id": "718",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,41"
+              },
+              {
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,45"
+              },
+              {
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,08"
+              },
+              {
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,24"
+              },
+              {
+                "teamName": "Ždírec nad Doubravou",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,75"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,01"
+              },
+              {
+                "teamName": "Sloupno",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,04"
+              },
+              {
+                "teamName": "Klouzovy",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,21"
+              },
+              {
+                "teamName": "Smilov",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,24"
+              },
+              {
+                "teamName": "Herálec",
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "finalTime": "44,37"
+              }
+            ]
+          }
+        ]
+      },
+      "date": "07. 07. 1999 13:00",
+      "url": "vysledek-smilov-1999-07-07-717.html",
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "title": "O pohár obce SDH Smilov",
+      "id": "717",
+      "location": "Smilov",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 1,
+                "firstTargetTime": "-",
+                "finalTime": "26,09"
+              },
+              {
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 2,
+                "firstTargetTime": "-",
+                "finalTime": "28,50"
+              },
+              {
+                "teamName": "Smilov",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 3,
+                "firstTargetTime": "-",
+                "finalTime": "28,51"
+              },
+              {
+                "teamName": "Vepříkov",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 4,
+                "firstTargetTime": "-",
+                "finalTime": "28,69"
+              },
+              {
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 5,
+                "firstTargetTime": "-",
+                "finalTime": "30,80"
+              },
+              {
+                "teamName": "Sloupno",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 6,
+                "firstTargetTime": "-",
+                "finalTime": "33,42"
+              },
+              {
+                "teamName": "Ždírec nad Doubravou",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 7,
+                "firstTargetTime": "-",
+                "finalTime": "35,33"
+              },
+              {
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 8,
+                "firstTargetTime": "-",
+                "finalTime": "37,48"
+              },
+              {
+                "teamName": "Klouzovy",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 9,
+                "firstTargetTime": "-",
+                "finalTime": "49,24"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 10,
+                "firstTargetTime": "-",
+                "finalTime": "52,00"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "location": "Klouzovy, HB",
+      "status": "completed",
+      "id": "716",
+      "date": "05. 07. 1999 13:00",
+      "title": "O pohár SDH Klouzovy",
+      "url": "vysledek-klouzovy-1999-07-05-716.html",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "position": 1,
+                "firstTargetTime": "-",
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "finalTime": "27,03"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 2,
+                "firstTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "finalTime": "27,24"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 3,
+                "firstTargetTime": "-",
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "finalTime": "27,27"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 4,
+                "firstTargetTime": "-",
+                "teamName": "Ždírec nad Doubravou",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,08"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 5,
+                "firstTargetTime": "-",
+                "teamName": "Vepříkov",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,63"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 6,
+                "firstTargetTime": "-",
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,50"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 7,
+                "firstTargetTime": "-",
+                "teamName": "Smilov",
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,12"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 8,
+                "firstTargetTime": "-",
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 8,
+                "firstTargetTime": "-",
+                "teamName": "Sloupno",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "O pohár SDH Nová Ves u Světlé",
+      "status": "completed",
+      "url": "vysledek-nova-ves-u-svetle-1999-07-04-715.html",
+      "id": "715",
+      "location": "Nová Ves u Světlé, HB",
+      "date": "04. 07. 1999 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Vepříkov, HB",
+      "title": "O pohár SDH Vepříkov",
+      "url": "vysledek-veprikov-1999-07-03-714.html",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "position": 1,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Vepříkov",
+                "finalTime": "29,60"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 2,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Květinov",
+                "finalTime": "30,00"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 3,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Ždírec nad Doubravou",
+                "finalTime": "30,50"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 4,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "31,00"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 5,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry",
+                "finalTime": "31,00"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 6,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Sloupno",
+                "finalTime": "31,80"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 7,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Podmoklany",
+                "finalTime": "33,00"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 8,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Herálec",
+                "finalTime": "34,20"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 9,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Smilov",
+                "finalTime": "37,80"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 10,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Klouzovy",
+                "finalTime": "59,00"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "id": "714",
+      "date": "03. 07. 1999 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "title": "O pohár SDH Ždírec nad Doubravou",
+      "id": "713",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "teamName": "Podmoklany",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "23,74"
+              },
+              {
+                "teamName": "Vepříkov",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "24,81"
+              },
+              {
+                "teamName": "Ždírec nad Doubravou",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "24,92"
+              },
+              {
+                "teamName": "Habry",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "26,45"
+              },
+              {
+                "teamName": "Herálec",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "26,76"
+              },
+              {
+                "teamName": "Sloupno",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "27,28"
+              },
+              {
+                "teamName": "Květinov",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "27,31"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "28,73"
+              },
+              {
+                "teamName": "Smilov",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "33,82"
+              },
+              {
+                "teamName": "Klouzovy",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "url": "vysledek-zdirec-nad-doubravou-1999-07-02-713.html",
+      "location": "Ždírec nad Doubravou, HB",
+      "startingList": {
+        "categories": []
+      },
+      "date": "02. 07. 1999 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "url": "vysledek-sloupno-1999-07-01-712.html",
+      "id": "712",
+      "title": "O pohár SDH Sloupno",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "teamName": "Herálec",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "32,68"
+              },
+              {
+                "teamName": "Vepříkov",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "34,31"
+              },
+              {
+                "teamName": "Květinov",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "34,52"
+              },
+              {
+                "teamName": "Habry",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "35,18"
+              },
+              {
+                "teamName": "Sloupno",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "36,48"
+              },
+              {
+                "teamName": "Ždírec nad Doubravou",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "37,13"
+              },
+              {
+                "teamName": "Smilov",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "39,27"
+              },
+              {
+                "teamName": "Klouzovy",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "50,02"
+              },
+              {
+                "teamName": "Podmoklany",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "72,94"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "75,56"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "location": "Sloupno, HB",
+      "date": "01. 07. 1999 13:00",
+      "status": "completed",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    }
+  ]
+}

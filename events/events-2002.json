@@ -1,0 +1,486 @@
+{
+  "year": 2002,
+  "events": [
+    {
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "finalTime": "20,25"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "finalTime": "20,80"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "finalTime": "25,19"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "finalTime": "26,59"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": "Sloupno",
+                "secondTargetTime": "-",
+                "finalTime": "49,59"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "695",
+      "title": "O pohár starosty",
+      "url": "vysledek-nova-ves-u-svetle-2002-08-31-695.html",
+      "date": "31. 08. 2002 13:00",
+      "location": "Nová Ves u Světlé, HB",
+      "status": "completed",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "position": 1,
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,54"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 2,
+                "teamName": "Květinov",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,79"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 3,
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,79"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 4,
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,13"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 5,
+                "teamName": "Vepříkov",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,61"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 6,
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,71"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "title": "O pohár starosty obce Habry",
+      "startingList": {
+        "categories": []
+      },
+      "url": "vysledek-habry-2002-08-24-694.html",
+      "location": "Habry, HB",
+      "date": "24. 08. 2002 13:00",
+      "status": "completed",
+      "id": "694",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "id": "693",
+      "location": "Květinov, HB",
+      "title": "O pohár SDH Květinov",
+      "status": "completed",
+      "startingList": {
+        "categories": []
+      },
+      "url": "vysledek-kvetinov-2002-08-10-693.html",
+      "date": "10. 08. 2002 13:00",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "firstTargetTime": "-",
+                "finalTime": "19,99"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "firstTargetTime": "-",
+                "finalTime": "21,82"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "firstTargetTime": "-",
+                "finalTime": "21,90"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "firstTargetTime": "-",
+                "finalTime": "25,79"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "firstTargetTime": "-",
+                "finalTime": "35,88"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Smilov, HB",
+      "startingList": {
+        "categories": []
+      },
+      "id": "692",
+      "title": "O pohár SDH Smilov",
+      "status": "completed",
+      "date": "06. 07. 2002 13:00",
+      "url": "vysledek-smilov-2002-07-06-692.html",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 1,
+                "firstTargetTime": "-",
+                "finalTime": "21,59"
+              },
+              {
+                "teamName": "Smilov",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 2,
+                "firstTargetTime": "-",
+                "finalTime": "23,85"
+              },
+              {
+                "teamName": "Sloupno",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 3,
+                "firstTargetTime": "-",
+                "finalTime": "24,25"
+              },
+              {
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 4,
+                "firstTargetTime": "-",
+                "finalTime": "26,39"
+              },
+              {
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "position": 5,
+                "firstTargetTime": "-",
+                "finalTime": "32,96"
+              }
+            ]
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "id": "691",
+      "url": "vysledek-podmoklany-2002-07-05-691.html",
+      "startingList": {
+        "categories": []
+      },
+      "title": "O pohár starosty obce Podmoklany",
+      "location": "Podmoklany, HB",
+      "date": "05. 07. 2002 13:00",
+      "status": "completed",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "20,24"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "24,71"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Sloupno",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "25,76"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "30,10"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Květinov",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "34,50"
+              },
+              {
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "date": "22. 06. 2002 13:00",
+      "id": "690",
+      "title": "O pohár starosty obce Vepříkov",
+      "location": "Vepříkov, HB",
+      "url": "vysledek-veprikov-2002-06-22-690.html",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "teamName": "Podmoklany",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "20,92"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "21,08"
+              },
+              {
+                "teamName": "Květinov",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "23,61"
+              },
+              {
+                "teamName": "Habry",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "27,55"
+              },
+              {
+                "teamName": "Smilov",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "28,41"
+              },
+              {
+                "teamName": "Sloupno",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "28,65"
+              },
+              {
+                "teamName": "Vepříkov",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "finalTime": "38,20"
+              }
+            ]
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "position": 1,
+                "teamName": "Květinov",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,36"
+              },
+              {
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "24,55"
+              },
+              {
+                "position": 3,
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,29"
+              },
+              {
+                "position": 4,
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,63"
+              },
+              {
+                "position": 5,
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,79"
+              },
+              {
+                "position": 6,
+                "teamName": "Vepříkov",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "72,80"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "url": "vysledek-sloupno-2002-06-01-595.html",
+      "id": "595",
+      "date": "01. 06. 2002 13:00",
+      "title": "O pohár starosty obce Sloupno",
+      "location": "Sloupno, HB",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    }
+  ]
+}

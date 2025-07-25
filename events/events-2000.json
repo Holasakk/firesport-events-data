@@ -1,0 +1,1066 @@
+{
+  "year": 2000,
+  "events": [
+    {
+      "url": "vysledek-ceska-bela-2000-09-23-706.html",
+      "startingList": {
+        "categories": []
+      },
+      "id": "706",
+      "location": "Česká Bělá, HB",
+      "title": "O pohár obce Česká Bělá",
+      "date": "23. 09. 2000 13:00",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "firstTargetTime": "-",
+                "teamName": "Česká Bělá",
+                "secondTargetTime": "-",
+                "finalTime": "20,62"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "firstTargetTime": "-",
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "finalTime": "23,82"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "firstTargetTime": "-",
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "finalTime": "24,62"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "firstTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "finalTime": "25,03"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "firstTargetTime": "-",
+                "teamName": "Počátky",
+                "secondTargetTime": "-",
+                "finalTime": "27,31"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "firstTargetTime": "-",
+                "teamName": "Sloupno",
+                "secondTargetTime": "-",
+                "finalTime": "28,27"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "firstTargetTime": "-",
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "finalTime": "29,53"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "firstTargetTime": "-",
+                "teamName": "Smilov",
+                "secondTargetTime": "-",
+                "finalTime": "35,28"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "firstTargetTime": "-",
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "completed",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "date": "26. 08. 2000 13:00",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "finalTime": "27,64"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "finalTime": "29,04"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "finalTime": "31,67"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "finalTime": "33,19"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": "Bačkov",
+                "secondTargetTime": "-",
+                "finalTime": "41,35"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "finalTime": "43,91"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "teamName": "Sloupno",
+                "secondTargetTime": "-",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "teamName": "Česká Bělá",
+                "secondTargetTime": "-",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "teamName": "Smilov",
+                "secondTargetTime": "-",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "id": "705",
+      "title": "O pohár starosty Habry",
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "url": "vysledek-habry-2000-08-26-705.html",
+      "location": "Habry, HB",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "id": "704",
+      "location": "Počátky, HB",
+      "date": "19. 08. 2000 13:00",
+      "title": "O pohár obce Počátky",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "-",
+                "finalTime": "22,84"
+              },
+              {
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "firstTargetTime": "-",
+                "finalTime": "22,96"
+              },
+              {
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Habry",
+                "firstTargetTime": "-",
+                "finalTime": "25,31"
+              },
+              {
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Květinov",
+                "firstTargetTime": "-",
+                "finalTime": "26,16"
+              },
+              {
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "firstTargetTime": "-",
+                "finalTime": "26,55"
+              },
+              {
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Sloupno",
+                "firstTargetTime": "-",
+                "finalTime": "27,50"
+              },
+              {
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Počátky",
+                "firstTargetTime": "-",
+                "finalTime": "41,44"
+              },
+              {
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "firstTargetTime": "-",
+                "finalTime": "50,97"
+              },
+              {
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "-",
+                "teamName": "Česká Bělá",
+                "firstTargetTime": "-",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "url": "vysledek-pocatky-2000-08-19-704.html",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "url": "vysledek-kvetinov-2000-08-12-703.html",
+      "status": "completed",
+      "title": "O pohár SDH Květinov",
+      "location": "Květinov, HB",
+      "startingList": {
+        "categories": []
+      },
+      "date": "12. 08. 2000 13:00",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "finalTime": "23,19"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "finalTime": "23,82"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "finalTime": "24,59"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "finalTime": "24,89"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá",
+                "secondTargetTime": "-",
+                "finalTime": "35,13"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "teamName": "Smilov",
+                "secondTargetTime": "-",
+                "finalTime": "43,86"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "finalTime": "56,78"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "703",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "teamName": "Květinov",
+                "position": 1,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,14"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "position": 2,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,75"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Vepříkov",
+                "position": 3,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "24,64"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Podmoklany",
+                "position": 4,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,18"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Česká Bělá",
+                "position": 5,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,44"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Bačkov",
+                "position": 6,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "32,03"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Sloupno",
+                "position": 7,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,96"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Smilov",
+                "position": 8,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "40,81"
+              },
+              {
+                "firstTargetTime": "-",
+                "teamName": "Habry",
+                "position": 9,
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "43,19"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "date": "15. 07. 2000 13:00",
+      "status": "completed",
+      "title": "O pohár obce Bačkov",
+      "id": "702",
+      "location": "Bačkov, HB",
+      "startingList": {
+        "categories": []
+      },
+      "url": "vysledek-backov-2000-07-15-702.html",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 1,
+                "teamName": "Květinov",
+                "finalTime": "22,64"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "23,34"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 3,
+                "teamName": "Podmoklany",
+                "finalTime": "23,89"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 4,
+                "teamName": "Vepříkov",
+                "finalTime": "28,46"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 5,
+                "teamName": "Počátky",
+                "finalTime": "29,15"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 6,
+                "teamName": "Sloupno",
+                "finalTime": "29,78"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 7,
+                "teamName": "Habry",
+                "finalTime": "30,30"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "position": 8,
+                "teamName": "Česká Bělá",
+                "finalTime": "34,37"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "id": "701",
+      "url": "vysledek-podmoklany-2000-07-08-701.html",
+      "location": "Podmoklany, HB",
+      "startingList": {
+        "categories": []
+      },
+      "title": "O pohár starosty obce Podmoklany",
+      "status": "completed",
+      "date": "08. 07. 2000 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Květinov",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,50"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Česká Bělá",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "finalTime": "24,54"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,58"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Habry",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,18"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Bačkov",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "finalTime": "27,89"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,11"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Sloupno",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "finalTime": "29,48"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "finalTime": "39,68"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "finalTime": "45,18"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "date": "05. 07. 2000 13:00",
+      "title": "O pohár starosty",
+      "location": "Nová Ves u Světlé, HB",
+      "url": "vysledek-nova-ves-u-svetle-2000-07-05-700.html",
+      "id": "700",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "startingList": {
+        "categories": []
+      },
+      "status": "completed",
+      "url": "vysledek-smilov-2000-07-01-699.html",
+      "date": "01. 07. 2000 13:00",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "position": 1,
+                "teamName": "Podmoklany",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,58"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 2,
+                "teamName": "Česká Bělá",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,85"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 3,
+                "teamName": "Květinov",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,03"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 4,
+                "teamName": "Smilov",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,07"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 5,
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,15"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 6,
+                "teamName": "Habry",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,49"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 7,
+                "teamName": "Vepříkov",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "27,04"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 8,
+                "teamName": "Bačkov",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,25"
+              },
+              {
+                "firstTargetTime": "-",
+                "position": 9,
+                "teamName": "Klouzovy",
+                "secondTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "title": "O pohár SDH Smilov",
+      "id": "699",
+      "location": "Smilov, HB",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "url": "vysledek-veprikov-2000-06-24-698.html",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry",
+                "finalTime": "25,01"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "teamName": "Vepříkov",
+                "finalTime": "25,19"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "teamName": "Podmoklany",
+                "finalTime": "25,30"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "teamName": "Květinov",
+                "finalTime": "25,50"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "28,22"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "teamName": "Bačkov",
+                "finalTime": "29,45"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "teamName": "Sloupno",
+                "finalTime": "29,78"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "teamName": "Počátky",
+                "finalTime": "30,35"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "teamName": "Smilov",
+                "finalTime": "36,98"
+              },
+              {
+                "secondTargetTime": "-",
+                "firstTargetTime": "-",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "teamName": "Klouzovy",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "O pohár starosty obce Vepříkov",
+      "status": "completed",
+      "date": "24. 06. 2000 13:00",
+      "location": "Vepříkov, HB",
+      "id": "698",
+      "startingList": {
+        "categories": []
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár obce Klouzovy",
+      "status": "completed",
+      "date": "10. 06. 2000 13:00",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "secondTargetTime": "-",
+                "position": 1,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá",
+                "finalTime": "21,64"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 2,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Podmoklany",
+                "finalTime": "22,88"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 3,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Klouzovy",
+                "finalTime": "24,97"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 4,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Květinov",
+                "finalTime": "25,51"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 5,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Vepříkov",
+                "finalTime": "25,64"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 6,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "29,43"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 7,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Počátky",
+                "finalTime": "31,58"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 8,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Sloupno",
+                "finalTime": "34,96"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 9,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry",
+                "finalTime": "34,97"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 10,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Bačkov",
+                "finalTime": "40,53"
+              },
+              {
+                "secondTargetTime": "-",
+                "position": 11,
+                "firstTargetTime": "-",
+                "district": "Havlíčkův Brod",
+                "teamName": "Smilov",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          }
+        ]
+      },
+      "location": "Klouzovy, HB",
+      "url": "vysledek-klouzovy-2000-06-10-697.html",
+      "id": "697",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Česká Bělá",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "finalTime": "25,60"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Podmoklany",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "finalTime": "26,76"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Květinov",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "finalTime": "28,39"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Vepříkov",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "finalTime": "29,15"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "finalTime": "29,20"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Klouzovy",
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "finalTime": "30,06"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Sloupno",
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "finalTime": "30,56"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Bačkov",
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "finalTime": "35,78"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "finalTime": "36,99"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Počátky",
+                "district": "Havlíčkův Brod",
+                "position": 10,
+                "finalTime": "46,14"
+              },
+              {
+                "firstTargetTime": "-",
+                "secondTargetTime": "-",
+                "teamName": "Smilov",
+                "district": "Havlíčkův Brod",
+                "position": 11,
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "696",
+      "location": "Sloupno, HB",
+      "startingList": {
+        "categories": []
+      },
+      "url": "vysledek-sloupno-2000-05-27-696.html",
+      "status": "completed",
+      "title": "O pohár starosty obce Sloupno",
+      "date": "27. 05. 2000 13:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    }
+  ]
+}

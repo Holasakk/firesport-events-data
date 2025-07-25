@@ -1,0 +1,3882 @@
+{
+  "year": 2022,
+  "events": [
+    {
+      "date": "24. 09. 2022 10:00",
+      "startingList": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "district": "HB",
+                "teamName": "Habry",
+                "startPosition": 2
+              },
+              {
+                "district": "HB",
+                "teamName": "Žižkovo Pole  B",
+                "startPosition": 3
+              },
+              {
+                "district": "HB",
+                "teamName": "Pohled",
+                "startPosition": 4
+              },
+              {
+                "district": "HB",
+                "teamName": "Kynice",
+                "startPosition": 5
+              },
+              {
+                "district": "HB",
+                "teamName": "Golčův Jeníkov",
+                "startPosition": 6
+              },
+              {
+                "district": "JI",
+                "teamName": "Milíčov",
+                "startPosition": 7
+              },
+              {
+                "district": "HB",
+                "teamName": "Žižkovo Pole  Divadlo",
+                "startPosition": 8
+              },
+              {
+                "district": "HB",
+                "teamName": "Petrovice",
+                "startPosition": 9
+              },
+              {
+                "district": "HB",
+                "teamName": "Lučice",
+                "startPosition": 10
+              },
+              {
+                "district": "HB",
+                "teamName": "Světlá nad Sázavou  B",
+                "startPosition": 11
+              },
+              {
+                "district": "HB",
+                "teamName": "Nová Ves u Světlé",
+                "startPosition": 12
+              },
+              {
+                "district": "HB",
+                "teamName": "Malčín",
+                "startPosition": 13
+              },
+              {
+                "district": "JI",
+                "teamName": "Boršov",
+                "startPosition": 14
+              },
+              {
+                "district": "HB",
+                "teamName": "Kámen",
+                "startPosition": 15
+              },
+              {
+                "district": "HB",
+                "teamName": "Golčův Jeníkov  veteráni",
+                "startPosition": 16
+              },
+              {
+                "district": "PA",
+                "teamName": "Srch",
+                "startPosition": 17
+              },
+              {
+                "district": "CR",
+                "teamName": "Seč",
+                "startPosition": 19
+              },
+              {
+                "district": "HB",
+                "teamName": "Žižkovo Pole  C",
+                "startPosition": 20
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "teamName": "Herálec",
+                "district": "HB",
+                "startPosition": 2
+              },
+              {
+                "teamName": "Kámen",
+                "district": "HB",
+                "startPosition": 3
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB",
+                "startPosition": 4
+              },
+              {
+                "teamName": "Pohled",
+                "district": "HB",
+                "startPosition": 5
+              },
+              {
+                "teamName": "Česká Bělá",
+                "district": "HB",
+                "startPosition": 6
+              },
+              {
+                "teamName": "Malčín",
+                "district": "HB",
+                "startPosition": 7
+              },
+              {
+                "teamName": "Kejžlice",
+                "district": "PE",
+                "startPosition": 8
+              },
+              {
+                "teamName": "Česká Bělá  ml.",
+                "district": "HB",
+                "startPosition": 9
+              },
+              {
+                "teamName": "Lučice",
+                "district": "HB",
+                "startPosition": 10
+              },
+              {
+                "teamName": "Boršov  B",
+                "district": "JI",
+                "startPosition": 11
+              },
+              {
+                "teamName": "Stéblová",
+                "district": "PA",
+                "startPosition": 12
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "location": "Česká Bělá",
+      "title": "Česká Bělá",
+      "status": "completed",
+      "url": "vysledek-ceska-bela-12618.html",
+      "id": "12618",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "firstTargetTime": "18,41",
+                "secondTargetTime": "18,08",
+                "position": 1,
+                "teamName": "Srch",
+                "district": "Pardubice",
+                "finalTime": "18,41"
+              },
+              {
+                "firstTargetTime": "18,32",
+                "secondTargetTime": "18,73",
+                "position": 2,
+                "teamName": "Petrovice",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,73"
+              },
+              {
+                "firstTargetTime": "17,43",
+                "secondTargetTime": "18,77",
+                "position": 3,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,77"
+              },
+              {
+                "firstTargetTime": "18,82",
+                "secondTargetTime": "18,49",
+                "position": 4,
+                "teamName": "Milíčov",
+                "district": "Jihlava",
+                "finalTime": "18,82"
+              },
+              {
+                "firstTargetTime": "18,88",
+                "secondTargetTime": "18,38",
+                "position": 5,
+                "teamName": " Žižkovo Pole Divadlo",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,88"
+              },
+              {
+                "firstTargetTime": "19,63",
+                "secondTargetTime": "18,29",
+                "position": 6,
+                "teamName": "Seč",
+                "district": "Chrudim",
+                "finalTime": "19,63"
+              },
+              {
+                "firstTargetTime": "18,91",
+                "secondTargetTime": "20,01",
+                "position": 7,
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "finalTime": "20,01"
+              },
+              {
+                "firstTargetTime": "19,30",
+                "secondTargetTime": "20,09",
+                "position": 8,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,09"
+              },
+              {
+                "firstTargetTime": "20,81",
+                "secondTargetTime": "19,37",
+                "position": 9,
+                "teamName": " Žižkovo Pole B",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,81"
+              },
+              {
+                "firstTargetTime": "22,03",
+                "secondTargetTime": "19,89",
+                "position": 10,
+                "teamName": "Kynice",
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,03"
+              },
+              {
+                "firstTargetTime": "22,40",
+                "secondTargetTime": "18,77",
+                "position": 11,
+                "teamName": " Světlá nad Sázavou B",
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,40"
+              },
+              {
+                "firstTargetTime": "20,63",
+                "secondTargetTime": "23,88",
+                "position": 12,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,88"
+              },
+              {
+                "firstTargetTime": "21,41",
+                "secondTargetTime": "24,19",
+                "position": 13,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "finalTime": "24,19"
+              },
+              {
+                "firstTargetTime": "28,50",
+                "secondTargetTime": "28,79",
+                "position": 14,
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "finalTime": "28,79"
+              },
+              {
+                "firstTargetTime": "33,04",
+                "secondTargetTime": "19,21",
+                "position": 15,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,04"
+              },
+              {
+                "firstTargetTime": "24,47",
+                "secondTargetTime": "23,50",
+                "position": 16,
+                "teamName": " Golčův Jeníkov veteráni",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "NP",
+                "secondTargetTime": "NP",
+                "position": 16,
+                "teamName": "Golčův Jeníkov",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "NP",
+                "secondTargetTime": "NP",
+                "position": 16,
+                "teamName": " Žižkovo Pole C",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "teamName": "Česká Bělá",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "firstTargetTime": "16,94",
+                "secondTargetTime": "16,57",
+                "finalTime": "16,94"
+              },
+              {
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "firstTargetTime": "18,19",
+                "secondTargetTime": "17,37",
+                "finalTime": "18,19"
+              },
+              {
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "firstTargetTime": "18,75",
+                "secondTargetTime": "19,06",
+                "finalTime": "19,06"
+              },
+              {
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "firstTargetTime": "18,04",
+                "secondTargetTime": "19,50",
+                "finalTime": "19,50"
+              },
+              {
+                "teamName": "Kejžlice",
+                "district": "Pelhřimov",
+                "position": 5,
+                "firstTargetTime": "20,82",
+                "secondTargetTime": "20,32",
+                "finalTime": "20,82"
+              },
+              {
+                "teamName": " Boršov B",
+                "district": "Jihlava",
+                "position": 6,
+                "firstTargetTime": "19,67",
+                "secondTargetTime": "21,32",
+                "finalTime": "21,32"
+              },
+              {
+                "teamName": "Stéblová",
+                "district": "Pardubice",
+                "position": 7,
+                "firstTargetTime": "22,19",
+                "secondTargetTime": "22,29",
+                "finalTime": "22,29"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "firstTargetTime": "17,49",
+                "secondTargetTime": "22,55",
+                "finalTime": "22,55"
+              },
+              {
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "firstTargetTime": "22,88",
+                "secondTargetTime": "23,66",
+                "finalTime": "23,66"
+              },
+              {
+                "teamName": " Česká Bělá ml",
+                "district": "Havlíčkův Brod",
+                "position": 10,
+                "firstTargetTime": "28,35",
+                "secondTargetTime": "28,01",
+                "finalTime": "28,35"
+              },
+              {
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "position": 11,
+                "firstTargetTime": "42,60",
+                "secondTargetTime": "42,49",
+                "finalTime": "42,60"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,18",
+                "position": 1,
+                "secondTargetTime": "19,77",
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "19,77"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,58",
+                "position": 2,
+                "secondTargetTime": "18,58",
+                "teamName": "Herálec A",
+                "finalTime": "20,58"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "22,12",
+                "position": 3,
+                "secondTargetTime": "21,80",
+                "teamName": "Česká Bělá",
+                "finalTime": "22,12"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,56",
+                "position": 4,
+                "secondTargetTime": "23,56",
+                "teamName": "Lučice",
+                "finalTime": "23,56"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "35,04",
+                "position": 5,
+                "secondTargetTime": "34,24",
+                "teamName": "Malčín",
+                "finalTime": "35,04"
+              },
+              {
+                "district": "Jihlava",
+                "firstTargetTime": "NP",
+                "position": 6,
+                "secondTargetTime": "NP",
+                "teamName": "Boršov",
+                "finalTime": "NP"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "NP",
+                "position": 6,
+                "secondTargetTime": "29,18",
+                "teamName": "Pohled",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Srch",
+      "status": "completed",
+      "id": "12617",
+      "startingList": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "district": "PA",
+                "teamName": "Srch",
+                "startPosition": 1
+              },
+              {
+                "district": "HB",
+                "teamName": "Habry",
+                "startPosition": 2
+              },
+              {
+                "district": "HB",
+                "teamName": "Žižkovo Pole  B",
+                "startPosition": 3
+              },
+              {
+                "district": "HB",
+                "teamName": "Pohled",
+                "startPosition": 4
+              },
+              {
+                "district": "HB",
+                "teamName": "Kynice",
+                "startPosition": 5
+              },
+              {
+                "district": "HB",
+                "teamName": "Olešná",
+                "startPosition": 6
+              },
+              {
+                "district": "HB",
+                "teamName": "Nová Ves u Světlé",
+                "startPosition": 7
+              },
+              {
+                "district": "HB",
+                "teamName": "Světlá nad Sázavou  B",
+                "startPosition": 8
+              },
+              {
+                "district": "JI",
+                "teamName": "Milíčov",
+                "startPosition": 9
+              },
+              {
+                "district": "HB",
+                "teamName": "Kámen",
+                "startPosition": 10
+              },
+              {
+                "district": "HB",
+                "teamName": "Lučice",
+                "startPosition": 11
+              },
+              {
+                "district": "HB",
+                "teamName": "Petrovice",
+                "startPosition": 12
+              },
+              {
+                "district": "HB",
+                "teamName": "Žižkovo Pole  Divadlo",
+                "startPosition": 13
+              },
+              {
+                "district": "CR",
+                "teamName": "Seč",
+                "startPosition": 14
+              },
+              {
+                "district": "HB",
+                "teamName": "Malčín",
+                "startPosition": 15
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "teamName": "Stéblová",
+                "district": "PA",
+                "startPosition": 1
+              },
+              {
+                "teamName": "Herálec",
+                "district": "HB",
+                "startPosition": 2
+              },
+              {
+                "teamName": "Kámen",
+                "district": "HB",
+                "startPosition": 3
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB",
+                "startPosition": 4
+              },
+              {
+                "teamName": "Pohled",
+                "district": "HB",
+                "startPosition": 5
+              },
+              {
+                "teamName": "Česká Bělá",
+                "district": "HB",
+                "startPosition": 6
+              },
+              {
+                "teamName": "Malčín",
+                "district": "HB",
+                "startPosition": 7
+              },
+              {
+                "teamName": "Lučice",
+                "district": "HB",
+                "startPosition": 8
+              },
+              {
+                "teamName": "Česká Bělá  ml.",
+                "district": "HB",
+                "startPosition": 10
+              }
+            ]
+          }
+        ]
+      },
+      "date": "17. 09. 2022 10:00",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "teamName": "Seč",
+                "position": 1,
+                "district": "Chrudim",
+                "firstTargetTime": "17,34",
+                "secondTargetTime": "17,07",
+                "finalTime": "17,34"
+              },
+              {
+                "teamName": " Žižkovo Pole B",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,68",
+                "secondTargetTime": "16,97",
+                "finalTime": "17,68"
+              },
+              {
+                "teamName": "Lučice",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,34",
+                "secondTargetTime": "18,02",
+                "finalTime": "18,34"
+              },
+              {
+                "teamName": "Petrovice",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,01",
+                "secondTargetTime": "18,64",
+                "finalTime": "18,64"
+              },
+              {
+                "teamName": "Milíčov",
+                "position": 5,
+                "district": "Jihlava",
+                "firstTargetTime": "18,74",
+                "secondTargetTime": "17,47",
+                "finalTime": "18,74"
+              },
+              {
+                "teamName": "Olešná",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,05",
+                "secondTargetTime": "17,80",
+                "finalTime": "19,05"
+              },
+              {
+                "teamName": "Srch",
+                "position": 7,
+                "district": "Pardubice",
+                "firstTargetTime": "19,21",
+                "secondTargetTime": "17,95",
+                "finalTime": "19,21"
+              },
+              {
+                "teamName": "Kámen",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,01",
+                "secondTargetTime": "18,67",
+                "finalTime": "20,01"
+              },
+              {
+                "teamName": " Světlá nad Sázavou B",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,06",
+                "secondTargetTime": "19,58",
+                "finalTime": "20,06"
+              },
+              {
+                "teamName": "Malčín",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,22",
+                "secondTargetTime": "20,07",
+                "finalTime": "20,22"
+              },
+              {
+                "teamName": " Žižkovo Pole Divadlo",
+                "position": 11,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "22,94",
+                "secondTargetTime": "22,74",
+                "finalTime": "22,94"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "position": 12,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "24,47",
+                "secondTargetTime": "19,88",
+                "finalTime": "24,47"
+              },
+              {
+                "teamName": "Pohled",
+                "position": 13,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "24,80",
+                "secondTargetTime": "17,81",
+                "finalTime": "24,80"
+              },
+              {
+                "teamName": "Kynice",
+                "position": 14,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "29,40",
+                "secondTargetTime": "29,54",
+                "finalTime": "29,54"
+              },
+              {
+                "teamName": "Habry",
+                "position": 15,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "30,65",
+                "secondTargetTime": "30,70",
+                "finalTime": "30,70"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "teamName": "Česká Bělá",
+                "position": 1,
+                "firstTargetTime": "18,15",
+                "secondTargetTime": "17,41",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,15"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "position": 2,
+                "firstTargetTime": "18,66",
+                "secondTargetTime": "19,32",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,32"
+              },
+              {
+                "teamName": "Pohled",
+                "position": 3,
+                "firstTargetTime": "19,72",
+                "secondTargetTime": "18,31",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,72"
+              },
+              {
+                "teamName": "Kámen",
+                "position": 4,
+                "firstTargetTime": "19,42",
+                "secondTargetTime": "19,77",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,77"
+              },
+              {
+                "teamName": "Herálec",
+                "position": 5,
+                "firstTargetTime": "20,92",
+                "secondTargetTime": "19,39",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,92"
+              },
+              {
+                "teamName": "Stéblová",
+                "position": 6,
+                "firstTargetTime": "29,48",
+                "secondTargetTime": "30,41",
+                "district": "Pardubice",
+                "finalTime": "30,41"
+              },
+              {
+                "teamName": "Lučice",
+                "position": 7,
+                "firstTargetTime": "20,91",
+                "secondTargetTime": "51,43",
+                "district": "Havlíčkův Brod",
+                "finalTime": "51,43"
+              },
+              {
+                "teamName": " Česká Bělá ml",
+                "position": 8,
+                "firstTargetTime": "NP",
+                "secondTargetTime": "NP",
+                "district": "Havlíčkův Brod",
+                "finalTime": "NP"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "firstTargetTime": "21,62",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "21,52",
+                "position": 1,
+                "teamName": "Lučice",
+                "finalTime": "21,62"
+              },
+              {
+                "firstTargetTime": "23,10",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "23,82",
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "23,82"
+              },
+              {
+                "firstTargetTime": "23,82",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "22,05",
+                "position": 2,
+                "teamName": "Malčín",
+                "finalTime": "23,82"
+              },
+              {
+                "firstTargetTime": "24,35",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "24,47",
+                "position": 4,
+                "teamName": "Česká Bělá",
+                "finalTime": "24,47"
+              },
+              {
+                "firstTargetTime": "NP",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "NP",
+                "position": 5,
+                "teamName": "Herálec A",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "19,91",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "23,62",
+                "position": 6,
+                "teamName": "Habry",
+                "finalTime": "MS"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "vysledek-srch-12617.html",
+      "title": "Srch _",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "startingList": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Srch",
+                "district": "PA"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Seč",
+                "district": "CR"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Žižkovo Pole  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Kynice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Golčův Jeníkov",
+                "district": "HB"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Světlá nad Sázavou  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Petrovice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Milíčov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 11,
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB"
+              },
+              {
+                "startPosition": 12,
+                "teamName": "Olešná",
+                "district": "HB"
+              },
+              {
+                "startPosition": 13,
+                "teamName": "Žižkovo Pole  Divadlo",
+                "district": "HB"
+              },
+              {
+                "startPosition": 14,
+                "teamName": "Malčín",
+                "district": "HB"
+              },
+              {
+                "startPosition": 15,
+                "teamName": "Boršov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 16,
+                "teamName": "Lučice",
+                "district": "HB"
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Malčín",
+                "district": "HB"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Herálec",
+                "district": "HB"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Česká Bělá",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Boršov  B",
+                "district": "JI"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Stéblová",
+                "district": "PA"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Lučice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Česká Bělá  ml.",
+                "district": "HB"
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "url": "vysledek-heralec-12616.html",
+      "id": "12616",
+      "location": "Herálec",
+      "date": "10. 09. 2022 10:00",
+      "status": "completed",
+      "title": "Herálec",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": " Žižkovo Pole B",
+                "secondTargetTime": "17,27",
+                "firstTargetTime": "17,02",
+                "finalTime": "17,27"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Pohled",
+                "secondTargetTime": "17,19",
+                "firstTargetTime": "17,40",
+                "finalTime": "17,40"
+              },
+              {
+                "district": "Jihlava",
+                "position": 3,
+                "teamName": "Milíčov",
+                "secondTargetTime": "17,24",
+                "firstTargetTime": "17,45",
+                "finalTime": "17,45"
+              },
+              {
+                "district": "Chrudim",
+                "position": 4,
+                "teamName": "Seč",
+                "secondTargetTime": "17,27",
+                "firstTargetTime": "17,48",
+                "finalTime": "17,48"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": " Žižkovo Pole Divadlo",
+                "secondTargetTime": "18,25",
+                "firstTargetTime": "17,71",
+                "finalTime": "18,25"
+              },
+              {
+                "district": "Pardubice",
+                "position": 6,
+                "teamName": "Srch",
+                "secondTargetTime": "18,43",
+                "firstTargetTime": "17,29",
+                "finalTime": "18,43"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "teamName": "Lučice",
+                "secondTargetTime": "17,87",
+                "firstTargetTime": "18,85",
+                "finalTime": "18,85"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "teamName": "Kámen",
+                "secondTargetTime": "17,55",
+                "firstTargetTime": "19,04",
+                "finalTime": "19,04"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "teamName": "Petrovice",
+                "secondTargetTime": "19,23",
+                "firstTargetTime": "18,73",
+                "finalTime": "19,23"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 10,
+                "teamName": " Světlá nad Sázavou B",
+                "secondTargetTime": "19,49",
+                "firstTargetTime": "18,22",
+                "finalTime": "19,49"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 11,
+                "teamName": "Kynice",
+                "secondTargetTime": "20,44",
+                "firstTargetTime": "20,23",
+                "finalTime": "20,44"
+              },
+              {
+                "district": "Jihlava",
+                "position": 12,
+                "teamName": "Boršov",
+                "secondTargetTime": "20,49",
+                "firstTargetTime": "19,47",
+                "finalTime": "20,49"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 13,
+                "teamName": "Golčův Jeníkov",
+                "secondTargetTime": "20,57",
+                "firstTargetTime": "18,80",
+                "finalTime": "20,57"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 14,
+                "teamName": "Malčín",
+                "secondTargetTime": "21,31",
+                "firstTargetTime": "20,71",
+                "finalTime": "21,31"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 15,
+                "teamName": "Nová Ves u Světlé",
+                "secondTargetTime": "22,45",
+                "firstTargetTime": "21,33",
+                "finalTime": "22,45"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 16,
+                "teamName": "Olešná",
+                "secondTargetTime": "NP",
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "teamName": "Pohled",
+                "firstTargetTime": "16,79",
+                "secondTargetTime": "17,10",
+                "finalTime": "17,10"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "teamName": "Česká Bělá",
+                "firstTargetTime": "16,97",
+                "secondTargetTime": "17,44",
+                "finalTime": "17,44"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "teamName": " Česká Bělá ml",
+                "firstTargetTime": "18,20",
+                "secondTargetTime": "18,41",
+                "finalTime": "18,41"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "teamName": "Kámen",
+                "firstTargetTime": "18,27",
+                "secondTargetTime": "18,77",
+                "finalTime": "18,77"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "teamName": "Herálec",
+                "firstTargetTime": "19,83",
+                "secondTargetTime": "18,85",
+                "finalTime": "19,83"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "19,56",
+                "secondTargetTime": "20,09",
+                "finalTime": "20,09"
+              },
+              {
+                "district": "Pardubice",
+                "position": 7,
+                "teamName": "Stéblová",
+                "firstTargetTime": "20,65",
+                "secondTargetTime": "19,67",
+                "finalTime": "20,65"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "teamName": "Lučice",
+                "firstTargetTime": "26,19",
+                "secondTargetTime": "25,98",
+                "finalTime": "26,19"
+              },
+              {
+                "district": "Pelhřimov",
+                "position": 9,
+                "teamName": "Kejžlice",
+                "firstTargetTime": "27,40",
+                "secondTargetTime": "28,05",
+                "finalTime": "28,05"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 10,
+                "teamName": "Malčín",
+                "firstTargetTime": "31,41",
+                "secondTargetTime": "31,20",
+                "finalTime": "31,41"
+              },
+              {
+                "district": "Jihlava",
+                "position": 11,
+                "teamName": " Boršov B",
+                "firstTargetTime": "NP",
+                "secondTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Ženy"
+          },
+          {
+            "teams": [
+              {
+                "firstTargetTime": "18,70",
+                "secondTargetTime": "18,95",
+                "position": 1,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,95"
+              },
+              {
+                "firstTargetTime": "18,38",
+                "secondTargetTime": "20,87",
+                "position": 2,
+                "teamName": "Česká Bělá",
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,87"
+              },
+              {
+                "firstTargetTime": "23,07",
+                "secondTargetTime": "22,86",
+                "position": 3,
+                "teamName": "Herálec A",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,07"
+              },
+              {
+                "firstTargetTime": "23,99",
+                "secondTargetTime": "19,74",
+                "position": 4,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "finalTime": "23,99"
+              },
+              {
+                "firstTargetTime": "24,96",
+                "secondTargetTime": "25,65",
+                "position": 5,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,65"
+              },
+              {
+                "firstTargetTime": "26,04",
+                "secondTargetTime": "25,83",
+                "position": 6,
+                "teamName": "Stéblová",
+                "district": "Pardubice",
+                "finalTime": "26,04"
+              },
+              {
+                "firstTargetTime": "33,04",
+                "secondTargetTime": "31,47",
+                "position": 7,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "finalTime": "33,04"
+              }
+            ],
+            "category": "Smíšený dorost"
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "Smilov",
+      "date": "20. 08. 2022 10:00",
+      "location": "Smilov",
+      "id": "12615",
+      "startingList": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "teamName": "Smilov",
+                "district": "HB",
+                "startPosition": 1
+              },
+              {
+                "teamName": "Seč",
+                "district": "CR",
+                "startPosition": 2
+              },
+              {
+                "teamName": "Žižkovo Pole  B",
+                "district": "HB",
+                "startPosition": 3
+              },
+              {
+                "teamName": "Pohled",
+                "district": "HB",
+                "startPosition": 4
+              },
+              {
+                "teamName": "Kynice",
+                "district": "HB",
+                "startPosition": 5
+              },
+              {
+                "teamName": "Kámen",
+                "district": "HB",
+                "startPosition": 6
+              },
+              {
+                "teamName": "Milíčov",
+                "district": "JI",
+                "startPosition": 7
+              },
+              {
+                "teamName": "Lučice",
+                "district": "HB",
+                "startPosition": 8
+              },
+              {
+                "teamName": "Petrovice",
+                "district": "HB",
+                "startPosition": 9
+              },
+              {
+                "teamName": "Světlá nad Sázavou  B",
+                "district": "HB",
+                "startPosition": 10
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB",
+                "startPosition": 11
+              },
+              {
+                "teamName": "Malčín",
+                "district": "HB",
+                "startPosition": 12
+              },
+              {
+                "teamName": "Žižkovo Pole  Divadlo",
+                "district": "HB",
+                "startPosition": 13
+              },
+              {
+                "teamName": "Golčův Jeníkov",
+                "district": "HB",
+                "startPosition": 14
+              },
+              {
+                "teamName": "Boršov",
+                "district": "JI",
+                "startPosition": 15
+              },
+              {
+                "teamName": "Stéblová",
+                "district": "PA",
+                "startPosition": 16
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "teamName": "Malčín",
+                "district": "HB",
+                "startPosition": 1
+              },
+              {
+                "teamName": "Česká Bělá  ml.",
+                "district": "HB",
+                "startPosition": 2
+              },
+              {
+                "teamName": "Kámen",
+                "district": "HB",
+                "startPosition": 3
+              },
+              {
+                "teamName": "Herálec",
+                "district": "HB",
+                "startPosition": 4
+              },
+              {
+                "teamName": "Pohled",
+                "district": "HB",
+                "startPosition": 5
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB",
+                "startPosition": 6
+              },
+              {
+                "teamName": "Kejžlice",
+                "district": "PE",
+                "startPosition": 7
+              },
+              {
+                "teamName": "Stéblová",
+                "district": "PA",
+                "startPosition": 8
+              },
+              {
+                "teamName": "Boršov  B",
+                "district": "JI",
+                "startPosition": 9
+              },
+              {
+                "teamName": "Česká Bělá",
+                "district": "HB",
+                "startPosition": 10
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "url": "vysledek-smilov-12615.html",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "17,21",
+                "teamName": " Žižkovo Pole Divadlo",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,20",
+                "finalTime": "17,21"
+              },
+              {
+                "secondTargetTime": "16,96",
+                "teamName": "Milíčov",
+                "position": 2,
+                "district": "Jihlava",
+                "firstTargetTime": "17,22",
+                "finalTime": "17,22"
+              },
+              {
+                "secondTargetTime": "17,44",
+                "teamName": " Žižkovo Pole B",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,25",
+                "finalTime": "17,44"
+              },
+              {
+                "secondTargetTime": "18,11",
+                "teamName": "Petrovice",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,83",
+                "finalTime": "18,11"
+              },
+              {
+                "secondTargetTime": "18,31",
+                "teamName": "Pohled",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,77",
+                "finalTime": "18,31"
+              },
+              {
+                "secondTargetTime": "17,17",
+                "teamName": "Seč",
+                "position": 6,
+                "district": "Chrudim",
+                "firstTargetTime": "18,32",
+                "finalTime": "18,32"
+              },
+              {
+                "secondTargetTime": "18,34",
+                "teamName": "Kynice",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,32",
+                "finalTime": "18,34"
+              },
+              {
+                "secondTargetTime": "17,99",
+                "teamName": " Světlá nad Sázavou B",
+                "position": 8,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,10",
+                "finalTime": "19,10"
+              },
+              {
+                "secondTargetTime": "18,68",
+                "teamName": "Lučice",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,11",
+                "finalTime": "19,11"
+              },
+              {
+                "secondTargetTime": "19,83",
+                "teamName": "Kámen",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,24",
+                "finalTime": "19,83"
+              },
+              {
+                "secondTargetTime": "19,53",
+                "teamName": "Srch",
+                "position": 11,
+                "district": "Pardubice",
+                "firstTargetTime": "19,93",
+                "finalTime": "19,93"
+              },
+              {
+                "secondTargetTime": "18,84",
+                "teamName": "Boršov",
+                "position": 12,
+                "district": "Jihlava",
+                "firstTargetTime": "21,02",
+                "finalTime": "21,02"
+              },
+              {
+                "secondTargetTime": "21,13",
+                "teamName": "Nová Ves u Světlé",
+                "position": 13,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,42",
+                "finalTime": "21,13"
+              },
+              {
+                "secondTargetTime": "22,58",
+                "teamName": "Golčův Jeníkov",
+                "position": 14,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "21,91",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "23,09",
+                "teamName": "Smilov",
+                "position": 15,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "23,56",
+                "finalTime": "23,56"
+              },
+              {
+                "secondTargetTime": "38,01",
+                "teamName": "Malčín",
+                "position": 16,
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "35,09",
+                "finalTime": "38,01"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "firstTargetTime": "17,29",
+                "secondTargetTime": "17,25",
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá",
+                "position": 1,
+                "finalTime": "17,29"
+              },
+              {
+                "firstTargetTime": "17,45",
+                "secondTargetTime": "16,94",
+                "district": "Havlíčkův Brod",
+                "teamName": " Česká Bělá ml",
+                "position": 2,
+                "finalTime": "17,45"
+              },
+              {
+                "firstTargetTime": "17,75",
+                "secondTargetTime": "17,22",
+                "district": "Havlíčkův Brod",
+                "teamName": "Pohled",
+                "position": 3,
+                "finalTime": "17,75"
+              },
+              {
+                "firstTargetTime": "17,85",
+                "secondTargetTime": "17,91",
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "position": 4,
+                "finalTime": "17,91"
+              },
+              {
+                "firstTargetTime": "19,26",
+                "secondTargetTime": "17,81",
+                "district": "Havlíčkův Brod",
+                "teamName": "Lučice",
+                "position": 5,
+                "finalTime": "19,26"
+              },
+              {
+                "firstTargetTime": "19,22",
+                "secondTargetTime": "19,28",
+                "district": "Havlíčkův Brod",
+                "teamName": "Herálec",
+                "position": 6,
+                "finalTime": "19,28"
+              },
+              {
+                "firstTargetTime": "20,01",
+                "secondTargetTime": "18,95",
+                "district": "Pardubice",
+                "teamName": "Stéblová",
+                "position": 7,
+                "finalTime": "20,01"
+              },
+              {
+                "firstTargetTime": "20,09",
+                "secondTargetTime": "20,85",
+                "district": "Havlíčkův Brod",
+                "teamName": "Kámen",
+                "position": 8,
+                "finalTime": "20,85"
+              },
+              {
+                "firstTargetTime": "36,21",
+                "secondTargetTime": "36,23",
+                "district": "Jihlava",
+                "teamName": " Boršov B",
+                "position": 9,
+                "finalTime": "36,23"
+              },
+              {
+                "firstTargetTime": "25,32",
+                "secondTargetTime": "47,51",
+                "district": "Havlíčkův Brod",
+                "teamName": "Malčín",
+                "position": 10,
+                "finalTime": "47,51"
+              },
+              {
+                "firstTargetTime": "22,20",
+                "secondTargetTime": "55,36",
+                "district": "Pelhřimov",
+                "teamName": "Kejžlice",
+                "position": 11,
+                "finalTime": "55,36"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "firstTargetTime": "17,78",
+                "position": 1,
+                "teamName": "Herálec A",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,86",
+                "finalTime": "18,86"
+              },
+              {
+                "firstTargetTime": "19,32",
+                "position": 2,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,27",
+                "finalTime": "20,27"
+              },
+              {
+                "firstTargetTime": "20,90",
+                "position": 3,
+                "teamName": "Stéblová",
+                "district": "Pardubice",
+                "secondTargetTime": "19,66",
+                "finalTime": "20,90"
+              },
+              {
+                "firstTargetTime": "21,46",
+                "position": 4,
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "secondTargetTime": "20,82",
+                "finalTime": "21,46"
+              },
+              {
+                "firstTargetTime": "21,49",
+                "position": 5,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,81",
+                "finalTime": "21,49"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "completed",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "Vepříkov",
+      "date": "13. 08. 2022 10:00",
+      "location": "Vepříkov",
+      "id": "12614",
+      "startingList": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Seč",
+                "district": "CR"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Petrovice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Žižkovo Pole  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Světlá nad Sázavou  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Golčův Jeníkov",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Lučice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Žižkovo Pole  Divadlo",
+                "district": "HB"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Kynice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Milíčov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 11,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 12,
+                "teamName": "Boršov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 13,
+                "teamName": "Malčín",
+                "district": "HB"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "district": "HB",
+                "startPosition": 1,
+                "teamName": "Pohled"
+              },
+              {
+                "district": "HB",
+                "startPosition": 2,
+                "teamName": "Olešná"
+              },
+              {
+                "district": "HB",
+                "startPosition": 3,
+                "teamName": "Kámen"
+              },
+              {
+                "district": "HB",
+                "startPosition": 4,
+                "teamName": "Česká Bělá"
+              },
+              {
+                "district": "HB",
+                "startPosition": 5,
+                "teamName": "Pohled"
+              },
+              {
+                "district": "HB",
+                "startPosition": 6,
+                "teamName": "Herálec"
+              },
+              {
+                "district": "HB",
+                "startPosition": 7,
+                "teamName": "Lučice"
+              },
+              {
+                "district": "PA",
+                "startPosition": 8,
+                "teamName": "Stéblová"
+              },
+              {
+                "district": "JI",
+                "startPosition": 9,
+                "teamName": "Boršov  B"
+              },
+              {
+                "district": "HB",
+                "startPosition": 10,
+                "teamName": "Česká Bělá  ml."
+              },
+              {
+                "district": "HB",
+                "startPosition": 11,
+                "teamName": "Malčín"
+              },
+              {
+                "district": "HB",
+                "startPosition": 15,
+                "teamName": "Nová Ves u Světlé"
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "url": "vysledek-veprikov-12614.html",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "secondTargetTime": "17,15",
+                "position": 1,
+                "teamName": "Petrovice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,10",
+                "finalTime": "17,15"
+              },
+              {
+                "secondTargetTime": "17,09",
+                "position": 2,
+                "teamName": "Seč",
+                "district": "Chrudim",
+                "firstTargetTime": "17,27",
+                "finalTime": "17,27"
+              },
+              {
+                "secondTargetTime": "17,31",
+                "position": 3,
+                "teamName": " Žižkovo Pole B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,61",
+                "finalTime": "17,61"
+              },
+              {
+                "secondTargetTime": "17,67",
+                "position": 4,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,19",
+                "finalTime": "17,67"
+              },
+              {
+                "secondTargetTime": "17,83",
+                "position": 5,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,52",
+                "finalTime": "17,83"
+              },
+              {
+                "secondTargetTime": "17,47",
+                "position": 6,
+                "teamName": "Milíčov",
+                "district": "Jihlava",
+                "firstTargetTime": "17,95",
+                "finalTime": "17,95"
+              },
+              {
+                "secondTargetTime": "18,69",
+                "position": 7,
+                "teamName": " Světlá nad Sázavou B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,04",
+                "finalTime": "18,69"
+              },
+              {
+                "secondTargetTime": "18,70",
+                "position": 8,
+                "teamName": " Žižkovo Pole Divadlo",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,90",
+                "finalTime": "18,70"
+              },
+              {
+                "secondTargetTime": "17,81",
+                "position": 8,
+                "teamName": "Srch",
+                "district": "Pardubice",
+                "firstTargetTime": "18,70",
+                "finalTime": "18,70"
+              },
+              {
+                "secondTargetTime": "19,05",
+                "position": 10,
+                "teamName": "Golčův Jeníkov",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,53",
+                "finalTime": "19,05"
+              },
+              {
+                "secondTargetTime": "19,56",
+                "position": 11,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,99",
+                "finalTime": "19,99"
+              },
+              {
+                "secondTargetTime": "20,17",
+                "position": 12,
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "firstTargetTime": "18,39",
+                "finalTime": "20,17"
+              },
+              {
+                "secondTargetTime": "21,02",
+                "position": 13,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "21,08",
+                "finalTime": "21,08"
+              },
+              {
+                "secondTargetTime": "NP",
+                "position": 14,
+                "teamName": "Kynice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "firstTargetTime": "16,63",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "16,40",
+                "teamName": "Olešná",
+                "position": 1,
+                "finalTime": "16,63"
+              },
+              {
+                "firstTargetTime": "17,62",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "16,70",
+                "teamName": "Česká Bělá",
+                "position": 2,
+                "finalTime": "17,62"
+              },
+              {
+                "firstTargetTime": "18,32",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,51",
+                "teamName": "Pohled",
+                "position": 3,
+                "finalTime": "18,51"
+              },
+              {
+                "firstTargetTime": "18,69",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "17,88",
+                "teamName": "Kámen",
+                "position": 4,
+                "finalTime": "18,69"
+              },
+              {
+                "firstTargetTime": "16,82",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,33",
+                "teamName": "Nová Ves u Světlé",
+                "position": 5,
+                "finalTime": "19,33"
+              },
+              {
+                "firstTargetTime": "19,51",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,66",
+                "teamName": " Česká Bělá ml",
+                "position": 6,
+                "finalTime": "19,51"
+              },
+              {
+                "firstTargetTime": "19,66",
+                "district": "Jihlava",
+                "secondTargetTime": "20,49",
+                "teamName": " Boršov B",
+                "position": 7,
+                "finalTime": "20,49"
+              },
+              {
+                "firstTargetTime": "21,07",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,15",
+                "teamName": "Lučice",
+                "position": 8,
+                "finalTime": "21,07"
+              },
+              {
+                "firstTargetTime": "21,46",
+                "district": "Pardubice",
+                "secondTargetTime": "20,91",
+                "teamName": "Stéblová",
+                "position": 9,
+                "finalTime": "21,46"
+              },
+              {
+                "firstTargetTime": "25,89",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "26,16",
+                "teamName": "Herálec",
+                "position": 10,
+                "finalTime": "26,16"
+              },
+              {
+                "firstTargetTime": "NP",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "NP",
+                "teamName": "Malčín",
+                "position": 11,
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Ženy"
+          },
+          {
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "secondTargetTime": "18,55",
+                "teamName": "Česká Bělá",
+                "firstTargetTime": "17,45",
+                "finalTime": "18,55"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "secondTargetTime": "18,37",
+                "teamName": "Herálec A",
+                "firstTargetTime": "18,93",
+                "finalTime": "18,93"
+              },
+              {
+                "district": "Pardubice",
+                "position": 3,
+                "secondTargetTime": "19,82",
+                "teamName": "Stéblová",
+                "firstTargetTime": "18,05",
+                "finalTime": "19,82"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "secondTargetTime": "19,25",
+                "teamName": "Malčín",
+                "firstTargetTime": "20,00",
+                "finalTime": "20,00"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "secondTargetTime": "21,70",
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "22,24",
+                "finalTime": "22,24"
+              },
+              {
+                "district": "Jihlava",
+                "position": 6,
+                "secondTargetTime": "32,62",
+                "teamName": "Boršov",
+                "firstTargetTime": "32,10",
+                "finalTime": "32,62"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "secondTargetTime": "NP",
+                "teamName": "Lučice",
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Smíšený dorost"
+          }
+        ]
+      },
+      "status": "completed",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "location": "Kámen",
+      "url": "vysledek-kamen-12613.html",
+      "date": "16. 07. 2022 10:00",
+      "title": "Kámen",
+      "id": "12613",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "17,22",
+                "teamName": " Žižkovo Pole Divadlo",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "firstTargetTime": "17,06",
+                "finalTime": "17,22"
+              },
+              {
+                "secondTargetTime": "17,14",
+                "teamName": " Žižkovo Pole B",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "firstTargetTime": "17,56",
+                "finalTime": "17,56"
+              },
+              {
+                "secondTargetTime": "17,72",
+                "teamName": "Srch",
+                "district": "Pardubice",
+                "position": 3,
+                "firstTargetTime": "17,34",
+                "finalTime": "17,72"
+              },
+              {
+                "secondTargetTime": "17,59",
+                "teamName": "Petrovice",
+                "district": "Havlíčkův Brod",
+                "position": 4,
+                "firstTargetTime": "17,85",
+                "finalTime": "17,85"
+              },
+              {
+                "secondTargetTime": "17,88",
+                "teamName": "Milíčov",
+                "district": "Jihlava",
+                "position": 5,
+                "firstTargetTime": "18,21",
+                "finalTime": "18,21"
+              },
+              {
+                "secondTargetTime": "18,10",
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "firstTargetTime": "18,38",
+                "finalTime": "18,38"
+              },
+              {
+                "secondTargetTime": "18,47",
+                "teamName": " Světlá nad Sázavou B",
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "firstTargetTime": "19,09",
+                "finalTime": "19,09"
+              },
+              {
+                "secondTargetTime": "19,63",
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "position": 8,
+                "firstTargetTime": "17,31",
+                "finalTime": "19,63"
+              },
+              {
+                "secondTargetTime": "20,92",
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "position": 9,
+                "firstTargetTime": "20,62",
+                "finalTime": "20,92"
+              },
+              {
+                "secondTargetTime": "21,53",
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "position": 10,
+                "firstTargetTime": "22,63",
+                "finalTime": "22,63"
+              },
+              {
+                "secondTargetTime": "17,47",
+                "teamName": "Kynice",
+                "district": "Havlíčkův Brod",
+                "position": 11,
+                "firstTargetTime": "24,69",
+                "finalTime": "24,69"
+              },
+              {
+                "secondTargetTime": "NP",
+                "teamName": "Habry",
+                "district": "Havlíčkův Brod",
+                "position": 12,
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "NP",
+                "teamName": "Seč",
+                "district": "Chrudim",
+                "position": 12,
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "NP",
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "position": 12,
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "NP",
+                "teamName": "Golčův Jeníkov",
+                "district": "Havlíčkův Brod",
+                "position": 12,
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              },
+              {
+                "secondTargetTime": "NP",
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "position": 12,
+                "firstTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "16,96",
+                "teamName": "Pohled",
+                "position": 1,
+                "secondTargetTime": "17,66",
+                "finalTime": "17,66"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,67",
+                "teamName": "Česká Bělá",
+                "position": 2,
+                "secondTargetTime": "17,68",
+                "finalTime": "17,68"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,69",
+                "teamName": "Nová Ves u Světlé",
+                "position": 3,
+                "secondTargetTime": "17,93",
+                "finalTime": "17,93"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,25",
+                "teamName": " Česká Bělá ml",
+                "position": 4,
+                "secondTargetTime": "18,41",
+                "finalTime": "18,41"
+              },
+              {
+                "district": "Pelhřimov",
+                "firstTargetTime": "19,27",
+                "teamName": "Kejžlice",
+                "position": 5,
+                "secondTargetTime": "19,39",
+                "finalTime": "19,39"
+              },
+              {
+                "district": "Pardubice",
+                "firstTargetTime": "19,95",
+                "teamName": "Stéblová",
+                "position": 6,
+                "secondTargetTime": "19,09",
+                "finalTime": "19,95"
+              },
+              {
+                "district": "Jihlava",
+                "firstTargetTime": "20,53",
+                "teamName": " Boršov B",
+                "position": 7,
+                "secondTargetTime": "20,54",
+                "finalTime": "20,54"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,77",
+                "teamName": "Herálec",
+                "position": 8,
+                "secondTargetTime": "20,28",
+                "finalTime": "20,77"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "21,53",
+                "teamName": "Lučice",
+                "position": 9,
+                "secondTargetTime": "20,88",
+                "finalTime": "21,53"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,76",
+                "teamName": "Kámen",
+                "position": 10,
+                "secondTargetTime": "22,57",
+                "finalTime": "22,57"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "24,35",
+                "teamName": "Malčín",
+                "position": 11,
+                "secondTargetTime": "18,59",
+                "finalTime": "24,35"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "18,17",
+                "district": "Havlíčkův Brod",
+                "position": 1,
+                "secondTargetTime": "18,81",
+                "finalTime": "18,81"
+              },
+              {
+                "teamName": "Malčín",
+                "firstTargetTime": "20,26",
+                "district": "Havlíčkův Brod",
+                "position": 2,
+                "secondTargetTime": "20,38",
+                "finalTime": "20,38"
+              },
+              {
+                "teamName": "Herálec B",
+                "firstTargetTime": "19,56",
+                "district": "Havlíčkův Brod",
+                "position": 3,
+                "secondTargetTime": "20,71",
+                "finalTime": "20,71"
+              },
+              {
+                "teamName": "Boršov",
+                "firstTargetTime": "20,64",
+                "district": "Jihlava",
+                "position": 4,
+                "secondTargetTime": "21,32",
+                "finalTime": "21,32"
+              },
+              {
+                "teamName": "Herálec A",
+                "firstTargetTime": "18,87",
+                "district": "Havlíčkův Brod",
+                "position": 5,
+                "secondTargetTime": "21,68",
+                "finalTime": "21,68"
+              },
+              {
+                "teamName": "Habry",
+                "firstTargetTime": "23,89",
+                "district": "Havlíčkův Brod",
+                "position": 6,
+                "secondTargetTime": "21,42",
+                "finalTime": "23,89"
+              },
+              {
+                "teamName": "Lučice",
+                "firstTargetTime": "28,44",
+                "district": "Havlíčkův Brod",
+                "position": 7,
+                "secondTargetTime": "25,80",
+                "finalTime": "28,44"
+              },
+              {
+                "teamName": "Stéblová",
+                "firstTargetTime": "NP",
+                "district": "Pardubice",
+                "position": 8,
+                "secondTargetTime": "NP",
+                "finalTime": "NP"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "completed",
+      "startingList": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "district": "HB",
+                "startPosition": 1,
+                "teamName": "Habry"
+              },
+              {
+                "district": "HB",
+                "startPosition": 2,
+                "teamName": "Žižkovo Pole  Divadlo"
+              },
+              {
+                "district": "HB",
+                "startPosition": 3,
+                "teamName": "Lučice"
+              },
+              {
+                "district": "HB",
+                "startPosition": 4,
+                "teamName": "Pohled"
+              },
+              {
+                "district": "CR",
+                "startPosition": 5,
+                "teamName": "Seč"
+              },
+              {
+                "district": "HB",
+                "startPosition": 6,
+                "teamName": "Žižkovo Pole  B"
+              },
+              {
+                "district": "HB",
+                "startPosition": 7,
+                "teamName": "Světlá nad Sázavou  B"
+              },
+              {
+                "district": "HB",
+                "startPosition": 8,
+                "teamName": "Nová Ves u Světlé"
+              },
+              {
+                "district": "HB",
+                "startPosition": 9,
+                "teamName": "Petrovice"
+              },
+              {
+                "district": "HB",
+                "startPosition": 10,
+                "teamName": "Kámen"
+              },
+              {
+                "district": "HB",
+                "startPosition": 11,
+                "teamName": "Kynice"
+              },
+              {
+                "district": "JI",
+                "startPosition": 12,
+                "teamName": "Milíčov"
+              },
+              {
+                "district": "HB",
+                "startPosition": 13,
+                "teamName": "Golčův Jeníkov"
+              },
+              {
+                "district": "JI",
+                "startPosition": 14,
+                "teamName": "Boršov"
+              },
+              {
+                "district": "PA",
+                "startPosition": 15,
+                "teamName": "Srch"
+              },
+              {
+                "district": "HB",
+                "startPosition": 16,
+                "teamName": "Malčín"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "teamName": "Pohled",
+                "startPosition": 2,
+                "district": "HB"
+              },
+              {
+                "teamName": "Kámen",
+                "startPosition": 3,
+                "district": "HB"
+              },
+              {
+                "teamName": "Česká Bělá",
+                "startPosition": 4,
+                "district": "HB"
+              },
+              {
+                "teamName": "Nová Ves u Světlé",
+                "startPosition": 5,
+                "district": "HB"
+              },
+              {
+                "teamName": "Herálec",
+                "startPosition": 6,
+                "district": "HB"
+              },
+              {
+                "teamName": "Kejžlice",
+                "startPosition": 7,
+                "district": "PE"
+              },
+              {
+                "teamName": "Lučice",
+                "startPosition": 8,
+                "district": "HB"
+              },
+              {
+                "teamName": "Stéblová",
+                "startPosition": 9,
+                "district": "PA"
+              },
+              {
+                "teamName": "Česká Bělá  ml.",
+                "startPosition": 10,
+                "district": "HB"
+              },
+              {
+                "teamName": "Boršov  B",
+                "startPosition": 11,
+                "district": "JI"
+              },
+              {
+                "teamName": "Malčín",
+                "startPosition": 12,
+                "district": "HB"
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "url": "vysledek-kynice-12612.html",
+      "location": "Kynice",
+      "id": "12612",
+      "results": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "firstTargetTime": "17,77",
+                "position": 1,
+                "district": "Chrudim",
+                "secondTargetTime": "17,39",
+                "teamName": "Seč",
+                "finalTime": "17,77"
+              },
+              {
+                "firstTargetTime": "18,14",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "17,97",
+                "teamName": "Pohled",
+                "finalTime": "18,14"
+              },
+              {
+                "firstTargetTime": "18,68",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "17,96",
+                "teamName": "Petrovice",
+                "finalTime": "18,68"
+              },
+              {
+                "firstTargetTime": "18,73",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "17,05",
+                "teamName": "Kynice",
+                "finalTime": "18,73"
+              },
+              {
+                "firstTargetTime": "17,56",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,84",
+                "teamName": "Kámen",
+                "finalTime": "18,84"
+              },
+              {
+                "firstTargetTime": "17,63",
+                "position": 6,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,19",
+                "teamName": " Žižkovo Pole B",
+                "finalTime": "19,19"
+              },
+              {
+                "firstTargetTime": "19,45",
+                "position": 7,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,32",
+                "teamName": "Lučice",
+                "finalTime": "19,45"
+              },
+              {
+                "firstTargetTime": "17,93",
+                "position": 8,
+                "district": "Pardubice",
+                "secondTargetTime": "19,91",
+                "teamName": "Srch",
+                "finalTime": "19,91"
+              },
+              {
+                "firstTargetTime": "21,66",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,53",
+                "teamName": " Světlá nad Sázavou B",
+                "finalTime": "21,66"
+              },
+              {
+                "firstTargetTime": "20,95",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "24,46",
+                "teamName": "Malčín",
+                "finalTime": "24,46"
+              },
+              {
+                "firstTargetTime": "26,86",
+                "position": 11,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "26,71",
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "26,86"
+              },
+              {
+                "firstTargetTime": "30,07",
+                "position": 12,
+                "district": "Jihlava",
+                "secondTargetTime": "26,15",
+                "teamName": "Boršov",
+                "finalTime": "30,07"
+              },
+              {
+                "firstTargetTime": "30,32",
+                "position": 13,
+                "district": "Jihlava",
+                "secondTargetTime": "30,99",
+                "teamName": "Milíčov",
+                "finalTime": "30,99"
+              },
+              {
+                "firstTargetTime": "NP",
+                "position": 14,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "NP",
+                "teamName": " Žižkovo Pole Divadlo",
+                "finalTime": "NP"
+              },
+              {
+                "firstTargetTime": "NP",
+                "position": 14,
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "NP",
+                "teamName": "Golčův Jeníkov",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "firstTargetTime": "18,98",
+                "secondTargetTime": "17,82",
+                "teamName": "Nová Ves u Světlé",
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,98"
+              },
+              {
+                "firstTargetTime": "19,70",
+                "secondTargetTime": "19,73",
+                "teamName": "Kámen",
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,73"
+              },
+              {
+                "firstTargetTime": "19,94",
+                "secondTargetTime": "18,16",
+                "teamName": "Česká Bělá",
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,94"
+              },
+              {
+                "firstTargetTime": "19,97",
+                "secondTargetTime": "18,27",
+                "teamName": "Lučice",
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,97"
+              },
+              {
+                "firstTargetTime": "20,00",
+                "secondTargetTime": "19,08",
+                "teamName": "Herálec",
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "finalTime": "20,00"
+              },
+              {
+                "firstTargetTime": "19,73",
+                "secondTargetTime": "20,09",
+                "teamName": "Stéblová",
+                "position": 6,
+                "district": "Pardubice",
+                "finalTime": "20,09"
+              },
+              {
+                "firstTargetTime": "20,54",
+                "secondTargetTime": "18,91",
+                "teamName": "Kejžlice",
+                "position": 7,
+                "district": "Pelhřimov",
+                "finalTime": "20,54"
+              },
+              {
+                "firstTargetTime": "20,48",
+                "secondTargetTime": "20,79",
+                "teamName": " Boršov B",
+                "position": 8,
+                "district": "Jihlava",
+                "finalTime": "20,79"
+              },
+              {
+                "firstTargetTime": "21,89",
+                "secondTargetTime": "22,07",
+                "teamName": "Malčín",
+                "position": 9,
+                "district": "Havlíčkův Brod",
+                "finalTime": "22,07"
+              },
+              {
+                "firstTargetTime": "25,49",
+                "secondTargetTime": "17,97",
+                "teamName": "Pohled",
+                "position": 10,
+                "district": "Havlíčkův Brod",
+                "finalTime": "25,49"
+              }
+            ],
+            "category": "Ženy"
+          },
+          {
+            "teams": [
+              {
+                "firstTargetTime": "20,66",
+                "district": "Jihlava",
+                "secondTargetTime": "20,45",
+                "position": 1,
+                "teamName": "Boršov",
+                "finalTime": "20,66"
+              },
+              {
+                "firstTargetTime": "20,42",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,70",
+                "position": 2,
+                "teamName": "Herálec A",
+                "finalTime": "20,70"
+              },
+              {
+                "firstTargetTime": "21,39",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,97",
+                "position": 3,
+                "teamName": "Malčín",
+                "finalTime": "21,39"
+              },
+              {
+                "firstTargetTime": "19,07",
+                "district": "Pardubice",
+                "secondTargetTime": "22,81",
+                "position": 4,
+                "teamName": "Stéblová",
+                "finalTime": "22,81"
+              },
+              {
+                "firstTargetTime": "29,14",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "27,24",
+                "position": 5,
+                "teamName": "Lučice",
+                "finalTime": "29,14"
+              },
+              {
+                "firstTargetTime": "23,02",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "32,23",
+                "position": 6,
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "32,23"
+              },
+              {
+                "firstTargetTime": "NP",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "NP",
+                "position": 7,
+                "teamName": "Herálec B",
+                "finalTime": "NP"
+              }
+            ],
+            "category": "Smíšený dorost"
+          }
+        ]
+      },
+      "date": "09. 07. 2022 10:00",
+      "title": "Kynice",
+      "status": "completed",
+      "startingList": {
+        "categories": [
+          {
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Lučice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Žižkovo Pole  Divadlo",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Boršov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Kynice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Milíčov",
+                "district": "JI"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Petrovice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Světlá nad Sázavou  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 11,
+                "teamName": "Seč",
+                "district": "CR"
+              },
+              {
+                "startPosition": 12,
+                "teamName": "Golčův Jeníkov",
+                "district": "HB"
+              },
+              {
+                "startPosition": 13,
+                "teamName": "Žižkovo Pole  B",
+                "district": "HB"
+              },
+              {
+                "startPosition": 14,
+                "teamName": "Malčín",
+                "district": "HB"
+              },
+              {
+                "startPosition": 20,
+                "teamName": "Srch",
+                "district": "PA"
+              }
+            ],
+            "category": "Muži"
+          },
+          {
+            "teams": [
+              {
+                "district": "HB",
+                "teamName": "Herálec",
+                "startPosition": 1
+              },
+              {
+                "district": "JI",
+                "teamName": "Boršov  B",
+                "startPosition": 2
+              },
+              {
+                "district": "HB",
+                "teamName": "Kámen",
+                "startPosition": 3
+              },
+              {
+                "district": "HB",
+                "teamName": "Nová Ves u Světlé",
+                "startPosition": 4
+              },
+              {
+                "district": "HB",
+                "teamName": "Lučice",
+                "startPosition": 5
+              },
+              {
+                "district": "PE",
+                "teamName": "Kejžlice",
+                "startPosition": 6
+              },
+              {
+                "district": "HB",
+                "teamName": "Pohled",
+                "startPosition": 7
+              },
+              {
+                "district": "PA",
+                "teamName": "Stéblová",
+                "startPosition": 8
+              },
+              {
+                "district": "HB",
+                "teamName": "Malčín",
+                "startPosition": 9
+              },
+              {
+                "district": "HB",
+                "teamName": "Česká Bělá",
+                "startPosition": 10
+              }
+            ],
+            "category": "Ženy"
+          }
+        ]
+      },
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "location": "Žižkovo Pole",
+      "startingList": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "startPosition": 1,
+                "district": "HB",
+                "teamName": "Žižkovo Pole  Divadlo"
+              },
+              {
+                "startPosition": 2,
+                "district": "CR",
+                "teamName": "Seč"
+              },
+              {
+                "startPosition": 3,
+                "district": "HB",
+                "teamName": "Lučice"
+              },
+              {
+                "startPosition": 4,
+                "district": "HB",
+                "teamName": "Kynice"
+              },
+              {
+                "startPosition": 5,
+                "district": "HB",
+                "teamName": "Žižkovo Pole  B"
+              },
+              {
+                "startPosition": 6,
+                "district": "HB",
+                "teamName": "Kámen"
+              },
+              {
+                "startPosition": 7,
+                "district": "JI",
+                "teamName": "Milíčov"
+              },
+              {
+                "startPosition": 8,
+                "district": "HB",
+                "teamName": "Nová Ves u Světlé"
+              },
+              {
+                "startPosition": 9,
+                "district": "HB",
+                "teamName": "Petrovice"
+              },
+              {
+                "startPosition": 10,
+                "district": "HB",
+                "teamName": "Světlá nad Sázavou  B"
+              },
+              {
+                "startPosition": 11,
+                "district": "HB",
+                "teamName": "Pohled"
+              },
+              {
+                "startPosition": 12,
+                "district": "JI",
+                "teamName": "Boršov"
+              },
+              {
+                "startPosition": 13,
+                "district": "HB",
+                "teamName": "Malčín"
+              },
+              {
+                "startPosition": 20,
+                "district": "PA",
+                "teamName": "Srch"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Malčín",
+                "district": "HB"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Herálec",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Česká Bělá",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Boršov  B",
+                "district": "JI"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Stéblová",
+                "district": "PA"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Kejžlice",
+                "district": "PE"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Lučice",
+                "district": "HB"
+              }
+            ]
+          }
+        ]
+      },
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "position": 1,
+                "teamName": "Seč",
+                "district": "Chrudim",
+                "firstTargetTime": "17,35",
+                "secondTargetTime": "17,08",
+                "finalTime": "17,35"
+              },
+              {
+                "position": 2,
+                "teamName": "Kynice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,48",
+                "secondTargetTime": "17,51",
+                "finalTime": "17,51"
+              },
+              {
+                "position": 3,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,05",
+                "secondTargetTime": "17,56",
+                "finalTime": "17,56"
+              },
+              {
+                "position": 4,
+                "teamName": " Žižkovo Pole Divadlo",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,68",
+                "secondTargetTime": "17,19",
+                "finalTime": "17,68"
+              },
+              {
+                "position": 4,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,68",
+                "secondTargetTime": "17,02",
+                "finalTime": "17,68"
+              },
+              {
+                "position": 6,
+                "teamName": "Milíčov",
+                "district": "Jihlava",
+                "firstTargetTime": "17,84",
+                "secondTargetTime": "17,15",
+                "finalTime": "17,84"
+              },
+              {
+                "position": 7,
+                "teamName": "Srch",
+                "district": "Pardubice",
+                "firstTargetTime": "17,74",
+                "secondTargetTime": "17,94",
+                "finalTime": "17,94"
+              },
+              {
+                "position": 8,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,43",
+                "secondTargetTime": "18,22",
+                "finalTime": "18,43"
+              },
+              {
+                "position": 9,
+                "teamName": "Petrovice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,90",
+                "secondTargetTime": "17,09",
+                "finalTime": "18,90"
+              },
+              {
+                "position": 10,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,22",
+                "secondTargetTime": "20,60",
+                "finalTime": "20,60"
+              },
+              {
+                "position": 11,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "21,38",
+                "secondTargetTime": "22,26",
+                "finalTime": "22,26"
+              },
+              {
+                "position": 12,
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "firstTargetTime": "22,96",
+                "secondTargetTime": "23,04",
+                "finalTime": "23,04"
+              },
+              {
+                "position": 13,
+                "teamName": " Světlá nad Sázavou B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,10",
+                "secondTargetTime": "25,35",
+                "finalTime": "25,35"
+              },
+              {
+                "position": 14,
+                "teamName": " Žižkovo Pole B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,13",
+                "secondTargetTime": "NP",
+                "finalTime": "NP"
+              },
+              {
+                "position": 14,
+                "teamName": " Žižkovo Pole A",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "88,89",
+                "secondTargetTime": "21,30",
+                "finalTime": "NP"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "secondTargetTime": "18,63",
+                "firstTargetTime": "18,72",
+                "position": 1,
+                "teamName": "Stéblová",
+                "district": "Pardubice",
+                "finalTime": "18,72"
+              },
+              {
+                "secondTargetTime": "18,19",
+                "firstTargetTime": "18,91",
+                "position": 2,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "finalTime": "18,91"
+              },
+              {
+                "secondTargetTime": "19,11",
+                "firstTargetTime": "18,70",
+                "position": 3,
+                "teamName": "Česká Bělá",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,11"
+              },
+              {
+                "secondTargetTime": "17,88",
+                "firstTargetTime": "19,34",
+                "position": 4,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,34"
+              },
+              {
+                "secondTargetTime": "19,24",
+                "firstTargetTime": "19,54",
+                "position": 5,
+                "teamName": "Kejžlice",
+                "district": "Pelhřimov",
+                "finalTime": "19,54"
+              },
+              {
+                "secondTargetTime": "19,13",
+                "firstTargetTime": "19,85",
+                "position": 6,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "finalTime": "19,85"
+              },
+              {
+                "secondTargetTime": "21,50",
+                "firstTargetTime": "21,90",
+                "position": 7,
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "finalTime": "21,90"
+              },
+              {
+                "secondTargetTime": "25,79",
+                "firstTargetTime": "26,45",
+                "position": 8,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "finalTime": "26,45"
+              },
+              {
+                "secondTargetTime": "30,51",
+                "firstTargetTime": "30,04",
+                "position": 9,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "finalTime": "30,51"
+              },
+              {
+                "secondTargetTime": "47,56",
+                "firstTargetTime": "47,07",
+                "position": 10,
+                "teamName": " Boršov B",
+                "district": "Jihlava",
+                "finalTime": "47,56"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "firstTargetTime": "18,93",
+                "district": "Jihlava",
+                "secondTargetTime": "18,49",
+                "position": 1,
+                "teamName": "Boršov",
+                "finalTime": "18,93"
+              },
+              {
+                "firstTargetTime": "20,32",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,36",
+                "position": 2,
+                "teamName": "Malčín",
+                "finalTime": "20,32"
+              },
+              {
+                "firstTargetTime": "22,31",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "23,66",
+                "position": 3,
+                "teamName": "Lučice",
+                "finalTime": "23,66"
+              },
+              {
+                "firstTargetTime": "24,65",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "18,19",
+                "position": 4,
+                "teamName": "Herálec A",
+                "finalTime": "24,65"
+              },
+              {
+                "firstTargetTime": "30,26",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "31,20",
+                "position": 5,
+                "teamName": "Nová Ves u Světlé",
+                "finalTime": "31,20"
+              },
+              {
+                "firstTargetTime": "31,90",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "32,41",
+                "position": 6,
+                "teamName": "Herálec B",
+                "finalTime": "32,41"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "vysledek-zizkovo-pole-12611.html",
+      "id": "12611",
+      "title": "Žižkovo Pole",
+      "date": "02. 07. 2022 10:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "status": "completed",
+      "title": "Nová Ves u Světlé",
+      "url": "vysledek-nova-ves-u-svetle-12610.html",
+      "id": "12610",
+      "location": "Nová Ves u Světlé",
+      "results": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "secondTargetTime": "17,35",
+                "position": 1,
+                "teamName": "Seč",
+                "district": "Chrudim",
+                "firstTargetTime": "17,51",
+                "finalTime": "17,51"
+              },
+              {
+                "secondTargetTime": "17,01",
+                "position": 2,
+                "teamName": "Milíčov",
+                "district": "Jihlava",
+                "firstTargetTime": "17,53",
+                "finalTime": "17,53"
+              },
+              {
+                "secondTargetTime": "17,85",
+                "position": 3,
+                "teamName": "Srch",
+                "district": "Pardubice",
+                "firstTargetTime": "17,22",
+                "finalTime": "17,85"
+              },
+              {
+                "secondTargetTime": "18,13",
+                "position": 4,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,96",
+                "finalTime": "18,13"
+              },
+              {
+                "secondTargetTime": "18,34",
+                "position": 5,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "18,07",
+                "finalTime": "18,34"
+              },
+              {
+                "secondTargetTime": "18,54",
+                "position": 6,
+                "teamName": " Žižkovo Pole Divadlo",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,76",
+                "finalTime": "18,54"
+              },
+              {
+                "secondTargetTime": "18,94",
+                "position": 7,
+                "teamName": "Boršov",
+                "district": "Jihlava",
+                "firstTargetTime": "19,72",
+                "finalTime": "19,72"
+              },
+              {
+                "secondTargetTime": "18,24",
+                "position": 8,
+                "teamName": "Kynice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,97",
+                "finalTime": "19,97"
+              },
+              {
+                "secondTargetTime": "19,74",
+                "position": 9,
+                "teamName": " Světlá nad Sázavou B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,14",
+                "finalTime": "20,14"
+              },
+              {
+                "secondTargetTime": "19,28",
+                "position": 10,
+                "teamName": " Nová Ves u Světlé veteráni",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,20",
+                "finalTime": "20,20"
+              },
+              {
+                "secondTargetTime": "17,23",
+                "position": 11,
+                "teamName": "Petrovice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "20,69",
+                "finalTime": "20,69"
+              },
+              {
+                "secondTargetTime": "21,29",
+                "position": 12,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "19,46",
+                "finalTime": "21,29"
+              },
+              {
+                "secondTargetTime": "23,45",
+                "position": 13,
+                "teamName": " Žižkovo Pole B",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "17,84",
+                "finalTime": "23,45"
+              },
+              {
+                "secondTargetTime": "31,00",
+                "position": 14,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "30,99",
+                "finalTime": "31,00"
+              },
+              {
+                "secondTargetTime": "35,85",
+                "position": 15,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "firstTargetTime": "33,64",
+                "finalTime": "35,85"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "position": 1,
+                "teamName": "Česká Bělá",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "17,98",
+                "firstTargetTime": "17,38",
+                "finalTime": "17,98"
+              },
+              {
+                "position": 2,
+                "teamName": "Kámen",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,21",
+                "firstTargetTime": "18,52",
+                "finalTime": "19,21"
+              },
+              {
+                "position": 3,
+                "teamName": " Česká Bělá ml",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "19,38",
+                "firstTargetTime": "18,44",
+                "finalTime": "19,38"
+              },
+              {
+                "position": 4,
+                "teamName": "Stéblová",
+                "district": "Pardubice",
+                "secondTargetTime": "20,23",
+                "firstTargetTime": "20,45",
+                "finalTime": "20,45"
+              },
+              {
+                "position": 5,
+                "teamName": "Nová Ves u Světlé",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,63",
+                "firstTargetTime": "18,01",
+                "finalTime": "20,63"
+              },
+              {
+                "position": 6,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,81",
+                "firstTargetTime": "20,54",
+                "finalTime": "20,81"
+              },
+              {
+                "position": 7,
+                "teamName": "Lučice",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "20,91",
+                "firstTargetTime": "20,35",
+                "finalTime": "20,91"
+              },
+              {
+                "position": 8,
+                "teamName": " Boršov B",
+                "district": "Jihlava",
+                "secondTargetTime": "21,66",
+                "firstTargetTime": "18,57",
+                "finalTime": "21,66"
+              },
+              {
+                "position": 9,
+                "teamName": "Herálec",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "28,18",
+                "firstTargetTime": "28,85",
+                "finalTime": "28,85"
+              },
+              {
+                "position": 10,
+                "teamName": "Malčín",
+                "district": "Havlíčkův Brod",
+                "secondTargetTime": "65,40",
+                "firstTargetTime": "69,47",
+                "finalTime": "69,47"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "position": 1,
+                "district": "Havlíčkův Brod",
+                "teamName": "Lučice",
+                "firstTargetTime": "18,86",
+                "secondTargetTime": "19,02",
+                "finalTime": "19,02"
+              },
+              {
+                "position": 2,
+                "district": "Havlíčkův Brod",
+                "teamName": "Herálec B",
+                "firstTargetTime": "25,13",
+                "secondTargetTime": "22,88",
+                "finalTime": "25,13"
+              },
+              {
+                "position": 3,
+                "district": "Havlíčkův Brod",
+                "teamName": "Herálec A",
+                "firstTargetTime": "28,44",
+                "secondTargetTime": "22,03",
+                "finalTime": "28,44"
+              },
+              {
+                "position": 4,
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry",
+                "firstTargetTime": "29,05",
+                "secondTargetTime": "28,34",
+                "finalTime": "29,05"
+              },
+              {
+                "position": 5,
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé",
+                "firstTargetTime": "35,38",
+                "secondTargetTime": "37,13",
+                "finalTime": "37,13"
+              },
+              {
+                "position": 6,
+                "district": "Pardubice",
+                "teamName": "Stéblová",
+                "firstTargetTime": "42,27",
+                "secondTargetTime": "44,59",
+                "finalTime": "44,59"
+              }
+            ]
+          }
+        ]
+      },
+      "startingList": {
+        "categories": [
+          {
+            "category": "Muži",
+            "teams": [
+              {
+                "district": "HB",
+                "startPosition": 1,
+                "teamName": "Nová Ves u Světlé"
+              },
+              {
+                "district": "HB",
+                "startPosition": 2,
+                "teamName": "Malčín"
+              },
+              {
+                "district": "CR",
+                "startPosition": 3,
+                "teamName": "Seč"
+              },
+              {
+                "district": "HB",
+                "startPosition": 4,
+                "teamName": "Žižkovo Pole  B"
+              },
+              {
+                "district": "HB",
+                "startPosition": 5,
+                "teamName": "Pohled"
+              },
+              {
+                "district": "HB",
+                "startPosition": 6,
+                "teamName": "Kynice"
+              },
+              {
+                "district": "JI",
+                "startPosition": 7,
+                "teamName": "Milíčov"
+              },
+              {
+                "district": "HB",
+                "startPosition": 8,
+                "teamName": "Světlá nad Sázavou  B"
+              },
+              {
+                "district": "HB",
+                "startPosition": 9,
+                "teamName": "Petrovice"
+              },
+              {
+                "district": "HB",
+                "startPosition": 10,
+                "teamName": "Lučice"
+              },
+              {
+                "district": "JI",
+                "startPosition": 11,
+                "teamName": "Boršov"
+              },
+              {
+                "district": "HB",
+                "startPosition": 12,
+                "teamName": "Kámen"
+              },
+              {
+                "district": "PA",
+                "startPosition": 15,
+                "teamName": "Srch"
+              }
+            ]
+          },
+          {
+            "category": "Ženy",
+            "teams": [
+              {
+                "startPosition": 2,
+                "teamName": "Pohled",
+                "district": "HB"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Kámen",
+                "district": "HB"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Lučice",
+                "district": "HB"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Česká Bělá",
+                "district": "HB"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Herálec",
+                "district": "HB"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Boršov  B",
+                "district": "JI"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Malčín",
+                "district": "HB"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Česká Bělá  ml.",
+                "district": "HB"
+              },
+              {
+                "startPosition": 11,
+                "teamName": "Stéblová",
+                "district": "PA"
+              },
+              {
+                "startPosition": 12,
+                "teamName": "Nová Ves u Světlé",
+                "district": "HB"
+              }
+            ]
+          }
+        ]
+      },
+      "date": "11. 06. 2022 10:00",
+      "district": "",
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    }
+  ]
+}
