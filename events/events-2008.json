@@ -2,7 +2,7 @@
   "year": 2008,
   "events": [
     {
-      "date": "13. 09. 2008 13:00",
+      "date": "13.09.2008 13:00",
       "startingList": {
         "categories": []
       },
@@ -296,7 +296,7 @@
         ]
       },
       "location": "Kunemil , HB",
-      "date": "30. 08. 2008 13:00",
+      "date": "30.08.2008 13:00",
       "status": "completed",
       "title": "O pohár SDH Kunemil",
       "url": "vysledek-kunemil-2008-08-30-1688.html",
@@ -600,7 +600,7 @@
       "url": "vysledek--2008-08-24-1687.html",
       "title": "O pohár SDH Sedlatice",
       "status": "completed",
-      "date": "24. 08. 2008 13:00",
+      "date": "24.08.2008 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -609,7 +609,7 @@
       "location": "Radňov, HB",
       "url": "vysledek-radnov-2008-08-23-1686.html",
       "title": "O pohár SDH Radňov",
-      "date": "23. 08. 2008 13:00",
+      "date": "23.08.2008 13:00",
       "results": {
         "categories": [
           {
@@ -965,7 +965,7 @@
           }
         ]
       },
-      "date": "27. 07. 2008 13:00",
+      "date": "27.07.2008 13:00",
       "title": "O pohár SDH Kejžlice",
       "status": "completed",
       "url": "vysledek-kejzlice-2008-07-27-1685.html",
@@ -1154,7 +1154,7 @@
       },
       "url": "vysledek-vez-2008-07-26-1684.html",
       "title": "O pohár SDH Věž",
-      "date": "26. 07. 2008 13:00",
+      "date": "26.07.2008 13:00",
       "location": "Věž, HB",
       "id": "1684",
       "district": "",
@@ -1163,7 +1163,7 @@
     },
     {
       "location": "Ždírec nad Doubr., HB",
-      "date": "05. 07. 2008 13:00",
+      "date": "05.07.2008 13:00",
       "title": "O pohár SDH Ždírec nad Doubravou",
       "startingList": {
         "categories": []
@@ -1524,7 +1524,7 @@
       "location": "Kojetín, HB",
       "id": "1682",
       "url": "vysledek-kojetin-2008-06-28-1682.html",
-      "date": "28. 06. 2008 13:00",
+      "date": "28.06.2008 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1679,7 +1679,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "08. 06. 2008 13:00",
+      "date": "08.06.2008 13:00",
       "title": "O pohár SDH Česká Bělá",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -1687,7 +1687,7 @@
     },
     {
       "id": "1679",
-      "date": "07. 06. 2008 13:00",
+      "date": "07.06.2008 13:00",
       "location": "Květinov, HB",
       "status": "completed",
       "results": {

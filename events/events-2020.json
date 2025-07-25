@@ -3,7 +3,7 @@
   "events": [
     {
       "url": "vysledek-ceska-bela-11286.html",
-      "date": "26. 09. 2020 10:00",
+      "date": "26.09.2020 10:00",
       "startingList": {
         "categories": [
           {
@@ -148,7 +148,7 @@
           }
         ]
       },
-      "title": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "location": "Česká Bělá",
       "id": "11286",
       "results": {
@@ -510,7 +510,7 @@
       "status": "completed",
       "location": "Srch",
       "id": "11285",
-      "date": "19. 09. 2020 10:00",
+      "date": "19.09.2020 10:00",
       "title": "Srch _",
       "url": "vysledek-srch-11285.html",
       "results": {
@@ -725,9 +725,9 @@
     },
     {
       "status": "completed",
-      "title": "Herálec",
+      "title": "O pohár SDH Herálec",
       "url": "vysledek-heralec-11284.html",
-      "date": "12. 09. 2020 10:00",
+      "date": "12.09.2020 10:00",
       "id": "11284",
       "startingList": {
         "categories": [
@@ -1097,7 +1097,7 @@
     },
     {
       "status": "completed",
-      "date": "29. 08. 2020 10:00",
+      "date": "29.08.2020 10:00",
       "results": {
         "categories": [
           {
@@ -1451,7 +1451,7 @@
           }
         ]
       },
-      "title": "Smilov",
+      "title": "O pohár SDH Smilov",
       "location": "Smilov",
       "id": "11283",
       "url": "vysledek-smilov-11283.html",
@@ -1462,7 +1462,7 @@
     {
       "location": "Světlá nad Sázavou",
       "id": "11282",
-      "date": "22. 08. 2020 10:00",
+      "date": "22.08.2020 10:00",
       "results": {
         "categories": [
           {
@@ -1702,7 +1702,7 @@
         ]
       },
       "status": "completed",
-      "title": "Světlá nad Sázavou",
+      "title": "O pohár SDH Světlá nad Sázavou",
       "url": "vysledek-svetla-nad-sazavou-11282.html",
       "startingList": {
         "categories": [
@@ -1957,8 +1957,8 @@
           }
         ]
       },
-      "date": "08. 08. 2020 10:00",
-      "title": "Kynice",
+      "date": "08.08.2020 10:00",
+      "title": "O pohár SDH Kynice",
       "status": "completed",
       "results": {
         "categories": [
@@ -2398,9 +2398,9 @@
         ]
       },
       "id": "11280",
-      "title": "Nová Ves u Světlé",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "status": "completed",
-      "date": "11. 07. 2020 10:00",
+      "date": "11.07.2020 10:00",
       "location": "Nová Ves u Světlé",
       "startingList": {
         "categories": [

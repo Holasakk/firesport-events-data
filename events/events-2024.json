@@ -2,7 +2,7 @@
   "year": 2024,
   "events": [
     {
-      "date": "28. 09. 2024 10:00",
+      "date": "28.09.2024 10:00",
       "status": "completed",
       "title": "O Pohár SDH Česká Bělá",
       "url": "vysledek-ceska-bela-13822.html",
@@ -521,7 +521,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "31. 08. 2024 10:00",
+      "date": "31.08.2024 10:00",
       "results": {
         "categories": [
           {
@@ -1023,7 +1023,7 @@
     },
     {
       "title": "O Pohár SDH Smilov",
-      "date": "24. 08. 2024 10:00",
+      "date": "24.08.2024 10:00",
       "url": "vysledek-smilov-13820.html",
       "status": "completed",
       "id": "13820",
@@ -1657,7 +1657,7 @@
           }
         ]
       },
-      "date": "17. 08. 2024 10:00",
+      "date": "17.08.2024 10:00",
       "location": "Pohled",
       "results": {
         "categories": [
@@ -2160,7 +2160,7 @@
           }
         ]
       },
-      "date": "27. 07. 2024 10:00",
+      "date": "27.07.2024 10:00",
       "location": "Uhelná Příbram -SDH Petrovice",
       "results": {
         "categories": [
@@ -3019,14 +3019,14 @@
         ]
       },
       "status": "completed",
-      "date": "13. 07. 2024 12:00",
+      "date": "13.07.2024 12:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
       "location": "Žižkovo Pole",
-      "date": "06. 07. 2024 10:00",
+      "date": "06.07.2024 10:00",
       "id": "13816",
       "startingList": {
         "categories": [
@@ -4100,13 +4100,13 @@
       },
       "location": "Nová Ves u Světlé",
       "title": "O Pohár SDH Nová Ves u Světlé",
-      "date": "30. 06. 2024 10:00",
+      "date": "30.06.2024 10:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "22. 06. 2024 22:00",
+      "date": "22.06.2024 22:00",
       "title": "O Pohár SDH Habry",
       "status": "completed",
       "url": "vysledek-habry-13814.html",
@@ -4606,7 +4606,7 @@
       "status": "completed",
       "title": "O pohár SDH Seč",
       "id": "13812",
-      "date": "08. 06. 2024 10:00",
+      "date": "08.06.2024 10:00",
       "url": "vysledek-sec-13812.html",
       "startingList": {
         "categories": [
@@ -5076,7 +5076,7 @@
     {
       "status": "completed",
       "title": "O pohár SDH Květinov",
-      "date": "01. 06. 2024 22:00",
+      "date": "01.06.2024 22:00",
       "startingList": {
         "categories": [
           {

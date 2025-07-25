@@ -3,9 +3,9 @@
   "events": [
     {
       "status": "completed",
-      "title": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "url": "vysledek-ceska-bela-2010-09-25-2414.html",
-      "date": "25. 09. 2010 13:00",
+      "date": "25.09.2010 13:00",
       "id": "2414",
       "location": "Česká Bělá, -",
       "startingList": {
@@ -358,12 +358,12 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Kunemil",
+      "title": "O pohár SDH Kunemil",
       "startingList": {
         "categories": []
       },
       "status": "completed",
-      "date": "05. 09. 2010 13:00",
+      "date": "05.09.2010 13:00",
       "id": "2413",
       "location": "Kunemil, HB",
       "url": "vysledek-kunemil-2010-09-05-2413.html",
@@ -586,12 +586,12 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Nová Ves u Světlé",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "startingList": {
         "categories": []
       },
       "location": "Nová Ves u Světlé, HB",
-      "date": "04. 09. 2010 13:00",
+      "date": "04.09.2010 13:00",
       "results": {
         "categories": [
           {
@@ -1161,9 +1161,9 @@
           }
         ]
       },
-      "title": "Květinov",
+      "title": "O pohár SDH Květinov",
       "url": "vysledek-kvetinov-2010-08-20-2409.html",
-      "date": "20. 08. 2010 13:00",
+      "date": "20.08.2010 13:00",
       "location": "Květinov, HB",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -1428,8 +1428,8 @@
         ]
       },
       "status": "completed",
-      "title": "Kejžlice",
-      "date": "01. 08. 2010 13:00",
+      "title": "O pohár SDH Kejžlice",
+      "date": "01.08.2010 13:00",
       "url": "vysledek-kejzlice-2010-08-01-2411.html",
       "id": "2411",
       "location": "Kejžlice, PE",
@@ -1440,8 +1440,8 @@
     {
       "url": "vysledek-vez-2010-07-31-2410.html",
       "id": "2410",
-      "title": "Věž",
-      "date": "31. 07. 2010 13:00",
+      "title": "O pohár SDH Věž",
+      "date": "31.07.2010 13:00",
       "results": {
         "categories": [
           {
@@ -1763,7 +1763,7 @@
     },
     {
       "location": "Ždírec nad Doubravou, HB",
-      "title": "Ždírec nad Doubravou",
+      "title": "O pohár SDH Ždírec nad Doubravou",
       "results": {
         "categories": [
           {
@@ -1994,7 +1994,7 @@
           }
         ]
       },
-      "date": "18. 07. 2010 13:00",
+      "date": "18.07.2010 13:00",
       "startingList": {
         "categories": []
       },
@@ -2006,7 +2006,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Olešná",
+      "title": "O pohár SDH Olešná",
       "url": "vysledek-olesna-2010-07-17-2418.html",
       "startingList": {
         "categories": []
@@ -2250,7 +2250,7 @@
           }
         ]
       },
-      "date": "17. 07. 2010 13:00",
+      "date": "17.07.2010 13:00",
       "id": "2418",
       "status": "completed",
       "district": "",
@@ -2262,9 +2262,9 @@
         "categories": []
       },
       "id": "2404",
-      "date": "10. 07. 2010 13:00",
+      "date": "10.07.2010 13:00",
       "location": "Podmoklany, HB",
-      "title": "Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "status": "completed",
       "results": {
         "categories": [
@@ -2473,8 +2473,8 @@
       "startingList": {
         "categories": []
       },
-      "title": "Kámen",
-      "date": "05. 07. 2010 13:00",
+      "title": "O pohár SDH Kámen",
+      "date": "05.07.2010 13:00",
       "status": "completed",
       "id": "2402",
       "url": "vysledek-kamen-2010-07-05-2402.html",

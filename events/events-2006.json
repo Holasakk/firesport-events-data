@@ -10,7 +10,7 @@
       "id": "1364",
       "location": "Česká Bělá, HB",
       "status": "completed",
-      "date": "30. 09. 2006 13:00",
+      "date": "30.09.2006 13:00",
       "results": {
         "categories": [
           {
@@ -240,7 +240,7 @@
       "title": "O pohár SDH Jitkov",
       "status": "completed",
       "id": "1421",
-      "date": "23. 09. 2006 13:00",
+      "date": "23.09.2006 13:00",
       "location": "Jitkov, HB",
       "results": {
         "categories": [
@@ -386,7 +386,7 @@
     {
       "title": "O pohár SDH Kámen",
       "location": "Kámen, HB",
-      "date": "09. 09. 2006 13:00",
+      "date": "09.09.2006 13:00",
       "startingList": {
         "categories": []
       },
@@ -533,7 +533,7 @@
         "categories": []
       },
       "title": "O pohár SDH Nová Ves u Světlé",
-      "date": "02. 09. 2006 13:00",
+      "date": "02.09.2006 13:00",
       "location": "Nová Ves u Sv., HB",
       "results": {
         "categories": [
@@ -826,7 +826,7 @@
           }
         ]
       },
-      "date": "19. 08. 2006 13:00",
+      "date": "19.08.2006 13:00",
       "id": "1360",
       "url": "vysledek-habry-2006-08-19-1360.html",
       "title": "O pohár starosty MěÚ Habry",
@@ -981,14 +981,14 @@
         "categories": []
       },
       "status": "completed",
-      "date": "05. 08. 2006 13:00",
+      "date": "05.08.2006 13:00",
       "title": "O pohár SDH Kunemil",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "29. 07. 2006 13:00",
+      "date": "29.07.2006 13:00",
       "url": "vysledek-kvetinov-2006-07-29-1358.html",
       "id": "1358",
       "location": "Květinov, HB",
@@ -1190,7 +1190,7 @@
       "title": "O pohár starosty SDH Věž",
       "status": "completed",
       "url": "vysledek-vez-2006-07-22-1357.html",
-      "date": "22. 07. 2006 13:00",
+      "date": "22.07.2006 13:00",
       "location": "Věž, HB",
       "id": "1357",
       "startingList": {
@@ -1575,7 +1575,7 @@
           }
         ]
       },
-      "date": "15. 07. 2006 13:00",
+      "date": "15.07.2006 13:00",
       "id": "1356",
       "startingList": {
         "categories": []
@@ -1760,7 +1760,7 @@
         ]
       },
       "location": "Kejžlice, PE",
-      "date": "06. 07. 2006 13:00",
+      "date": "06.07.2006 13:00",
       "url": "vysledek-kejzlice-2006-07-06-1355.html",
       "id": "1355",
       "district": "",
@@ -1770,7 +1770,7 @@
     {
       "id": "1353",
       "url": "vysledek-strizov-2006-07-05-1353.html",
-      "date": "05. 07. 2006 13:00",
+      "date": "05.07.2006 13:00",
       "status": "completed",
       "results": {
         "categories": [
@@ -1962,7 +1962,7 @@
       "url": "vysledek-podmoklany-2006-07-01-1354.html",
       "id": "1354",
       "status": "completed",
-      "date": "01. 07. 2006 13:00",
+      "date": "01.07.2006 13:00",
       "startingList": {
         "categories": []
       },
@@ -2187,7 +2187,7 @@
       "location": "Vepříkov, HB",
       "status": "completed",
       "title": "O pohár SDH Vepříkov",
-      "date": "17. 06. 2006 13:00",
+      "date": "17.06.2006 13:00",
       "startingList": {
         "categories": []
       },

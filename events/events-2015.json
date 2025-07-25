@@ -166,10 +166,10 @@
           }
         ]
       },
-      "date": "26. 09. 2015 11:00",
+      "date": "26.09.2015 11:00",
       "id": "6277",
       "url": "vysledek-ceska-bela-6277.html",
-      "title": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "results": {
         "categories": [
           {
@@ -663,9 +663,9 @@
         ]
       },
       "url": "vysledek-kvetinov-6276.html",
-      "date": "12. 09. 2015 11:00",
+      "date": "12.09.2015 11:00",
       "status": "completed",
-      "title": "Květinov",
+      "title": "O pohár SDH Květinov",
       "startingList": {
         "categories": [
           {
@@ -973,8 +973,8 @@
           }
         ]
       },
-      "date": "05. 09. 2015 11:00",
-      "title": "Nová Ves u Světlé",
+      "date": "05.09.2015 11:00",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "results": {
         "categories": [
           {
@@ -1650,8 +1650,8 @@
           }
         ]
       },
-      "date": "29. 08. 2015 11:00",
-      "title": "Kejžlice",
+      "date": "29.08.2015 11:00",
+      "title": "O pohár SDH Kejžlice",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1809,7 +1809,7 @@
           }
         ]
       },
-      "date": "22. 08. 2015 11:00",
+      "date": "22.08.2015 11:00",
       "results": {
         "categories": [
           {
@@ -2048,7 +2048,7 @@
           }
         ]
       },
-      "title": "Smilov",
+      "title": "O pohár SDH Smilov",
       "url": "vysledek-smilov-6273.html",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -2320,7 +2320,7 @@
           }
         ]
       },
-      "date": "09. 08. 2015 10:00",
+      "date": "09.08.2015 10:00",
       "startingList": {
         "categories": [
           {
@@ -2466,14 +2466,14 @@
         ]
       },
       "location": "Olešná",
-      "title": "Olešná",
+      "title": "O pohár SDH Olešná",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
       "id": "6271",
-      "date": "08. 08. 2015 11:00",
+      "date": "08.08.2015 11:00",
       "location": "Ždírec nad Doubravou",
       "url": "vysledek-zdirec-nad-doubravou-6271.html",
       "startingList": {
@@ -2850,7 +2850,7 @@
           }
         ]
       },
-      "title": "Ždírec nad Doubravou",
+      "title": "O pohár SDH Ždírec nad Doubravou",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -2858,7 +2858,7 @@
     },
     {
       "location": "Věž",
-      "date": "01. 08. 2015 11:00",
+      "date": "01.08.2015 11:00",
       "url": "vysledek-vez-6270.html",
       "startingList": {
         "categories": [
@@ -3718,8 +3718,8 @@
       },
       "id": "6269",
       "url": "vysledek-kynice-6269.html",
-      "date": "04. 07. 2015 11:00",
-      "title": "Kynice",
+      "date": "04.07.2015 11:00",
+      "title": "O pohár SDH Kynice",
       "location": "Kynice",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -3727,7 +3727,7 @@
     },
     {
       "id": "6268",
-      "date": "28. 06. 2015 10:00",
+      "date": "28.06.2015 10:00",
       "startingList": {
         "categories": [
           {
@@ -3899,7 +3899,7 @@
       },
       "location": "Kámen",
       "status": "completed",
-      "title": "Kámen",
+      "title": "O pohár SDH Kámen",
       "url": "vysledek-kamen-6268.html",
       "results": {
         "categories": [
@@ -4168,7 +4168,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Žižkovo Pole",
+      "title": "O pohár SDH Žižkovo Pole",
       "id": "6267",
       "status": "completed",
       "location": "Žižkovo Pole",
@@ -4331,7 +4331,7 @@
           }
         ]
       },
-      "date": "20. 06. 2015 11:00",
+      "date": "20.06.2015 11:00",
       "url": "vysledek-zizkovo-pole-6267.html",
       "results": {
         "categories": [
@@ -4576,7 +4576,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "id": "6265",
       "startingList": {
         "categories": [
@@ -4707,7 +4707,7 @@
           }
         ]
       },
-      "date": "06. 06. 2015 11:00",
+      "date": "06.06.2015 11:00",
       "url": "vysledek-podmoklany-6265.html",
       "results": {
         "categories": [
@@ -5108,7 +5108,7 @@
       },
       "status": "completed",
       "title": "Noční soutěž",
-      "date": "29. 05. 2015 22:00",
+      "date": "29.05.2015 22:00",
       "id": "6266",
       "url": "vysledek-kvetinov-6266.html",
       "results": {

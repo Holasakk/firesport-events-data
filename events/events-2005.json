@@ -3,7 +3,7 @@
   "events": [
     {
       "location": "Jitkov, HB",
-      "date": "17. 09. 2005 13:00",
+      "date": "17.09.2005 13:00",
       "startingList": {
         "categories": []
       },
@@ -138,7 +138,7 @@
     },
     {
       "url": "vysledek-kamen-2005-09-10-1249.html",
-      "date": "10. 09. 2005 13:00",
+      "date": "10.09.2005 13:00",
       "location": "Kámen, HB",
       "startingList": {
         "categories": []
@@ -286,7 +286,7 @@
       "title": "O pohár starostky obce Nová Ves u Sv.",
       "url": "vysledek-nova-ves-u-svetle-2005-09-03-1154.html",
       "id": "1154",
-      "date": "03. 09. 2005 13:00",
+      "date": "03.09.2005 13:00",
       "status": "completed",
       "location": "Nová Ves u Sv., HB",
       "results": {
@@ -536,7 +536,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "13. 08. 2005 13:00",
+      "date": "13.08.2005 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -687,7 +687,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "30. 07. 2005 13:00",
+      "date": "30.07.2005 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -833,7 +833,7 @@
           }
         ]
       },
-      "date": "23. 07. 2005 13:00",
+      "date": "23.07.2005 13:00",
       "status": "completed",
       "startingList": {
         "categories": []
@@ -960,7 +960,7 @@
           }
         ]
       },
-      "date": "16. 07. 2005 13:00",
+      "date": "16.07.2005 13:00",
       "location": "Sedletín, HB",
       "title": "O pohár starosty SDH Sedletín",
       "id": "1150",
@@ -971,7 +971,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "05. 07. 2005 13:00",
+      "date": "05.07.2005 13:00",
       "location": "Střížov, HB",
       "status": "completed",
       "title": "O pohár starosty SDH Střížov",
@@ -1123,7 +1123,7 @@
     },
     {
       "title": "O pohár SDH Ždírec nad Doubravou",
-      "date": "02. 07. 2005 13:00",
+      "date": "02.07.2005 13:00",
       "url": "vysledek-zdirec-nad-doubravou-2005-07-02-1147.html",
       "status": "completed",
       "results": {
@@ -1385,7 +1385,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "25. 06. 2005 13:00",
+      "date": "25.06.2005 13:00",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -1399,7 +1399,7 @@
       },
       "id": "1145",
       "location": "Vepříkov, HB",
-      "date": "18. 06. 2005 13:00",
+      "date": "18.06.2005 13:00",
       "status": "completed",
       "results": {
         "categories": [
@@ -1591,7 +1591,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "11. 06. 2005 13:00",
+      "date": "11.06.2005 13:00",
       "url": "vysledek-sloupno-2005-06-11-1144.html",
       "status": "completed",
       "id": "1144",

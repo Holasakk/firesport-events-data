@@ -4,7 +4,7 @@
     {
       "url": "vysledek-ceska-bela-2013-09-28-3634.html",
       "id": "3634",
-      "date": "28. 09. 2013 11:00",
+      "date": "28.09.2013 11:00",
       "startingList": {
         "categories": [
           {
@@ -450,14 +450,14 @@
       },
       "status": "completed",
       "location": "Česká Bělá",
-      "title": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Nová Ves u Světlé",
-      "date": "07. 09. 2013 11:00",
+      "title": "O pohár SDH Nová Ves u Světlé",
+      "date": "07.09.2013 11:00",
       "status": "completed",
       "url": "vysledek-nova-ves-u-svetle-2013-09-07-3633.html",
       "id": "3633",
@@ -1083,8 +1083,8 @@
       },
       "status": "completed",
       "url": "vysledek-smilov-2013-08-24-3632.html",
-      "title": "Smilov",
-      "date": "24. 08. 2013 12:00",
+      "title": "O pohár SDH Smilov",
+      "date": "24.08.2013 12:00",
       "id": "3632",
       "startingList": {
         "categories": [
@@ -1216,8 +1216,8 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Vepříkov",
-      "date": "17. 08. 2013 12:00",
+      "title": "O pohár SDH Vepříkov",
+      "date": "17.08.2013 12:00",
       "results": {
         "categories": [
           {
@@ -1591,7 +1591,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Olešná",
+      "title": "O pohár SDH Olešná",
       "startingList": {
         "categories": [
           {
@@ -1725,7 +1725,7 @@
       "url": "vysledek-olesna-2013-08-04-3630.html",
       "status": "completed",
       "location": "Olešná",
-      "date": "04. 08. 2013 10:00",
+      "date": "04.08.2013 10:00",
       "results": {
         "categories": [
           {
@@ -2218,7 +2218,7 @@
       "status": "completed",
       "id": "3629",
       "location": "Květinov",
-      "date": "03. 08. 2013 12:00",
+      "date": "03.08.2013 12:00",
       "startingList": {
         "categories": [
           {
@@ -2339,14 +2339,14 @@
         ]
       },
       "url": "vysledek-kvetinov-2013-08-03-3629.html",
-      "title": "Květinov",
+      "title": "O pohár SDH Květinov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
       "title": "Věž__",
-      "date": "27. 07. 2013 12:00",
+      "date": "27.07.2013 12:00",
       "status": "completed",
       "id": "3628",
       "url": "vysledek-vez-2013-07-27-3628.html",
@@ -3104,11 +3104,11 @@
           }
         ]
       },
-      "date": "06. 07. 2013 12:00",
+      "date": "06.07.2013 12:00",
       "status": "completed",
       "url": "vysledek-kynice-2013-07-06-3626.html",
       "id": "3626",
-      "title": "Kynice",
+      "title": "O pohár SDH Kynice",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -3117,7 +3117,7 @@
       "url": "vysledek-kamen-2013-07-05-3625.html",
       "status": "completed",
       "location": "Kámen",
-      "title": "Kámen",
+      "title": "O pohár SDH Kámen",
       "results": {
         "categories": [
           {
@@ -3388,7 +3388,7 @@
           }
         ]
       },
-      "date": "05. 07. 2013 12:00",
+      "date": "05.07.2013 12:00",
       "startingList": {
         "categories": [
           {
@@ -3530,7 +3530,7 @@
     },
     {
       "location": "Kejžlice",
-      "date": "29. 06. 2013 12:00",
+      "date": "29.06.2013 12:00",
       "startingList": {
         "categories": [
           {
@@ -3670,7 +3670,7 @@
           }
         ]
       },
-      "title": "Kejžlice",
+      "title": "O pohár SDH Kejžlice",
       "id": "3624",
       "url": "vysledek-kejzlice-2013-06-29-3624.html",
       "results": {
@@ -4020,8 +4020,8 @@
       },
       "url": "vysledek-zdirec-nad-doubravou-2013-06-23-3627.html",
       "location": "Ždírec nad Doubravou",
-      "date": "23. 06. 2013 10:00",
-      "title": "Ždírec nad Doubravou",
+      "date": "23.06.2013 10:00",
+      "title": "O pohár SDH Ždírec nad Doubravou",
       "status": "completed",
       "results": {
         "categories": [
@@ -4380,9 +4380,9 @@
           }
         ]
       },
-      "date": "22. 06. 2013 12:00",
+      "date": "22.06.2013 12:00",
       "location": "Žižkovo Pole",
-      "title": "Žižkovo Pole",
+      "title": "O pohár SDH Žižkovo Pole",
       "status": "completed",
       "url": "vysledek-zizkovo-pole-2013-06-22-3623.html",
       "results": {
@@ -4637,8 +4637,8 @@
     },
     {
       "id": "3622",
-      "title": "Podmoklany",
-      "date": "08. 06. 2013 12:00",
+      "title": "O pohár SDH Podmoklany",
+      "date": "08.06.2013 12:00",
       "startingList": {
         "categories": [
           {
@@ -5245,9 +5245,9 @@
           }
         ]
       },
-      "date": "31. 05. 2013 22:00",
+      "date": "31.05.2013 22:00",
       "id": "3621",
-      "title": "Květinov noční",
+      "title": "O pohár SDH Květinov noční",
       "status": "completed",
       "location": "Květinov",
       "url": "vysledek-kvetinov-2013-05-31-3621.html",

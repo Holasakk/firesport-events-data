@@ -2,8 +2,8 @@
   "year": 2011,
   "events": [
     {
-      "title": "Kejžlice",
-      "date": "31. 07. 2011 11:00",
+      "title": "O pohár SDH Kejžlice",
+      "date": "31.07.2011 11:00",
       "location": "Kejžlice",
       "startingList": {
         "categories": []
@@ -295,7 +295,7 @@
     },
     {
       "url": "vysledek-vez-8016.html",
-      "date": "30. 07. 2011 11:00",
+      "date": "30.07.2011 11:00",
       "status": "completed",
       "id": "8016",
       "results": {
@@ -583,7 +583,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "17. 07. 2011 11:00",
+      "date": "17.07.2011 11:00",
       "status": "completed",
       "url": "vysledek-olesna-8015.html",
       "results": {
@@ -896,7 +896,7 @@
           }
         ]
       },
-      "title": "Olešná",
+      "title": "O pohár SDH Olešná",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -905,10 +905,10 @@
       "startingList": {
         "categories": []
       },
-      "title": "Kámen",
+      "title": "O pohár SDH Kámen",
       "url": "vysledek-kamen-8014.html",
       "status": "completed",
-      "date": "02. 07. 2011 11:00",
+      "date": "02.07.2011 11:00",
       "location": "Kámen",
       "results": {
         "categories": [
@@ -1218,7 +1218,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "03. 06. 2011 11:00",
+      "date": "03.06.2011 11:00",
       "results": {
         "categories": [
           {

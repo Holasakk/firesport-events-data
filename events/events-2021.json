@@ -287,7 +287,7 @@
           }
         ]
       },
-      "title": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "url": "vysledek-ceska-bela-11728.html",
       "status": "completed",
       "startingList": {
@@ -429,7 +429,7 @@
           }
         ]
       },
-      "date": "25. 09. 2021 10:00",
+      "date": "25.09.2021 10:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -438,7 +438,7 @@
       "status": "completed",
       "url": "vysledek-srch-11727.html",
       "location": "Srch",
-      "date": "18. 09. 2021 10:00",
+      "date": "18.09.2021 10:00",
       "id": "11727",
       "startingList": {
         "categories": [
@@ -747,7 +747,7 @@
     {
       "location": "Herálec",
       "url": "vysledek-heralec-11726.html",
-      "title": "Herálec",
+      "title": "O pohár SDH Herálec",
       "id": "11726",
       "results": {
         "categories": [
@@ -1049,7 +1049,7 @@
           }
         ]
       },
-      "date": "11. 09. 2021 10:00",
+      "date": "11.09.2021 10:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1182,7 +1182,7 @@
           }
         ]
       },
-      "date": "28. 08. 2021 10:00",
+      "date": "28.08.2021 10:00",
       "status": "completed",
       "results": {
         "categories": [
@@ -1419,7 +1419,7 @@
           }
         ]
       },
-      "title": "Smilov",
+      "title": "O pohár SDH Smilov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1427,7 +1427,7 @@
     {
       "location": "Podmoklany",
       "status": "completed",
-      "date": "14. 08. 2021 10:00",
+      "date": "14.08.2021 10:00",
       "id": "11724",
       "results": {
         "categories": [
@@ -1801,7 +1801,7 @@
           }
         ]
       },
-      "title": "Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "url": "vysledek-podmoklany-11724.html",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -2022,9 +2022,9 @@
           }
         ]
       },
-      "title": "Pohled",
+      "title": "O pohár SDH Pohled",
       "location": "Pohled",
-      "date": "07. 08. 2021 10:00",
+      "date": "07.08.2021 10:00",
       "startingList": {
         "categories": [
           {
@@ -2150,7 +2150,7 @@
     },
     {
       "location": "Kámen",
-      "title": "Kámen",
+      "title": "O pohár SDH Kámen",
       "results": {
         "categories": [
           {
@@ -2411,7 +2411,7 @@
         ]
       },
       "url": "vysledek-kamen-11722.html",
-      "date": "10. 07. 2021 10:00",
+      "date": "10.07.2021 10:00",
       "status": "completed",
       "startingList": {
         "categories": [
@@ -2553,9 +2553,9 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "04. 07. 2021 10:00",
+      "date": "04.07.2021 10:00",
       "location": "Kynice",
-      "title": "Kynice",
+      "title": "O pohár SDH Kynice",
       "url": "vysledek-kynice-11721.html",
       "id": "11721",
       "results": {
@@ -2999,7 +2999,7 @@
           }
         ]
       },
-      "title": "Žižkovo Pole",
+      "title": "O pohár SDH Žižkovo Pole",
       "results": {
         "categories": [
           {
@@ -3220,7 +3220,7 @@
         ]
       },
       "id": "11720",
-      "date": "03. 07. 2021 10:00",
+      "date": "03.07.2021 10:00",
       "url": "vysledek-zizkovo-pole-11720.html",
       "status": "completed",
       "district": "",
@@ -3228,9 +3228,9 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Nová Ves u Světlé",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "id": "11719",
-      "date": "26. 06. 2021 10:00",
+      "date": "26.06.2021 10:00",
       "status": "completed",
       "location": "Nová Ves u Světlé",
       "results": {

@@ -97,7 +97,7 @@
           }
         ]
       },
-      "date": "30. 08. 2003 13:00",
+      "date": "30.08.2003 13:00",
       "location": "Nová Ves u Světlé, HB",
       "status": "completed",
       "district": "",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "date": "23. 08. 2003 13:00",
+      "date": "23.08.2003 13:00",
       "location": "Habry, HB",
       "status": "completed",
       "district": "",
@@ -200,7 +200,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "09. 08. 2003 13:00",
+      "date": "09.08.2003 13:00",
       "id": "593",
       "startingList": {
         "categories": []
@@ -394,7 +394,7 @@
         ]
       },
       "location": "Květinov - Kámen, HB",
-      "date": "09. 08. 2003 13:00",
+      "date": "09.08.2003 13:00",
       "id": "689",
       "startingList": {
         "categories": []
@@ -408,7 +408,7 @@
     {
       "url": "vysledek-sedletin-2003-07-19-591.html",
       "id": "591",
-      "date": "19. 07. 2003 13:00",
+      "date": "19.07.2003 13:00",
       "startingList": {
         "categories": []
       },
@@ -501,7 +501,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "12. 07. 2003 13:00",
+      "date": "12.07.2003 13:00",
       "startingList": {
         "categories": []
       },
@@ -690,7 +690,7 @@
         ]
       },
       "status": "completed",
-      "date": "05. 07. 2003 13:00",
+      "date": "05.07.2003 13:00",
       "location": "Smilov, HB",
       "id": "590",
       "title": "O pohár SDH Smilov",
@@ -785,7 +785,7 @@
       },
       "title": "O pohár starosty obce Vepříkov",
       "location": "Vepříkov, HB",
-      "date": "21. 06. 2003 13:00",
+      "date": "21.06.2003 13:00",
       "startingList": {
         "categories": []
       },
@@ -797,7 +797,7 @@
       "startingList": {
         "categories": []
       },
-      "date": "14. 06. 2003 13:00",
+      "date": "14.06.2003 13:00",
       "status": "completed",
       "results": {
         "categories": [

@@ -108,7 +108,7 @@
           }
         ]
       },
-      "date": "27. 09. 2025 10:00",
+      "date": "27.09.2025 10:00",
       "id": "14648",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -222,14 +222,14 @@
         ]
       },
       "id": "14647",
-      "date": "06. 09. 2025 10:00",
+      "date": "06.09.2025 10:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
       "status": "scheduled",
-      "date": "30. 08. 2025 10:00",
+      "date": "30.08.2025 10:00",
       "url": "vysledek-kynice-14646.html",
       "id": "14646",
       "title": "O pohár SDH Kynice",
@@ -447,7 +447,7 @@
       },
       "status": "scheduled",
       "url": "vysledek-smilov-14645.html",
-      "date": "23. 08. 2025 10:00",
+      "date": "23.08.2025 10:00",
       "id": "14645",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -455,7 +455,7 @@
     },
     {
       "status": "completed",
-      "date": "12. 07. 2025 12:00",
+      "date": "12.07.2025 12:00",
       "startingList": {
         "categories": [
           {
@@ -1101,7 +1101,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "05. 07. 2025 10:00",
+      "date": "05.07.2025 10:00",
       "startingList": {
         "categories": [
           {
@@ -1709,7 +1709,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "date": "28. 06. 2025 12:00",
+      "date": "28.06.2025 12:00",
       "startingList": {
         "categories": [
           {
@@ -2757,7 +2757,7 @@
           }
         ]
       },
-      "date": "14. 06. 2025 10:00",
+      "date": "14.06.2025 10:00",
       "location": "Nová Ves u Světlé",
       "status": "completed",
       "id": "14641",
@@ -3137,7 +3137,7 @@
         ]
       },
       "location": "Seč",
-      "date": "07. 06. 2025 10:00",
+      "date": "07.06.2025 10:00",
       "status": "completed",
       "results": {
         "categories": [
@@ -3534,7 +3534,7 @@
     },
     {
       "location": "Habry-ZRUŠENO více na FB",
-      "date": "31. 05. 2025 10:00",
+      "date": "31.05.2025 10:00",
       "url": "vysledek-habry-14639.html",
       "status": "completed",
       "startingList": {
