@@ -7,7 +7,6 @@
         "categories": []
       },
       "location": "Česká Bělá",
-      "url": "vysledek-ceska-bela-14648.html",
       "status": "scheduled",
       "startingList": {
         "categories": [
@@ -15,47 +14,47 @@
             "category": "Muži",
             "teams": [
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Habry"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Golčův Jeníkov"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
-                "teamName": "Žižkovo Pole  B"
+                "teamName": "Žižkovo Pole B"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 9,
                 "teamName": "Petrovice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 10,
-                "teamName": "Habry  FŇ"
+                "teamName": "Habry FŇ"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 14,
                 "teamName": "Lípa"
               }
@@ -65,43 +64,43 @@
             "category": "Ženy",
             "teams": [
               {
-                "district": "HB",
-                "teamName": "Česká Bělá  ml.",
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá ml.",
                 "startPosition": 1
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled",
                 "startPosition": 2
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen",
                 "startPosition": 3
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice",
                 "startPosition": 4
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Česká Bělá",
                 "startPosition": 5
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole",
                 "startPosition": 6
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa",
                 "startPosition": 7
               },
               {
-                "district": "HB",
-                "teamName": "Nová Ves u Chotěboře  Z",
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "startPosition": 8
               }
             ]
@@ -109,13 +108,11 @@
         ]
       },
       "date": "27.09.2025 10:00",
-      "id": "14648",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-ceska-bela-14648.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-ceska-bela-14648.html"
     },
     {
-      "url": "vysledek-pohled-14647.html",
       "location": "Pohled",
       "title": "O pohár SDH Pohled",
       "results": {
@@ -128,47 +125,47 @@
             "category": "Muži",
             "teams": [
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Habry"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Golčův Jeníkov"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
-                "teamName": "Žižkovo Pole  B"
+                "teamName": "Žižkovo Pole B"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 9,
                 "teamName": "Petrovice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 10,
-                "teamName": "Habry  FŇ"
+                "teamName": "Habry FŇ"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 14,
                 "teamName": "Lípa"
               }
@@ -178,60 +175,57 @@
             "category": "Ženy",
             "teams": [
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 1,
-                "teamName": "Česká Bělá  ml."
+                "teamName": "Česká Bělá ml."
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Kámen"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 5,
                 "teamName": "Česká Bělá"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
                 "teamName": "Žižkovo Pole"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7,
                 "teamName": "Lípa"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
-                "teamName": "Nová Ves u Chotěboře  Z"
+                "teamName": "Nová Ves u Chotěboře Z"
               }
             ]
           }
         ]
       },
-      "id": "14647",
       "date": "06.09.2025 10:00",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-pohled-14647.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-pohled-14647.html"
     },
     {
       "status": "scheduled",
       "date": "30.08.2025 10:00",
-      "url": "vysledek-kynice-14646.html",
-      "id": "14646",
       "title": "O pohár SDH Kynice",
       "location": "Kynice",
       "results": {
@@ -244,47 +238,47 @@
             "teams": [
               {
                 "startPosition": 2,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
                 "startPosition": 3,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry"
               },
               {
                 "startPosition": 4,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Golčův Jeníkov"
               },
               {
                 "startPosition": 6,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole B"
               },
               {
                 "startPosition": 7,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled"
               },
               {
                 "startPosition": 8,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice"
               },
               {
                 "startPosition": 9,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Petrovice"
               },
               {
                 "startPosition": 10,
-                "district": "HB",
-                "teamName": "Habry  FŇ"
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry FŇ"
               },
               {
                 "startPosition": 14,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
               }
             ]
@@ -293,52 +287,52 @@
             "category": "Ženy",
             "teams": [
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 1,
-                "teamName": "Česká Bělá  ml."
+                "teamName": "Česká Bělá ml."
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Kámen"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 5,
                 "teamName": "Česká Bělá"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
                 "teamName": "Žižkovo Pole"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7,
                 "teamName": "Lípa"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
-                "teamName": "Nová Ves u Chotěboře  Z"
+                "teamName": "Nová Ves u Chotěboře Z"
               }
             ]
           }
         ]
       },
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-kynice-14646.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-kynice-14646.html"
     },
     {
       "location": "Smilov",
@@ -349,47 +343,47 @@
             "teams": [
               {
                 "startPosition": 2,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
                 "startPosition": 3,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry"
               },
               {
                 "startPosition": 4,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Golčův Jeníkov"
               },
               {
                 "startPosition": 6,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole B"
               },
               {
                 "startPosition": 7,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled"
               },
               {
                 "startPosition": 8,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice"
               },
               {
                 "startPosition": 9,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Petrovice"
               },
               {
                 "startPosition": 10,
-                "district": "HB",
-                "teamName": "Habry  FŇ"
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry FŇ"
               },
               {
                 "startPosition": 14,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
               }
             ]
@@ -399,43 +393,43 @@
             "teams": [
               {
                 "startPosition": 1,
-                "teamName": "Česká Bělá  ml.",
-                "district": "HB"
+                "teamName": "Česká Bělá ml.",
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 2,
                 "teamName": "Pohled",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 3,
                 "teamName": "Kámen",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 4,
                 "teamName": "Lučice",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 5,
                 "teamName": "Česká Bělá",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 6,
                 "teamName": "Žižkovo Pole",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 7,
                 "teamName": "Lípa",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 8,
-                "teamName": "Nová Ves u Chotěboře  Z",
-                "district": "HB"
+                "teamName": "Nová Ves u Chotěboře Z",
+                "district": "Havlíčkův Brod"
               }
             ]
           }
@@ -446,12 +440,10 @@
         "categories": []
       },
       "status": "scheduled",
-      "url": "vysledek-smilov-14645.html",
       "date": "23.08.2025 10:00",
-      "id": "14645",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-smilov-14645.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-smilov-14645.html"
     },
     {
       "status": "completed",
@@ -463,22 +455,22 @@
             "teams": [
               {
                 "startPosition": 1,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Ždírec nad Doubravou"
               },
               {
                 "startPosition": 2,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
                 "startPosition": 3,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry"
               },
               {
                 "startPosition": 4,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Golčův Jeníkov"
               },
               {
@@ -488,53 +480,53 @@
               },
               {
                 "startPosition": 6,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole B"
               },
               {
                 "startPosition": 7,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled"
               },
               {
                 "startPosition": 8,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice"
               },
               {
                 "startPosition": 9,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Petrovice"
               },
               {
                 "startPosition": 10,
-                "district": "HB",
-                "teamName": "Habry  FŇ"
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry FŇ"
               },
               {
                 "startPosition": 11,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Světlé"
               },
               {
                 "startPosition": 12,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Dolní Jablonná"
               },
               {
                 "startPosition": 13,
                 "district": "PA",
-                "teamName": "Stéblová  H"
+                "teamName": "Stéblová H"
               },
               {
                 "startPosition": 14,
-                "district": "HB",
-                "teamName": "Lučice  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Lučice B"
               },
               {
                 "startPosition": 15,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  C"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole C"
               },
               {
                 "startPosition": 16,
@@ -543,43 +535,43 @@
               },
               {
                 "startPosition": 17,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
               },
               {
                 "startPosition": 18,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Tis"
               },
               {
                 "startPosition": 19,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen"
               },
               {
                 "startPosition": 20,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Vilémov"
               },
               {
                 "startPosition": 21,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Libice nad Doubravou"
               },
               {
                 "startPosition": 22,
-                "district": "CR",
+                "district": "Chrudim",
                 "teamName": "Seč"
               },
               {
                 "startPosition": 23,
                 "district": "KH",
-                "teamName": "Vrdy  Vrdy"
+                "teamName": "Vrdy Vrdy"
               },
               {
                 "startPosition": 24,
-                "district": "HB",
-                "teamName": "Dolní Jablonná  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Dolní Jablonná B"
               },
               {
                 "startPosition": 25,
@@ -593,37 +585,37 @@
             "teams": [
               {
                 "startPosition": 1,
-                "district": "HB",
-                "teamName": "Česká Bělá  ml."
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá ml."
               },
               {
                 "startPosition": 2,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled"
               },
               {
                 "startPosition": 3,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen"
               },
               {
                 "startPosition": 4,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice"
               },
               {
                 "startPosition": 5,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Česká Bělá"
               },
               {
                 "startPosition": 6,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole"
               },
               {
                 "startPosition": 7,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Světlé"
               },
               {
@@ -633,33 +625,33 @@
               },
               {
                 "startPosition": 9,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Veselý Žďár"
               },
               {
                 "startPosition": 10,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry"
               },
               {
                 "startPosition": 11,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Dolní Jablonná"
               },
               {
                 "startPosition": 12,
-                "district": "CR",
+                "district": "Chrudim",
                 "teamName": "Stolany"
               },
               {
                 "startPosition": 13,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
               },
               {
                 "startPosition": 14,
-                "district": "HB",
-                "teamName": "Nová Ves u Chotěboře  Z"
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Chotěboře Z"
               }
             ]
           }
@@ -673,7 +665,7 @@
             "teams": [
               {
                 "secondTargetTime": "16,77",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 1,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "17,19",
@@ -721,7 +713,7 @@
               },
               {
                 "secondTargetTime": "18,96",
-                "teamName": " Dolní Jablonná A",
+                "teamName": "Dolní Jablonná A",
                 "position": 7,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,86",
@@ -729,7 +721,7 @@
               },
               {
                 "secondTargetTime": "18,97",
-                "teamName": " Žižkovo Pole C",
+                "teamName": "Žižkovo Pole C",
                 "position": 8,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,93",
@@ -753,7 +745,7 @@
               },
               {
                 "secondTargetTime": "20,23",
-                "teamName": " Dolní Jablonná B",
+                "teamName": "Dolní Jablonná B",
                 "position": 11,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "20,58",
@@ -777,7 +769,7 @@
               },
               {
                 "secondTargetTime": "22,69",
-                "teamName": " Stéblová H",
+                "teamName": "Stéblová H",
                 "position": 14,
                 "district": "Pardubice",
                 "firstTargetTime": "22,72",
@@ -785,7 +777,7 @@
               },
               {
                 "secondTargetTime": "23,63",
-                "teamName": " Lučice B",
+                "teamName": "Lučice B",
                 "position": 15,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "23,16",
@@ -801,7 +793,7 @@
               },
               {
                 "secondTargetTime": "23,96",
-                "teamName": " Žižkovo Pole Divadlo",
+                "teamName": "Žižkovo Pole Divadlo",
                 "position": 17,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "23,20",
@@ -833,7 +825,7 @@
               },
               {
                 "secondTargetTime": "31,92",
-                "teamName": " Habry FŇ",
+                "teamName": "Habry FŇ",
                 "position": 21,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "32,97",
@@ -936,7 +928,7 @@
                 "position": 7,
                 "firstTargetTime": "20,26",
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá ml.",
+                "teamName": "Česká Bělá ml.",
                 "secondTargetTime": "17,42",
                 "finalTime": "20,26"
               },
@@ -968,7 +960,7 @@
                 "position": 11,
                 "firstTargetTime": "24,21",
                 "district": "Havlíčkův Brod",
-                "teamName": " Nová Ves u Chotěboře Z",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "secondTargetTime": "24,10",
                 "finalTime": "24,21"
               },
@@ -1093,12 +1085,10 @@
           }
         ]
       },
-      "id": "14644",
       "title": "O pohár SDH Kámen",
-      "url": "vysledek-kamen-14644.html",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-kamen-14644.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-kamen-14644.html"
     },
     {
       "date": "05.07.2025 10:00",
@@ -1115,47 +1105,47 @@
               {
                 "startPosition": 2,
                 "teamName": "Žižkovo Pole Divadlo",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 3,
                 "teamName": "Habry",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 4,
                 "teamName": "Golčův Jeníkov",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 5,
                 "teamName": "Dolní Jablonná",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 6,
-                "teamName": "Žižkovo Pole  B",
-                "district": "HB"
+                "teamName": "Žižkovo Pole B",
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 7,
                 "teamName": "Pohled",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 8,
                 "teamName": "Lučice",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 9,
                 "teamName": "Petrovice",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 10,
-                "teamName": "Habry  FŇ",
-                "district": "HB"
+                "teamName": "Habry FŇ",
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 11,
@@ -1164,23 +1154,23 @@
               },
               {
                 "startPosition": 12,
-                "teamName": "Lučice  B",
-                "district": "HB"
+                "teamName": "Lučice B",
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 13,
                 "teamName": "Nová Ves u Světlé",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 14,
-                "teamName": "Žižkovo Pole  C",
-                "district": "HB"
+                "teamName": "Žižkovo Pole C",
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 15,
                 "teamName": "Kámen",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 16,
@@ -1190,7 +1180,7 @@
               {
                 "startPosition": 17,
                 "teamName": "Tis",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 18,
@@ -1200,27 +1190,27 @@
               {
                 "startPosition": 19,
                 "teamName": "Dolní Jablonná B",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 20,
-                "teamName": "Stéblová  H",
+                "teamName": "Stéblová H",
                 "district": "PA"
               },
               {
                 "startPosition": 21,
                 "teamName": "Lípa",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 22,
                 "teamName": "Libice nad Doubravou",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "startPosition": 23,
                 "teamName": "Vilémov",
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               }
             ]
           },
@@ -1228,47 +1218,47 @@
             "category": "Ženy",
             "teams": [
               {
-                "district": "HB",
-                "teamName": "Česká Bělá  ml.",
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá ml.",
                 "startPosition": 1
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled",
                 "startPosition": 2
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen",
                 "startPosition": 3
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice",
                 "startPosition": 4
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Česká Bělá",
                 "startPosition": 5
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole",
                 "startPosition": 6
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Dolní Jablonná",
                 "startPosition": 7
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry",
                 "startPosition": 8
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Světlé",
                 "startPosition": 9
               },
@@ -1278,18 +1268,18 @@
                 "startPosition": 10
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Veselý Žďár",
                 "startPosition": 11
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa",
                 "startPosition": 12
               },
               {
-                "district": "HB",
-                "teamName": "Nová Ves u Chotěboře  Z",
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "startPosition": 13
               }
             ]
@@ -1303,7 +1293,7 @@
             "teams": [
               {
                 "firstTargetTime": "17,03",
-                "teamName": " Žižkovo Pole Divadlo",
+                "teamName": "Žižkovo Pole Divadlo",
                 "district": "Havlíčkův Brod",
                 "position": 1,
                 "secondTargetTime": "16,73",
@@ -1351,7 +1341,7 @@
               },
               {
                 "firstTargetTime": "18,92",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "position": 7,
                 "secondTargetTime": "16,95",
@@ -1367,7 +1357,7 @@
               },
               {
                 "firstTargetTime": "19,33",
-                "teamName": " Žižkovo Pole A",
+                "teamName": "Žižkovo Pole A",
                 "district": "Havlíčkův Brod",
                 "position": 9,
                 "secondTargetTime": "19,42",
@@ -1383,7 +1373,7 @@
               },
               {
                 "firstTargetTime": "19,86",
-                "teamName": " Žižkovo Pole C",
+                "teamName": "Žižkovo Pole C",
                 "district": "Havlíčkův Brod",
                 "position": 11,
                 "secondTargetTime": "18,92",
@@ -1391,7 +1381,7 @@
               },
               {
                 "firstTargetTime": "19,91",
-                "teamName": " Dolní Jablonná B",
+                "teamName": "Dolní Jablonná B",
                 "district": "Havlíčkův Brod",
                 "position": 12,
                 "secondTargetTime": "20,49",
@@ -1399,7 +1389,7 @@
               },
               {
                 "firstTargetTime": "19,98",
-                "teamName": " Dolní Jablonná A",
+                "teamName": "Dolní Jablonná A",
                 "district": "Havlíčkův Brod",
                 "position": 13,
                 "secondTargetTime": "20,68",
@@ -1455,7 +1445,7 @@
               },
               {
                 "firstTargetTime": "27,47",
-                "teamName": " Habry FŇ",
+                "teamName": "Habry FŇ",
                 "district": "Havlíčkův Brod",
                 "position": 20,
                 "secondTargetTime": "20,02",
@@ -1471,7 +1461,7 @@
               },
               {
                 "firstTargetTime": "24,69",
-                "teamName": " Stéblová H",
+                "teamName": "Stéblová H",
                 "district": "Pardubice",
                 "position": 21,
                 "secondTargetTime": "25,17",
@@ -1479,7 +1469,7 @@
               },
               {
                 "firstTargetTime": "35,61",
-                "teamName": " Lučice B",
+                "teamName": "Lučice B",
                 "district": "Havlíčkův Brod",
                 "position": 21,
                 "secondTargetTime": "NP",
@@ -1567,7 +1557,7 @@
                 "position": 9,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "20,93",
-                "teamName": " Česká Bělá ml.",
+                "teamName": "Česká Bělá ml.",
                 "finalTime": "20,93"
               },
               {
@@ -1700,13 +1690,11 @@
           }
         ]
       },
-      "url": "vysledek-zizkovo-pole-14643.html",
       "title": "O pohár SDH Žižkovo Pole",
       "status": "completed",
-      "id": "14643",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-zizkovo-pole-14643.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-zizkovo-pole-14643.html"
     },
     {
       "date": "28.06.2025 12:00",
@@ -1717,53 +1705,53 @@
             "teams": [
               {
                 "startPosition": 1,
-                "district": "CR",
+                "district": "Chrudim",
                 "teamName": "Seč"
               },
               {
                 "startPosition": 2,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
                 "startPosition": 3,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Habry"
               },
               {
                 "startPosition": 4,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Golčův Jeníkov"
               },
               {
                 "startPosition": 5,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Dolní Jablonná"
               },
               {
                 "startPosition": 6,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole B"
               },
               {
                 "startPosition": 7,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled"
               },
               {
                 "startPosition": 8,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice"
               },
               {
                 "startPosition": 9,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Petrovice"
               },
               {
                 "startPosition": 10,
-                "district": "HB",
-                "teamName": "Habry  FŇ"
+                "district": "Havlíčkův Brod",
+                "teamName": "Habry FŇ"
               },
               {
                 "startPosition": 11,
@@ -1777,58 +1765,58 @@
               },
               {
                 "startPosition": 13,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen"
               },
               {
                 "startPosition": 14,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Vilémov"
               },
               {
                 "startPosition": 15,
-                "district": "HB",
-                "teamName": "Lučice  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Lučice B"
               },
               {
                 "startPosition": 16,
-                "district": "HB",
-                "teamName": "Žižkovo Pole  C"
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole C"
               },
               {
                 "startPosition": 17,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Ždírec nad Doubravou"
               },
               {
                 "startPosition": 18,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Libice nad Doubravou"
               },
               {
                 "startPosition": 19,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
               },
               {
                 "startPosition": 20,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Světlé"
               },
               {
                 "startPosition": 21,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Chotěboře"
               },
               {
                 "startPosition": 22,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Tis"
               },
               {
                 "startPosition": 23,
-                "district": "HB",
-                "teamName": "Dolní Jablonná  B"
+                "district": "Havlíčkův Brod",
+                "teamName": "Dolní Jablonná B"
               },
               {
                 "startPosition": 24,
@@ -1841,32 +1829,32 @@
             "category": "Ženy",
             "teams": [
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 1,
-                "teamName": "Česká Bělá  ml."
+                "teamName": "Česká Bělá ml."
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Kámen"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 5,
                 "teamName": "Česká Bělá"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
                 "teamName": "Žižkovo Pole"
               },
@@ -1876,12 +1864,12 @@
                 "teamName": "Stéblová"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
                 "teamName": "Veselý Žďár"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 9,
                 "teamName": "Dolní Jablonná"
               },
@@ -1891,32 +1879,32 @@
                 "teamName": "Čeperka"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 11,
                 "teamName": "Lípa"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 12,
                 "teamName": "Nová Ves u Světlé"
               },
               {
-                "district": "CR",
+                "district": "Chrudim",
                 "startPosition": 13,
                 "teamName": "Stolany"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 14,
                 "teamName": "Nová Ves u Chotěboře"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 15,
-                "teamName": "Nová Ves u Chotěboře  Z"
+                "teamName": "Nová Ves u Chotěboře Z"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 16,
                 "teamName": "Habry"
               }
@@ -1924,7 +1912,7 @@
           }
         ]
       },
-      "location": "Uhelná Příbram (SDH Petrovice)",
+      "location": "Uhelná Příbram",
       "results": {
         "categories": [
           {
@@ -1941,7 +1929,7 @@
               {
                 "secondTargetTime": "17,21",
                 "firstTargetTime": "17,00",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 2,
                 "district": "Havlíčkův Brod",
                 "finalTime": "17,21"
@@ -1949,7 +1937,7 @@
               {
                 "secondTargetTime": "17,52",
                 "firstTargetTime": "17,31",
-                "teamName": " Žižkovo Pole Divadlo",
+                "teamName": "Žižkovo Pole Divadlo",
                 "position": 3,
                 "district": "Havlíčkův Brod",
                 "finalTime": "17,52"
@@ -2013,7 +2001,7 @@
               {
                 "secondTargetTime": "18,34",
                 "firstTargetTime": "18,67",
-                "teamName": " Žižkovo Pole C",
+                "teamName": "Žižkovo Pole C",
                 "position": 11,
                 "district": "Havlíčkův Brod",
                 "finalTime": "18,67"
@@ -2029,7 +2017,7 @@
               {
                 "secondTargetTime": "18,81",
                 "firstTargetTime": "18,18",
-                "teamName": " Dolní Jablonná A",
+                "teamName": "Dolní Jablonná A",
                 "position": 13,
                 "district": "Havlíčkův Brod",
                 "finalTime": "18,81"
@@ -2069,7 +2057,7 @@
               {
                 "secondTargetTime": "20,67",
                 "firstTargetTime": "21,20",
-                "teamName": " Habry FŇ",
+                "teamName": "Habry FŇ",
                 "position": 18,
                 "district": "Havlíčkův Brod",
                 "finalTime": "21,20"
@@ -2085,7 +2073,7 @@
               {
                 "secondTargetTime": "23,36",
                 "firstTargetTime": "22,31",
-                "teamName": " Lučice B",
+                "teamName": "Lučice B",
                 "position": 20,
                 "district": "Havlíčkův Brod",
                 "finalTime": "23,36"
@@ -2117,7 +2105,7 @@
               {
                 "secondTargetTime": "35,23",
                 "firstTargetTime": "34,02",
-                "teamName": " Dolní Jablonná B",
+                "teamName": "Dolní Jablonná B",
                 "position": 24,
                 "district": "Havlíčkův Brod",
                 "finalTime": "35,23"
@@ -2155,7 +2143,7 @@
                 "position": 3,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,76",
-                "teamName": " Česká Bělá ml.",
+                "teamName": "Česká Bělá ml.",
                 "secondTargetTime": "17,08",
                 "finalTime": "18,76"
               },
@@ -2195,7 +2183,7 @@
                 "position": 8,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "20,40",
-                "teamName": " Nová Ves u Chotěboře Z",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "secondTargetTime": "18,75",
                 "finalTime": "20,40"
               },
@@ -2376,13 +2364,11 @@
           }
         ]
       },
-      "url": "vysledek-uhelna-pribram-14642.html",
       "title": "O pohár SDH Petrovice",
       "status": "completed",
-      "id": "14642",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-uhelna-pribram-14642.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-uhelna-pribram-14642.html"
     },
     {
       "title": "O pohár SDH Nová Ves u Světlé",
@@ -2410,7 +2396,7 @@
               {
                 "secondTargetTime": "17,83",
                 "position": 3,
-                "teamName": " Žižkovo Pole Divadlo",
+                "teamName": "Žižkovo Pole Divadlo",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "17,15",
                 "finalTime": "17,83"
@@ -2426,7 +2412,7 @@
               {
                 "secondTargetTime": "17,90",
                 "position": 5,
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "17,43",
                 "finalTime": "17,90"
@@ -2450,7 +2436,7 @@
               {
                 "secondTargetTime": "18,81",
                 "position": 8,
-                "teamName": " Žižkovo Pole C",
+                "teamName": "Žižkovo Pole C",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,68",
                 "finalTime": "18,81"
@@ -2498,7 +2484,7 @@
               {
                 "secondTargetTime": "20,63",
                 "firstTargetTime": "20,48",
-                "teamName": " Nová Ves u Světlé dědci",
+                "teamName": "Nová Ves u Světlé dědci",
                 "position": 14,
                 "district": "Havlíčkův Brod",
                 "finalTime": "20,63"
@@ -2514,7 +2500,7 @@
               {
                 "secondTargetTime": "21,13",
                 "firstTargetTime": "21,11",
-                "teamName": " Habry FŇ",
+                "teamName": "Habry FŇ",
                 "position": 16,
                 "district": "Havlíčkův Brod",
                 "finalTime": "21,13"
@@ -2546,7 +2532,7 @@
               {
                 "secondTargetTime": "29,74",
                 "firstTargetTime": "26,58",
-                "teamName": " Dolní Jablonná B",
+                "teamName": "Dolní Jablonná B",
                 "position": 20,
                 "district": "Havlíčkův Brod",
                 "finalTime": "29,74"
@@ -2554,7 +2540,7 @@
               {
                 "secondTargetTime": "29,45",
                 "firstTargetTime": "29,87",
-                "teamName": " Dolní Jablonná A",
+                "teamName": "Dolní Jablonná A",
                 "position": 21,
                 "district": "Havlíčkův Brod",
                 "finalTime": "29,87"
@@ -2562,7 +2548,7 @@
               {
                 "secondTargetTime": "29,96",
                 "firstTargetTime": "28,26",
-                "teamName": " Lučice B",
+                "teamName": "Lučice B",
                 "position": 22,
                 "district": "Havlíčkův Brod",
                 "finalTime": "29,96"
@@ -2599,7 +2585,7 @@
               {
                 "secondTargetTime": "18,04",
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá ml.",
+                "teamName": "Česká Bělá ml.",
                 "position": 4,
                 "firstTargetTime": "18,73",
                 "finalTime": "18,73"
@@ -2623,7 +2609,7 @@
               {
                 "secondTargetTime": "20,34",
                 "district": "Havlíčkův Brod",
-                "teamName": " Nová Ves u Chotěboře Z",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "position": 7,
                 "firstTargetTime": "20,15",
                 "finalTime": "20,34"
@@ -2760,8 +2746,6 @@
       "date": "14.06.2025 10:00",
       "location": "Nová Ves u Světlé",
       "status": "completed",
-      "id": "14641",
-      "url": "vysledek-nova-ves-u-svetle-14641.html",
       "startingList": {
         "categories": [
           {
@@ -2770,52 +2754,52 @@
               {
                 "teamName": "Ždírec nad Doubravou",
                 "startPosition": 1,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Žižkovo Pole Divadlo",
                 "startPosition": 2,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Habry",
                 "startPosition": 3,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Golčův Jeníkov",
                 "startPosition": 4,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Tis",
                 "startPosition": 5,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
-                "teamName": "Žižkovo Pole  B",
+                "teamName": "Žižkovo Pole B",
                 "startPosition": 6,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Pohled",
                 "startPosition": 7,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Lučice",
                 "startPosition": 8,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Petrovice",
                 "startPosition": 9,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
-                "teamName": "Habry  FŇ",
+                "teamName": "Habry FŇ",
                 "startPosition": 10,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Milíčov",
@@ -2825,22 +2809,22 @@
               {
                 "teamName": "Vilémov",
                 "startPosition": 12,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Dolní Jablonná",
                 "startPosition": 13,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Lípa",
                 "startPosition": 14,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
-                "teamName": "Žižkovo Pole  C",
+                "teamName": "Žižkovo Pole C",
                 "startPosition": 15,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Stéblová",
@@ -2850,7 +2834,7 @@
               {
                 "teamName": "Nová Ves u Světlé",
                 "startPosition": 17,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Srch",
@@ -2858,19 +2842,19 @@
                 "district": "PA"
               },
               {
-                "teamName": "Lučice  B",
+                "teamName": "Lučice B",
                 "startPosition": 19,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
-                "teamName": "Dolní Jablonná  B",
+                "teamName": "Dolní Jablonná B",
                 "startPosition": 20,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               },
               {
                 "teamName": "Kámen",
                 "startPosition": 21,
-                "district": "HB"
+                "district": "Havlíčkův Brod"
               }
             ]
           },
@@ -2879,36 +2863,36 @@
             "teams": [
               {
                 "startPosition": 1,
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Dolní Jablonná"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Pohled",
                 "startPosition": 2
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Kámen",
                 "startPosition": 3
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lučice",
                 "startPosition": 4
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Česká Bělá",
                 "startPosition": 5
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole",
                 "startPosition": 6
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Lípa",
                 "startPosition": 7
               },
@@ -2918,35 +2902,34 @@
                 "startPosition": 8
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Veselý Žďár",
                 "startPosition": 9
               },
               {
-                "district": "HB",
-                "teamName": "Česká Bělá  ml.",
+                "district": "Havlíčkův Brod",
+                "teamName": "Česká Bělá ml.",
                 "startPosition": 10
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "teamName": "Nová Ves u Světlé",
                 "startPosition": 11
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 12,
-                "teamName": "Nová Ves u Chotěboře  Z"
+                "teamName": "Nová Ves u Chotěboře Z"
               }
             ]
           }
         ]
       },
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-nova-ves-u-svetle-14641.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-nova-ves-u-svetle-14641.html"
     },
     {
-      "id": "14640",
       "startingList": {
         "categories": [
           {
@@ -2958,62 +2941,62 @@
                 "teamName": "Stéblová"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2,
                 "teamName": "Žižkovo Pole Divadlo"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3,
                 "teamName": "Habry"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4,
                 "teamName": "Golčův Jeníkov"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 5,
                 "teamName": "Kámen"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6,
-                "teamName": "Žižkovo Pole  B"
+                "teamName": "Žižkovo Pole B"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7,
                 "teamName": "Pohled"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8,
                 "teamName": "Lučice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 9,
                 "teamName": "Petrovice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 10,
-                "teamName": "Habry  FŇ"
+                "teamName": "Habry FŇ"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 11,
-                "teamName": "Dolní Jablonná  A"
+                "teamName": "Dolní Jablonná A"
               },
               {
-                "district": "CR",
+                "district": "Chrudim",
                 "startPosition": 12,
                 "teamName": "Studnice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 13,
                 "teamName": "Lípa"
               },
@@ -3023,32 +3006,32 @@
                 "teamName": "Milíčov"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 15,
                 "teamName": "Vilémov"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 16,
-                "teamName": "Žižkovo Pole  C"
+                "teamName": "Žižkovo Pole C"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 17,
                 "teamName": "Tis"
               },
               {
-                "district": "CR",
+                "district": "Chrudim",
                 "startPosition": 18,
-                "teamName": "Lukavice  Lukavice"
+                "teamName": "Lukavice Lukavice"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 19,
                 "teamName": "Ždírec nad Doubravou"
               },
               {
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 20,
                 "teamName": "Nová Ves u Světlé"
               },
@@ -3058,9 +3041,9 @@
                 "teamName": "Srch"
               },
               {
-                "district": "CR",
+                "district": "Chrudim",
                 "startPosition": 22,
-                "teamName": "Seč  B"
+                "teamName": "Seč B"
               }
             ]
           },
@@ -3068,43 +3051,43 @@
             "category": "Ženy",
             "teams": [
               {
-                "teamName": "Nová Ves u Chotěboře  Z",
-                "district": "HB",
+                "teamName": "Nová Ves u Chotěboře Z",
+                "district": "Havlíčkův Brod",
                 "startPosition": 1
               },
               {
                 "teamName": "Pohled",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 2
               },
               {
                 "teamName": "Kámen",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 3
               },
               {
                 "teamName": "Lučice",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 4
               },
               {
                 "teamName": "Česká Bělá",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 5
               },
               {
                 "teamName": "Žižkovo Pole",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 6
               },
               {
                 "teamName": "Dolní Jablonná",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 7
               },
               {
                 "teamName": "Veselý Žďár",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 8
               },
               {
@@ -3114,22 +3097,22 @@
               },
               {
                 "teamName": "Stolany",
-                "district": "CR",
+                "district": "Chrudim",
                 "startPosition": 11
               },
               {
                 "teamName": "Lípa",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 12
               },
               {
-                "teamName": "Česká Bělá  ml.",
-                "district": "HB",
+                "teamName": "Česká Bělá ml.",
+                "district": "Havlíčkův Brod",
                 "startPosition": 13
               },
               {
                 "teamName": "Nová Ves u Světlé",
-                "district": "HB",
+                "district": "Havlíčkův Brod",
                 "startPosition": 14
               }
             ]
@@ -3156,7 +3139,7 @@
                 "firstTargetTime": "17,72",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "17,51",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 2,
                 "finalTime": "17,72"
               },
@@ -3204,7 +3187,7 @@
                 "firstTargetTime": "18,35",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,40",
-                "teamName": " Žižkovo Pole C",
+                "teamName": "Žižkovo Pole C",
                 "position": 8,
                 "finalTime": "19,40"
               },
@@ -3228,7 +3211,7 @@
                 "firstTargetTime": "18,76",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "20,04",
-                "teamName": " Dolní Jablonná A",
+                "teamName": "Dolní Jablonná A",
                 "position": 11,
                 "finalTime": "20,04"
               },
@@ -3260,7 +3243,7 @@
                 "firstTargetTime": "21,56",
                 "district": "Chrudim",
                 "secondTargetTime": "21,35",
-                "teamName": " Seč B",
+                "teamName": "Seč B",
                 "position": 15,
                 "finalTime": "21,56"
               },
@@ -3292,7 +3275,7 @@
                 "firstTargetTime": "22,29",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "24,42",
-                "teamName": " Habry FŇ",
+                "teamName": "Habry FŇ",
                 "position": 19,
                 "finalTime": "24,42"
               },
@@ -3316,7 +3299,7 @@
                 "firstTargetTime": "NP",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "NP",
-                "teamName": " Habry A",
+                "teamName": "Habry A",
                 "position": 21,
                 "finalTime": "NP"
               },
@@ -3324,7 +3307,7 @@
                 "firstTargetTime": "NP",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "NP",
-                "teamName": " Žižkovo Pole Divadlo",
+                "teamName": "Žižkovo Pole Divadlo",
                 "position": 21,
                 "finalTime": "NP"
               },
@@ -3374,7 +3357,7 @@
                 "finalTime": "20,52"
               },
               {
-                "teamName": " Česká Bělá ml.",
+                "teamName": "Česká Bělá ml.",
                 "firstTargetTime": "19,51",
                 "position": 5,
                 "secondTargetTime": "20,55",
@@ -3430,7 +3413,7 @@
                 "finalTime": "41,42"
               },
               {
-                "teamName": " Nová Ves u Chotěboře Z",
+                "teamName": "Nová Ves u Chotěboře Z",
                 "firstTargetTime": "41,19",
                 "position": 12,
                 "secondTargetTime": "40,90",
@@ -3527,27 +3510,24 @@
         ]
       },
       "title": "O pohár SDH Seč",
-      "url": "vysledek-sec-14640.html",
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Chrudim",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-sec-14640.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-sec-14640.html"
     },
     {
-      "location": "Habry-ZRUŠENO více na FB",
+      "location": "Habry",
       "date": "31.05.2025 10:00",
-      "url": "vysledek-habry-14639.html",
-      "status": "completed",
+      "status": "cancelled",
       "startingList": {
         "categories": []
       },
-      "id": "14639",
       "title": "O pohár SDH Habry",
       "results": {
         "categories": []
       },
-      "district": "",
-      "startingListURL": "https://hbhl.firesport.eu",
-      "resultsURL": "https://hbhl.firesport.eu"
+      "district": "Havlíčkův Brod",
+      "startingListURL": "https://hbhl.firesport.eu/soutez-habry-14639.html",
+      "resultsURL": "https://hbhl.firesport.eu/vysledek-habry-14639.html"
     }
   ]
 }
