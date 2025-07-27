@@ -50,7 +50,7 @@
               {
                 "firstTargetTime": "18,72",
                 "district": "Havlíčkův Brod",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "secondTargetTime": "18,21",
                 "position": 5,
                 "finalTime": "18,72"
@@ -130,7 +130,7 @@
               {
                 "firstTargetTime": "NP",
                 "district": "Svitavy",
-                "teamName": " Široký Důl B",
+                "teamName": "Široký Důl B",
                 "secondTargetTime": "NP",
                 "position": 15,
                 "finalTime": "NP"
@@ -217,7 +217,7 @@
               {
                 "firstTargetTime": "17,58",
                 "secondTargetTime": "18,71",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "district": "Havlíčkův Brod",
                 "position": 5,
                 "finalTime": "18,71"
@@ -233,7 +233,7 @@
               {
                 "firstTargetTime": "21,06",
                 "secondTargetTime": "20,55",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "district": "Havlíčkův Brod",
                 "position": 7,
                 "finalTime": "21,06"
@@ -397,7 +397,7 @@
               },
               {
                 "district": "Havlíčkův Brod",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "firstTargetTime": "19,94",
                 "secondTargetTime": "18,95",
                 "position": 11,
@@ -413,7 +413,7 @@
               },
               {
                 "district": "Jihlava",
-                "teamName": " Sedlatice B",
+                "teamName": "Sedlatice B",
                 "firstTargetTime": "20,65",
                 "secondTargetTime": "21,25",
                 "position": 13,
@@ -676,7 +676,7 @@
                 "firstTargetTime": "19,78",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,58",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "finalTime": "19,78"
               },
               {
@@ -692,7 +692,7 @@
                 "firstTargetTime": "20,24",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,19",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "finalTime": "20,24"
               },
               {
@@ -724,7 +724,7 @@
                 "firstTargetTime": "NP",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "NP",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "NP"
               }
             ]
@@ -848,7 +848,7 @@
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,38",
                 "position": 9,
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "firstTargetTime": "18,46",
                 "finalTime": "19,38"
               },
@@ -856,7 +856,7 @@
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,40",
                 "position": 11,
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "firstTargetTime": "18,45",
                 "finalTime": "19,40"
               },
@@ -872,7 +872,7 @@
                 "district": "Pelhřimov",
                 "secondTargetTime": "22,22",
                 "position": 13,
-                "teamName": " Kejžlice B",
+                "teamName": "Kejžlice B",
                 "firstTargetTime": "22,32",
                 "finalTime": "22,32"
               },
@@ -904,7 +904,7 @@
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "-",
                 "position": 17,
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "firstTargetTime": "-",
                 "finalTime": "NP"
               },
@@ -1034,7 +1034,7 @@
                 "secondTargetTime": "18,70",
                 "position": 7,
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "firstTargetTime": "18,72",
                 "finalTime": "18,72"
               },
@@ -1058,7 +1058,7 @@
                 "secondTargetTime": "19,17",
                 "position": 10,
                 "district": "Havlíčkův Brod",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "firstTargetTime": "20,25",
                 "finalTime": "20,25"
               },
@@ -1098,7 +1098,7 @@
                 "secondTargetTime": "24,25",
                 "position": 15,
                 "district": "Havlíčkův Brod",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "firstTargetTime": "24,82",
                 "finalTime": "24,82"
               },
@@ -1226,7 +1226,7 @@
                 "district": "Havlíčkův Brod",
                 "position": 7,
                 "secondTargetTime": "-",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "finalTime": "19,46"
               },
               {
@@ -1234,7 +1234,7 @@
                 "district": "Havlíčkův Brod",
                 "position": 8,
                 "secondTargetTime": "-",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "19,75"
               },
               {
@@ -1250,7 +1250,7 @@
                 "district": "Havlíčkův Brod",
                 "position": 10,
                 "secondTargetTime": "-",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "finalTime": "20,03"
               },
               {
@@ -1384,7 +1384,7 @@
               },
               {
                 "secondTargetTime": "-",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "position": 5,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "-",
@@ -1416,7 +1416,7 @@
               },
               {
                 "secondTargetTime": "-",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "position": 9,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "-",
@@ -1440,7 +1440,7 @@
               },
               {
                 "secondTargetTime": "-",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "position": 12,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "-",
@@ -1586,7 +1586,7 @@
                 "finalTime": "18,13"
               },
               {
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "position": 7,
                 "firstTargetTime": "-",
                 "secondTargetTime": "-",
@@ -1755,7 +1755,7 @@
                 "secondTargetTime": "19,85",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,97",
-                "teamName": " Nová Ves u Světlé B",
+                "teamName": "Nová Ves u Světlé B",
                 "finalTime": "19,85"
               },
               {
@@ -1787,7 +1787,7 @@
                 "secondTargetTime": "-",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "-",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "NP"
               },
               {

@@ -11,7 +11,7 @@
             "category": "Muži",
             "teams": [
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 1
               },
@@ -31,7 +31,7 @@
                 "startPosition": 4
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 5
               },
@@ -41,7 +41,7 @@
                 "startPosition": 6
               },
               {
-                "teamName": "Žižkovo Pole  B",
+                "teamName": "Žižkovo Pole B",
                 "district": "HB",
                 "startPosition": 7
               },
@@ -51,7 +51,7 @@
                 "startPosition": 8
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 9
               },
@@ -101,7 +101,7 @@
                 "startPosition": 18
               },
               {
-                "teamName": "Kejžlice  muži",
+                "teamName": "Kejžlice muži",
                 "district": "PE",
                 "startPosition": 19
               },
@@ -145,7 +145,7 @@
                 "district": "HB"
               },
               {
-                "teamName": "Česká Bělá  XS",
+                "teamName": "Česká Bělá XS",
                 "startPosition": 7,
                 "district": "HB"
               }
@@ -212,7 +212,7 @@
                 "firstTargetTime": "18,37",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "18,83",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "18,33"
               },
               {
@@ -236,7 +236,7 @@
                 "firstTargetTime": "20,07",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "19,34",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "finalTime": "20,07"
               },
               {
@@ -292,7 +292,7 @@
                 "firstTargetTime": "23,67",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "20,72",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "finalTime": "23,67"
               },
               {
@@ -332,7 +332,7 @@
                 "firstTargetTime": "NP",
                 "district": "Havlíčkův Brod",
                 "secondTargetTime": "NP",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "finalTime": "NP"
               },
               {
@@ -441,7 +441,7 @@
                 "firstTargetTime": "20,37",
                 "secondTargetTime": "NP",
                 "position": 11,
-                "teamName": " Česká Bělá XS",
+                "teamName": "Česká Bělá XS",
                 "finalTime": "NP"
               }
             ]
@@ -483,7 +483,7 @@
               {
                 "startPosition": 5,
                 "district": "HB",
-                "teamName": "Česká Bělá  A"
+                "teamName": "Česká Bělá A"
               },
               {
                 "startPosition": 6,
@@ -493,7 +493,7 @@
               {
                 "startPosition": 7,
                 "district": "HB",
-                "teamName": "Žižkovo Pole   A"
+                "teamName": "Žižkovo Pole  A"
               },
               {
                 "startPosition": 8,
@@ -503,7 +503,7 @@
               {
                 "startPosition": 10,
                 "district": "HB",
-                "teamName": "Česká Bělá  B"
+                "teamName": "Česká Bělá B"
               },
               {
                 "startPosition": 11,
@@ -538,7 +538,7 @@
               {
                 "startPosition": 20,
                 "district": "HB",
-                "teamName": "Česká Bělá  C"
+                "teamName": "Česká Bělá C"
               }
             ],
             "category": "Muži"
@@ -609,7 +609,7 @@
                 "firstTargetTime": "17,98",
                 "secondTargetTime": "18,43",
                 "position": 4,
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "district": "Havlíčkův Brod",
                 "finalTime": "18,43"
               },
@@ -617,7 +617,7 @@
                 "firstTargetTime": "18,60",
                 "secondTargetTime": "18,23",
                 "position": 5,
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "finalTime": "18,60"
               },
@@ -665,7 +665,7 @@
                 "firstTargetTime": "19,18",
                 "secondTargetTime": "18,16",
                 "position": 11,
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "district": "Havlíčkův Brod",
                 "finalTime": "19,18"
               },
@@ -729,7 +729,7 @@
                 "firstTargetTime": "NP",
                 "secondTargetTime": "NP",
                 "position": 18,
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "district": "Havlíčkův Brod",
                 "finalTime": "NP"
               },
@@ -876,7 +876,7 @@
                 "position": 6,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "17,42",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "finalTime": "18,56"
               },
               {
@@ -900,7 +900,7 @@
                 "position": 9,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,77",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "finalTime": "19,25"
               },
               {
@@ -916,7 +916,7 @@
                 "position": 11,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "21,43",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "finalTime": "21,43"
               },
               {
@@ -932,7 +932,7 @@
                 "position": 13,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,64",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "22,51"
               },
               {
@@ -1092,12 +1092,12 @@
             "category": "Muži",
             "teams": [
               {
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"B\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"B\"",
                 "district": "HB",
                 "startPosition": 1
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 2
               },
@@ -1117,7 +1117,7 @@
                 "startPosition": 5
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 6
               },
@@ -1137,7 +1137,7 @@
                 "startPosition": 9
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 10
               },
@@ -1259,7 +1259,7 @@
                 "secondTargetTime": "18,74",
                 "position": 5,
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "finalTime": "18,74"
               },
               {
@@ -1275,7 +1275,7 @@
                 "secondTargetTime": "19,32",
                 "position": 7,
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "19,32"
               },
               {
@@ -1323,7 +1323,7 @@
                 "secondTargetTime": "22,61",
                 "position": 13,
                 "district": "Havlíčkův Brod",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "finalTime": "22,61"
               },
               {
@@ -1497,7 +1497,7 @@
                 "startPosition": 8
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 9
               },
@@ -1507,12 +1507,12 @@
                 "startPosition": 11
               },
               {
-                "teamName": "Žižkovo Pole   A",
+                "teamName": "Žižkovo Pole  A",
                 "district": "HB",
                 "startPosition": 12
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 13
               },
@@ -1532,7 +1532,7 @@
                 "startPosition": 16
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 17
               },
@@ -1608,7 +1608,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "startPosition": 4
               },
               {
@@ -1633,7 +1633,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "startPosition": 9
               },
               {
@@ -1653,7 +1653,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "startPosition": 13
               },
               {
@@ -1663,7 +1663,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "startPosition": 15
               },
               {
@@ -1812,7 +1812,7 @@
               },
               {
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "firstTargetTime": "20,52",
                 "secondTargetTime": "19,73",
                 "position": 11,
@@ -1828,7 +1828,7 @@
               },
               {
                 "district": "Havlíčkův Brod",
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "firstTargetTime": "20,88",
                 "secondTargetTime": "19,40",
                 "position": 13,
@@ -1868,7 +1868,7 @@
               },
               {
                 "district": "Havlíčkův Brod",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "firstTargetTime": "23,31",
                 "secondTargetTime": "23,93",
                 "position": 18,
@@ -1876,7 +1876,7 @@
               },
               {
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "firstTargetTime": "NP",
                 "secondTargetTime": "NP",
                 "position": 19,
@@ -1992,7 +1992,7 @@
             "teams": [
               {
                 "secondTargetTime": "17,66",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "district": "Havlíčkův Brod",
                 "position": 1,
                 "firstTargetTime": "17,56",
@@ -2032,7 +2032,7 @@
               },
               {
                 "secondTargetTime": "18,26",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "position": 6,
                 "firstTargetTime": "18,67",
@@ -2048,7 +2048,7 @@
               },
               {
                 "secondTargetTime": "18,62",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "district": "Havlíčkův Brod",
                 "position": 8,
                 "firstTargetTime": "20,48",
@@ -2104,7 +2104,7 @@
               },
               {
                 "secondTargetTime": "NP",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "district": "Havlíčkův Brod",
                 "position": 13,
                 "firstTargetTime": "NP",
@@ -2224,7 +2224,7 @@
           {
             "teams": [
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 2
               },
@@ -2244,7 +2244,7 @@
                 "startPosition": 5
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 6
               },
@@ -2264,7 +2264,7 @@
                 "startPosition": 9
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 10
               },
@@ -2363,7 +2363,7 @@
               },
               {
                 "startPosition": 2,
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB"
               },
               {
@@ -2383,7 +2383,7 @@
               },
               {
                 "startPosition": 6,
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB"
               },
               {
@@ -2403,7 +2403,7 @@
               },
               {
                 "startPosition": 11,
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB"
               },
               {
@@ -2438,7 +2438,7 @@
               },
               {
                 "startPosition": 19,
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "district": "HB"
               },
               {
@@ -2537,7 +2537,7 @@
               },
               {
                 "secondTargetTime": "18,26",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "firstTargetTime": "18,36",
                 "position": 6,
                 "district": "Havlíčkův Brod",
@@ -2585,7 +2585,7 @@
               },
               {
                 "secondTargetTime": "19,24",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "firstTargetTime": "19,80",
                 "position": 12,
                 "district": "Havlíčkův Brod",
@@ -2593,7 +2593,7 @@
               },
               {
                 "secondTargetTime": "20,23",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "firstTargetTime": "20,14",
                 "position": 13,
                 "district": "Havlíčkův Brod",
@@ -2657,7 +2657,7 @@
               },
               {
                 "secondTargetTime": "31,58",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "firstTargetTime": "32,62",
                 "position": 21,
                 "district": "Havlíčkův Brod",
@@ -2789,7 +2789,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Žižkovo Pole  B",
+                "teamName": "Žižkovo Pole B",
                 "startPosition": 7
               },
               {
@@ -2804,7 +2804,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "startPosition": 10
               },
               {
@@ -2819,7 +2819,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Podmoklany  B",
+                "teamName": "Podmoklany B",
                 "startPosition": 13
               },
               {
@@ -2829,7 +2829,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "startPosition": 15
               },
               {
@@ -2975,7 +2975,7 @@
                 "finalTime": "20,61"
               },
               {
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "position": 12,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "18,83",
@@ -3031,7 +3031,7 @@
                 "finalTime": "NP"
               },
               {
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 19,
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "NP",
@@ -3196,7 +3196,7 @@
               },
               {
                 "position": 10,
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "19,32",
                 "secondTargetTime": "19,59",
@@ -3236,7 +3236,7 @@
               },
               {
                 "position": 15,
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "20,81",
                 "secondTargetTime": "19,75",
@@ -3300,7 +3300,7 @@
               },
               {
                 "position": 19,
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "district": "Havlíčkův Brod",
                 "firstTargetTime": "NP",
                 "secondTargetTime": "NP",
@@ -3426,7 +3426,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "startPosition": 8
               },
               {
@@ -3436,7 +3436,7 @@
               },
               {
                 "district": "HB",
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "startPosition": 10
               },
               {
@@ -3537,12 +3537,12 @@
             "category": "Muži",
             "teams": [
               {
-                "teamName": "Žižkovo Pole  B",
+                "teamName": "Žižkovo Pole B",
                 "district": "HB",
                 "startPosition": 1
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 2
               },
@@ -3557,7 +3557,7 @@
                 "startPosition": 5
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 6
               },
@@ -3577,7 +3577,7 @@
                 "startPosition": 9
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 10
               },
@@ -3587,7 +3587,7 @@
                 "startPosition": 11
               },
               {
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "district": "HB",
                 "startPosition": 12
               },
@@ -3612,7 +3612,7 @@
                 "startPosition": 16
               },
               {
-                "teamName": "Rynárec  SDH Rynárec",
+                "teamName": "Rynárec SDH Rynárec",
                 "district": "PE",
                 "startPosition": 17
               },
@@ -3714,7 +3714,7 @@
                 "firstTargetTime": "18,16",
                 "secondTargetTime": "18,22",
                 "position": 5,
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "finalTime": "18,22"
               },
               {
@@ -3722,7 +3722,7 @@
                 "firstTargetTime": "18,41",
                 "secondTargetTime": "18,30",
                 "position": 6,
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "finalTime": "18,41"
               },
               {
@@ -3754,7 +3754,7 @@
                 "firstTargetTime": "18,87",
                 "secondTargetTime": "17,52",
                 "position": 10,
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "finalTime": "18,87"
               },
               {
@@ -3810,7 +3810,7 @@
                 "firstTargetTime": "NP",
                 "secondTargetTime": "NP",
                 "position": 17,
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "finalTime": "NP"
               },
               {
@@ -3906,7 +3906,7 @@
               },
               {
                 "startPosition": 3,
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB"
               },
               {
@@ -3941,7 +3941,7 @@
               },
               {
                 "startPosition": 10,
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB"
               },
               {
@@ -3961,7 +3961,7 @@
               },
               {
                 "startPosition": 15,
-                "teamName": "Světlá nad Sázavou  Luky",
+                "teamName": "Světlá nad Sázavou Luky",
                 "district": "HB"
               },
               {
@@ -3971,7 +3971,7 @@
               },
               {
                 "startPosition": 20,
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB"
               }
             ]
@@ -4060,7 +4060,7 @@
                 "finalTime": "17,97"
               },
               {
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "position": 5,
                 "firstTargetTime": "17,89",
                 "secondTargetTime": "18,49",
@@ -4076,7 +4076,7 @@
                 "finalTime": "18,74"
               },
               {
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "position": 7,
                 "firstTargetTime": "18,60",
                 "secondTargetTime": "19,45",
@@ -4092,7 +4092,7 @@
                 "finalTime": "19,61"
               },
               {
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "position": 9,
                 "firstTargetTime": "19,42",
                 "secondTargetTime": "20,40",
@@ -4257,12 +4257,12 @@
             "category": "Muži",
             "teams": [
               {
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"B\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"B\"",
                 "district": "HB",
                 "startPosition": 1
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "district": "HB",
                 "startPosition": 2
               },
@@ -4282,7 +4282,7 @@
                 "startPosition": 5
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "district": "HB",
                 "startPosition": 6
               },
@@ -4302,7 +4302,7 @@
                 "startPosition": 9
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB",
                 "startPosition": 10
               },
@@ -4327,12 +4327,12 @@
                 "startPosition": 14
               },
               {
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "district": "HB",
                 "startPosition": 15
               },
               {
-                "teamName": "Světlá nad Sázavou  Světlá nad Sázavou",
+                "teamName": "Světlá nad Sázavou Světlá nad Sázavou",
                 "district": "HB",
                 "startPosition": 16
               },
@@ -4415,7 +4415,7 @@
               },
               {
                 "secondTargetTime": "18,04",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 4,
                 "firstTargetTime": "17,77",
                 "district": "Havlíčkův Brod",
@@ -4431,7 +4431,7 @@
               },
               {
                 "secondTargetTime": "18,32",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "position": 6,
                 "firstTargetTime": "18,48",
                 "district": "Havlíčkův Brod",
@@ -4479,7 +4479,7 @@
               },
               {
                 "secondTargetTime": "20,19",
-                "teamName": " Česká Bělá C",
+                "teamName": "Česká Bělá C",
                 "position": 12,
                 "firstTargetTime": "20,40",
                 "district": "Havlíčkův Brod",
@@ -4551,7 +4551,7 @@
               },
               {
                 "secondTargetTime": "NP",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "position": 21,
                 "firstTargetTime": "NP",
                 "district": "Havlíčkův Brod",
@@ -4646,12 +4646,12 @@
             "teams": [
               {
                 "startPosition": 1,
-                "teamName": "Podmoklany  A",
+                "teamName": "Podmoklany A",
                 "district": "HB"
               },
               {
                 "startPosition": 2,
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "district": "HB"
               },
               {
@@ -4681,7 +4681,7 @@
               },
               {
                 "startPosition": 8,
-                "teamName": "Malčín  Malčín",
+                "teamName": "Malčín Malčín",
                 "district": "HB"
               },
               {
@@ -4691,17 +4691,17 @@
               },
               {
                 "startPosition": 10,
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "district": "HB"
               },
               {
                 "startPosition": 11,
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"B\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"B\"",
                 "district": "HB"
               },
               {
                 "startPosition": 12,
-                "teamName": "Podmoklany  B",
+                "teamName": "Podmoklany B",
                 "district": "HB"
               },
               {
@@ -4762,7 +4762,7 @@
             "category": "Muži",
             "teams": [
               {
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "district": "Havlíčkův Brod",
                 "position": 1,
                 "firstTargetTime": "17,93",
@@ -4818,7 +4818,7 @@
                 "finalTime": "18,89"
               },
               {
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "district": "Havlíčkův Brod",
                 "position": 8,
                 "firstTargetTime": "19,51",
@@ -4834,7 +4834,7 @@
                 "finalTime": "20,38"
               },
               {
-                "teamName": " Podmoklany B",
+                "teamName": "Podmoklany B",
                 "district": "Havlíčkův Brod",
                 "position": 10,
                 "firstTargetTime": "19,07",
@@ -5007,7 +5007,7 @@
                 "firstTargetTime": "19,63",
                 "secondTargetTime": "19,13",
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá B",
+                "teamName": "Česká Bělá B",
                 "position": 6,
                 "finalTime": "19,63"
               },
@@ -5031,7 +5031,7 @@
                 "firstTargetTime": "19,92",
                 "secondTargetTime": "18,75",
                 "district": "Havlíčkův Brod",
-                "teamName": " Žižkovo Pole B",
+                "teamName": "Žižkovo Pole B",
                 "position": 9,
                 "finalTime": "19,92"
               },
@@ -5143,7 +5143,7 @@
                 "firstTargetTime": "NP",
                 "secondTargetTime": "NP",
                 "district": "Havlíčkův Brod",
-                "teamName": " Česká Bělá A",
+                "teamName": "Česká Bělá A",
                 "position": 23,
                 "finalTime": "NP"
               },
@@ -5262,12 +5262,12 @@
                 "district": "HB"
               },
               {
-                "teamName": "Podmoklany  A",
+                "teamName": "Podmoklany A",
                 "startPosition": 2,
                 "district": "HB"
               },
               {
-                "teamName": "Nová Ves u Světlé  SDH Nová Ves u Sv.",
+                "teamName": "Nová Ves u Světlé SDH Nová Ves u Sv.",
                 "startPosition": 3,
                 "district": "HB"
               },
@@ -5287,7 +5287,7 @@
                 "district": "JI"
               },
               {
-                "teamName": "Česká Bělá  B",
+                "teamName": "Česká Bělá B",
                 "startPosition": 7,
                 "district": "HB"
               },
@@ -5312,7 +5312,7 @@
                 "district": "HB"
               },
               {
-                "teamName": "Česká Bělá  C",
+                "teamName": "Česká Bělá C",
                 "startPosition": 12,
                 "district": "HB"
               },
@@ -5322,12 +5322,12 @@
                 "district": "HB"
               },
               {
-                "teamName": "Žižkovo Pole  Žižkovo Pole \"A\"",
+                "teamName": "Žižkovo Pole Žižkovo Pole \"A\"",
                 "startPosition": 14,
                 "district": "HB"
               },
               {
-                "teamName": "Malčín  Malčín",
+                "teamName": "Malčín Malčín",
                 "startPosition": 15,
                 "district": "HB"
               },
@@ -5347,7 +5347,7 @@
                 "district": "HB"
               },
               {
-                "teamName": "Česká Bělá  A",
+                "teamName": "Česká Bělá A",
                 "startPosition": 19,
                 "district": "HB"
               },
@@ -5357,7 +5357,7 @@
                 "district": "HB"
               },
               {
-                "teamName": "Rynárec  Muži",
+                "teamName": "Rynárec Muži",
                 "startPosition": 21,
                 "district": "PE"
               },
