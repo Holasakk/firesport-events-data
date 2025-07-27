@@ -7,8 +7,8 @@
         "categories": []
       },
       "id": "706",
-      "location": "Česká Bělá, HB",
-      "title": "O pohár obce Česká Bělá",
+      "location": "Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "date": "23.09.2000 13:00",
       "results": {
         "categories": [
@@ -180,13 +180,13 @@
         ]
       },
       "id": "705",
-      "title": "O pohár starosty Habry",
+      "title": "O pohár SDH Habry",
       "startingList": {
         "categories": []
       },
       "status": "completed",
       "url": "vysledek-habry-2000-08-26-705.html",
-      "location": "Habry, HB",
+      "location": "Habry",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -194,9 +194,9 @@
     {
       "status": "completed",
       "id": "704",
-      "location": "Počátky, HB",
+      "location": "Počátky",
       "date": "19.08.2000 13:00",
-      "title": "O pohár obce Počátky",
+      "title": "O pohár SDH Počátky",
       "results": {
         "categories": [
           {
@@ -290,7 +290,7 @@
       "url": "vysledek-kvetinov-2000-08-12-703.html",
       "status": "completed",
       "title": "O pohár SDH Květinov",
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "startingList": {
         "categories": []
       },
@@ -449,9 +449,9 @@
       },
       "date": "15.07.2000 13:00",
       "status": "completed",
-      "title": "O pohár obce Bačkov",
+      "title": "O pohár SDH Bačkov",
       "id": "702",
-      "location": "Bačkov, HB",
+      "location": "Bačkov",
       "startingList": {
         "categories": []
       },
@@ -536,11 +536,11 @@
       },
       "id": "701",
       "url": "vysledek-podmoklany-2000-07-08-701.html",
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "startingList": {
         "categories": []
       },
-      "title": "O pohár starosty obce Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "status": "completed",
       "date": "08.07.2000 13:00",
       "district": "",
@@ -634,8 +634,8 @@
         ]
       },
       "date": "05.07.2000 13:00",
-      "title": "O pohár starosty",
-      "location": "Nová Ves u Světlé, HB",
+      "title": "O pohár SDH Nová Ves u Světlé",
+      "location": "Nová Ves u Světlé",
       "url": "vysledek-nova-ves-u-svetle-2000-07-05-700.html",
       "id": "700",
       "district": "",
@@ -732,7 +732,7 @@
       },
       "title": "O pohár SDH Smilov",
       "id": "699",
-      "location": "Smilov, HB",
+      "location": "Smilov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -828,10 +828,10 @@
           }
         ]
       },
-      "title": "O pohár starosty obce Vepříkov",
+      "title": "O pohár SDH Vepříkov",
       "status": "completed",
       "date": "24.06.2000 13:00",
-      "location": "Vepříkov, HB",
+      "location": "Vepříkov",
       "id": "698",
       "startingList": {
         "categories": []
@@ -841,7 +841,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár obce Klouzovy",
+      "title": "O pohár SDH Klouzovy",
       "status": "completed",
       "date": "10.06.2000 13:00",
       "startingList": {
@@ -944,7 +944,7 @@
           }
         ]
       },
-      "location": "Klouzovy, HB",
+      "location": "Klouzovy",
       "url": "vysledek-klouzovy-2000-06-10-697.html",
       "id": "697",
       "district": "",
@@ -1050,13 +1050,13 @@
         ]
       },
       "id": "696",
-      "location": "Sloupno, HB",
+      "location": "Sloupno",
       "startingList": {
         "categories": []
       },
       "url": "vysledek-sloupno-2000-05-27-696.html",
       "status": "completed",
-      "title": "O pohár starosty obce Sloupno",
+      "title": "O pohár SDH Sloupno",
       "date": "27.05.2000 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",

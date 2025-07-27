@@ -2,13 +2,13 @@
   "year": 2006,
   "events": [
     {
-      "title": "O pohár obce Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "url": "vysledek-ceska-bela-2006-09-30-1364.html",
       "startingList": {
         "categories": []
       },
       "id": "1364",
-      "location": "Česká Bělá, HB",
+      "location": "Česká Bělá",
       "status": "completed",
       "date": "30.09.2006 13:00",
       "results": {
@@ -241,7 +241,7 @@
       "status": "completed",
       "id": "1421",
       "date": "23.09.2006 13:00",
-      "location": "Jitkov, HB",
+      "location": "Jitkov",
       "results": {
         "categories": [
           {
@@ -385,7 +385,7 @@
     },
     {
       "title": "O pohár SDH Kámen",
-      "location": "Kámen, HB",
+      "location": "Kámen",
       "date": "09.09.2006 13:00",
       "startingList": {
         "categories": []
@@ -534,7 +534,7 @@
       },
       "title": "O pohár SDH Nová Ves u Světlé",
       "date": "02.09.2006 13:00",
-      "location": "Nová Ves u Sv., HB",
+      "location": "Nová Ves u Světlé",
       "results": {
         "categories": [
           {
@@ -829,15 +829,15 @@
       "date": "19.08.2006 13:00",
       "id": "1360",
       "url": "vysledek-habry-2006-08-19-1360.html",
-      "title": "O pohár starosty MěÚ Habry",
-      "location": "Habry, HB",
+      "title": "O pohár SDH Habry",
+      "location": "Habry",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Kunemil, HB",
+      "location": "Kunemil",
       "results": {
         "categories": [
           {
@@ -991,7 +991,7 @@
       "date": "29.07.2006 13:00",
       "url": "vysledek-kvetinov-2006-07-29-1358.html",
       "id": "1358",
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "title": "O pohár SDH Květinov",
       "startingList": {
         "categories": []
@@ -1187,11 +1187,11 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár starosty SDH Věž",
+      "title": "O pohár SDH Věž",
       "status": "completed",
       "url": "vysledek-vez-2006-07-22-1357.html",
       "date": "22.07.2006 13:00",
-      "location": "Věž, HB",
+      "location": "Věž",
       "id": "1357",
       "startingList": {
         "categories": []
@@ -1412,8 +1412,8 @@
     {
       "status": "completed",
       "url": "vysledek-sedletin-2006-07-15-1356.html",
-      "location": "Sedletín, HB",
-      "title": "O pohár starosty SDH Sedletín",
+      "location": "Sedletín",
+      "title": "O pohár SDH Sedletín",
       "results": {
         "categories": [
           {
@@ -1759,7 +1759,7 @@
           }
         ]
       },
-      "location": "Kejžlice, PE",
+      "location": "Kejžlice",
       "date": "06.07.2006 13:00",
       "url": "vysledek-kejzlice-2006-07-06-1355.html",
       "id": "1355",
@@ -1952,8 +1952,8 @@
       "startingList": {
         "categories": []
       },
-      "title": "O pohár starosty SDH Střížov",
-      "location": "Střížov, HB",
+      "title": "O pohár SDH Střížov",
+      "location": "Střížov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -2175,8 +2175,8 @@
           }
         ]
       },
-      "location": "Podmoklany, HB",
-      "title": "O pohár starosty obce Podmoklany",
+      "location": "Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -2184,7 +2184,7 @@
     {
       "id": "1351",
       "url": "vysledek-veprikov-2006-06-17-1351.html",
-      "location": "Vepříkov, HB",
+      "location": "Vepříkov",
       "status": "completed",
       "title": "O pohár SDH Vepříkov",
       "date": "17.06.2006 13:00",

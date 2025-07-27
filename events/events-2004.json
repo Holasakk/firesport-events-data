@@ -2,13 +2,13 @@
   "year": 2004,
   "events": [
     {
-      "location": "Nová Ves u Sv., HB",
+      "location": "Nová Ves u Světlé",
       "url": "vysledek-nova-ves-u-svetle-2004-08-28-911.html",
       "startingList": {
         "categories": []
       },
       "date": "28.08.2004 13:00",
-      "title": "O pohár starosty",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "status": "completed",
       "id": "911",
       "results": {
@@ -214,10 +214,10 @@
         ]
       },
       "status": "completed",
-      "location": "Habry, HB",
+      "location": "Habry",
       "id": "910",
       "date": "21.08.2004 13:00",
-      "title": "O pohár starosty obce Habry",
+      "title": "O pohár SDH Habry",
       "url": "vysledek-habry-2004-08-21-910.html",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -226,7 +226,7 @@
     {
       "url": "vysledek-kvetinov-2004-07-24-908.html",
       "date": "24.07.2004 13:00",
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "id": "908",
       "title": "O pohár SDH Květinov",
       "status": "completed",
@@ -369,9 +369,9 @@
     {
       "url": "vysledek-sedletin-2004-07-17-907.html",
       "date": "17.07.2004 13:00",
-      "location": "Sedletín, HB",
+      "location": "Sedletín",
       "id": "907",
-      "title": "O pohár starosty SDH Sedletín",
+      "title": "O pohár SDH Sedletín",
       "status": "completed",
       "startingList": {
         "categories": []
@@ -495,7 +495,7 @@
     },
     {
       "id": "906",
-      "location": "Ždírec n/D, HB",
+      "location": "Ždírec nad Doubravou",
       "startingList": {
         "categories": []
       },
@@ -621,11 +621,11 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár starosty",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "status": "completed",
       "id": "905",
       "url": "vysledek-strizov-2004-07-04-905.html",
-      "location": "Střížov, HB",
+      "location": "Střížov",
       "date": "04.07.2004 13:00",
       "startingList": {
         "categories": []
@@ -748,7 +748,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár starosty obce Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "date": "03.07.2004 13:00",
       "results": {
         "categories": [
@@ -844,7 +844,7 @@
         "categories": []
       },
       "url": "vysledek-podmoklany-2004-07-03-904.html",
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "id": "904",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -852,7 +852,7 @@
     },
     {
       "date": "26.06.2004 13:00",
-      "title": "O pohár starosty obce",
+      "title": "O pohár SDH Sloupno",
       "startingList": {
         "categories": []
       },
@@ -945,7 +945,7 @@
           }
         ]
       },
-      "location": "Sloupno, HB",
+      "location": "Sloupno",
       "status": "completed",
       "id": "903",
       "url": "vysledek-sloupno-2004-06-26-903.html",
@@ -954,7 +954,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Vepříkov, HB",
+      "location": "Vepříkov",
       "date": "12.06.2004 13:00",
       "startingList": {
         "categories": []
@@ -1066,7 +1066,7 @@
           }
         ]
       },
-      "title": "O pohár starosty obce Vepříkov",
+      "title": "O pohár SDH Vepříkov",
       "id": "960",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",

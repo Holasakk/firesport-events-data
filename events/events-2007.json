@@ -6,7 +6,7 @@
         "categories": []
       },
       "status": "completed",
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "title": "O pohár SDH Květinov",
       "results": {
         "categories": [
@@ -274,7 +274,7 @@
         "categories": []
       },
       "title": "O pohár SDH Česká Bělá",
-      "location": "Česká Bělá, HB",
+      "location": "Česká Bělá",
       "results": {
         "categories": [
           {
@@ -767,8 +767,8 @@
       },
       "date": "22.09.2007 13:00",
       "url": "vysledek-nova-ves-u-svetle-2007-09-22-1553.html",
-      "title": "O pohár starosty",
-      "location": "Nová Ves u Světlé, HB",
+      "title": "O pohár SDH Nová Ves u Světlé",
+      "location": "Nová Ves u Světlé",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -963,7 +963,7 @@
       "title": "O pohár SDH Jitkov",
       "date": "25.08.2007 13:00",
       "id": "1552",
-      "location": "Jitkov, HB",
+      "location": "Jitkov",
       "url": "vysledek-jitkov-2007-08-25-1552.html",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -1138,7 +1138,7 @@
           }
         ]
       },
-      "location": "Olešná, HB",
+      "location": "Olešná",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -1149,7 +1149,7 @@
       "url": "vysledek-kunemil-2007-08-04-1550.html",
       "status": "completed",
       "title": "O pohár SDH Kunemil",
-      "location": "Kunemil, HB",
+      "location": "Kunemil",
       "id": "1550",
       "results": {
         "categories": [
@@ -1324,7 +1324,7 @@
       "url": "vysledek-kejzlice-2007-07-22-1549.html",
       "id": "1549",
       "date": "22.07.2007 13:00",
-      "location": "Kejžlice, HB",
+      "location": "Kejžlice",
       "startingList": {
         "categories": []
       },
@@ -1556,7 +1556,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár starosty SDH Věž",
+      "title": "O pohár SDH Věž",
       "status": "completed",
       "date": "21.07.2007 13:00",
       "id": "1548",
@@ -1564,7 +1564,7 @@
       "startingList": {
         "categories": []
       },
-      "location": "Věž, HB",
+      "location": "Věž",
       "results": {
         "categories": [
           {
@@ -1986,11 +1986,11 @@
         ]
       },
       "date": "14.07.2007 13:00",
-      "location": "Sedletín, HB",
+      "location": "Sedletín",
       "status": "completed",
       "id": "1547",
       "url": "vysledek--2007-07-14-1547.html",
-      "title": "O pohár starosty SDH Sedletín",
+      "title": "O pohár SDH Sedletín",
       "startingList": {
         "categories": []
       },
@@ -2002,7 +2002,7 @@
       "startingList": {
         "categories": []
       },
-      "location": "Střížov, HB",
+      "location": "Střížov",
       "url": "vysledek-strizov-2007-07-06-1546.html",
       "date": "06.07.2007 13:00",
       "results": {
@@ -2192,13 +2192,13 @@
       },
       "id": "1546",
       "status": "completed",
-      "title": "O pohár starosty SDH Střížov",
+      "title": "O pohár SDH Střížov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Ždírec n/D , HB",
+      "location": "Ždírec nad Doubravou",
       "status": "completed",
       "id": "1545",
       "results": {
@@ -2443,7 +2443,7 @@
     },
     {
       "status": "completed",
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "date": "30.06.2007 13:00",
       "startingList": {
         "categories": []
@@ -2670,7 +2670,7 @@
           }
         ]
       },
-      "title": "O pohár starosty obce Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "id": "1544",
       "url": "vysledek-podmoklany-2007-06-30-1544.html",
       "district": "",
@@ -2678,7 +2678,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Kámen, HB",
+      "location": "Kámen",
       "startingList": {
         "categories": []
       },

@@ -168,7 +168,7 @@
           }
         ]
       },
-      "location": "Nová Ves u Světlé, HB",
+      "location": "Nová Ves u Světlé",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -295,7 +295,7 @@
           }
         ]
       },
-      "location": "Kunemil , HB",
+      "location": "Kunemil",
       "date": "30.08.2008 13:00",
       "status": "completed",
       "title": "O pohár SDH Kunemil",
@@ -309,7 +309,7 @@
       "startingList": {
         "categories": []
       },
-      "location": "Sedlatice , HB",
+      "location": "Sedlatice",
       "results": {
         "categories": [
           {
@@ -606,7 +606,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Radňov, HB",
+      "location": "Radňov",
       "url": "vysledek-radnov-2008-08-23-1686.html",
       "title": "O pohár SDH Radňov",
       "date": "23.08.2008 13:00",
@@ -766,7 +766,7 @@
         "categories": []
       },
       "id": "1685",
-      "location": "Kejžlice , HB",
+      "location": "Kejžlice",
       "results": {
         "categories": [
           {
@@ -1155,14 +1155,14 @@
       "url": "vysledek-vez-2008-07-26-1684.html",
       "title": "O pohár SDH Věž",
       "date": "26.07.2008 13:00",
-      "location": "Věž, HB",
+      "location": "Věž",
       "id": "1684",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Ždírec nad Doubr., HB",
+      "location": "Ždírec nad Doubr",
       "date": "05.07.2008 13:00",
       "title": "O pohár SDH Ždírec nad Doubravou",
       "startingList": {
@@ -1521,7 +1521,7 @@
         ]
       },
       "title": "O pohár SDH Kojetín",
-      "location": "Kojetín, HB",
+      "location": "Kojetín",
       "id": "1682",
       "url": "vysledek-kojetin-2008-06-28-1682.html",
       "date": "28.06.2008 13:00",
@@ -1532,7 +1532,7 @@
     {
       "url": "vysledek-ceska-bela-2008-06-08-1680.html",
       "id": "1680",
-      "location": "Česká Bělá, HB",
+      "location": "Česká Bělá",
       "results": {
         "categories": [
           {
@@ -1688,7 +1688,7 @@
     {
       "id": "1679",
       "date": "07.06.2008 13:00",
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "status": "completed",
       "results": {
         "categories": [

@@ -3,7 +3,7 @@
   "events": [
     {
       "url": "vysledek-nova-ves-u-svetle-2003-08-30-592.html",
-      "title": "O pohár starosty",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "id": "592",
       "startingList": {
         "categories": []
@@ -98,7 +98,7 @@
         ]
       },
       "date": "30.08.2003 13:00",
-      "location": "Nová Ves u Světlé, HB",
+      "location": "Nová Ves u Světlé",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -106,7 +106,7 @@
     },
     {
       "url": "vysledek-habry-2003-08-23-594.html",
-      "title": "O pohár starosty",
+      "title": "O pohár SDH Habry",
       "id": "594",
       "startingList": {
         "categories": []
@@ -193,7 +193,7 @@
         ]
       },
       "date": "23.08.2003 13:00",
-      "location": "Habry, HB",
+      "location": "Habry",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -294,7 +294,7 @@
           }
         ]
       },
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "status": "completed",
       "url": "vysledek--2003-08-09-593.html",
       "title": "O pohár SDH Květinov",
@@ -303,7 +303,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "Ligová soutěž SDH Kámen",
+      "title": "O pohádr SDH Kámen",
       "results": {
         "categories": [
           {
@@ -393,7 +393,7 @@
           }
         ]
       },
-      "location": "Květinov - Kámen, HB",
+      "location": "Květinov",
       "date": "09.08.2003 13:00",
       "id": "689",
       "startingList": {
@@ -412,9 +412,9 @@
       "startingList": {
         "categories": []
       },
-      "location": "Sedletín, HB",
+      "location": "Sedletín",
       "status": "completed",
-      "title": "O pohár starosty SDH Sedletín",
+      "title": "O pohár SDH Sedletín",
       "results": {
         "categories": [
           {
@@ -505,7 +505,7 @@
       "startingList": {
         "categories": []
       },
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "results": {
         "categories": [
           {
@@ -590,7 +590,7 @@
       "status": "completed",
       "id": "588",
       "url": "vysledek-podmoky-2003-07-12-588.html",
-      "title": "O pohár starosty obce Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -691,7 +691,7 @@
       },
       "status": "completed",
       "date": "05.07.2003 13:00",
-      "location": "Smilov, HB",
+      "location": "Smilov",
       "id": "590",
       "title": "O pohár SDH Smilov",
       "district": "",
@@ -783,8 +783,8 @@
           }
         ]
       },
-      "title": "O pohár starosty obce Vepříkov",
-      "location": "Vepříkov, HB",
+      "title": "O pohár SDH Vepříkov",
+      "location": "Vepříkov",
       "date": "21.06.2003 13:00",
       "startingList": {
         "categories": []
@@ -881,8 +881,8 @@
         ]
       },
       "url": "vysledek-sloupno-2003-06-14-657.html",
-      "title": "O pohár starosty obce Sloupno",
-      "location": "Sloupno, HB",
+      "title": "O pohár SDH Sloupno",
+      "location": "Sloupno",
       "id": "657",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",

@@ -86,20 +86,18 @@
       "startingList": {
         "categories": []
       },
-      "location": "Přibyslav, HB",
+      "location": "Přibyslav",
       "date": "12.07.1999 13:00",
       "url": "vysledek-pribyslav-1999-07-12-722.html",
       "title": "O pohár SDH Přibyslav",
-      "id": "722",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Herálec, HB",
+      "location": "Herálec",
       "title": "O pohár SDH Herálec",
-      "id": "721",
       "startingList": {
         "categories": []
       },
@@ -160,9 +158,8 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "id": "720",
       "title": "O pohár SDH Chotěboř",
-      "location": "Chotěboř, HB",
+      "location": "Chotěboř",
       "status": "completed",
       "url": "vysledek-chotebor-1999-07-10-720.html",
       "results": {
@@ -223,7 +220,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Habry, HB",
+      "location": "Habry",
       "startingList": {
         "categories": []
       },
@@ -310,7 +307,6 @@
         ]
       },
       "url": "vysledek-habry-1999-07-09-719.html",
-      "id": "719",
       "title": "O pohár SDH Habry",
       "date": "09.07.1999 13:00",
       "district": "",
@@ -322,9 +318,9 @@
       "startingList": {
         "categories": []
       },
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "url": "vysledek-podmoklany-1999-07-08-718.html",
-      "title": "O pohár obce SDH Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "status": "completed",
       "results": {
         "categories": [
@@ -399,7 +395,6 @@
           }
         ]
       },
-      "id": "718",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -500,8 +495,7 @@
         "categories": []
       },
       "status": "completed",
-      "title": "O pohár obce SDH Smilov",
-      "id": "717",
+      "title": "O pohár SDH Smilov",
       "location": "Smilov",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -597,9 +591,8 @@
           }
         ]
       },
-      "location": "Klouzovy, HB",
+      "location": "Klouzovy",
       "status": "completed",
-      "id": "716",
       "date": "05.07.1999 13:00",
       "title": "O pohár SDH Klouzovy",
       "url": "vysledek-klouzovy-1999-07-05-716.html",
@@ -698,15 +691,14 @@
       "title": "O pohár SDH Nová Ves u Světlé",
       "status": "completed",
       "url": "vysledek-nova-ves-u-svetle-1999-07-04-715.html",
-      "id": "715",
-      "location": "Nová Ves u Světlé, HB",
+      "location": "Nová Ves u Světlé",
       "date": "04.07.1999 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Vepříkov, HB",
+      "location": "Vepříkov",
       "title": "O pohár SDH Vepříkov",
       "url": "vysledek-veprikov-1999-07-03-714.html",
       "results": {
@@ -802,7 +794,6 @@
         "categories": []
       },
       "status": "completed",
-      "id": "714",
       "date": "03.07.1999 13:00",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
@@ -811,7 +802,6 @@
     {
       "status": "completed",
       "title": "O pohár SDH Ždírec nad Doubravou",
-      "id": "713",
       "results": {
         "categories": [
           {
@@ -902,7 +892,7 @@
         ]
       },
       "url": "vysledek-zdirec-nad-doubravou-1999-07-02-713.html",
-      "location": "Ždírec nad Doubravou, HB",
+      "location": "Ždírec nad Doubravou",
       "startingList": {
         "categories": []
       },
@@ -913,7 +903,6 @@
     },
     {
       "url": "vysledek-sloupno-1999-07-01-712.html",
-      "id": "712",
       "title": "O pohár SDH Sloupno",
       "startingList": {
         "categories": []
@@ -1007,7 +996,7 @@
           }
         ]
       },
-      "location": "Sloupno, HB",
+      "location": "Sloupno",
       "date": "01.07.1999 13:00",
       "status": "completed",
       "district": "",

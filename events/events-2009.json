@@ -2,7 +2,7 @@
   "year": 2009,
   "events": [
     {
-      "title": "O pohár obce Česká Bělá",
+      "title": "O pohár SDH Česká Bělá",
       "startingList": {
         "categories": []
       },
@@ -10,7 +10,7 @@
       "id": "2042",
       "url": "vysledek-ceska-bela-2009-09-26-2042.html",
       "status": "completed",
-      "location": "Česká Bělá, HB",
+      "location": "Česká Bělá",
       "results": {
         "categories": [
           {
@@ -318,13 +318,13 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár obce Nová Ves u Světlé",
+      "title": "O pohár SDH Nová Ves u Světlé",
       "url": "vysledek-nova-ves-u-svetle-2009-09-12-2041.html",
       "startingList": {
         "categories": []
       },
       "date": "12.09.2009 13:00",
-      "location": "Nová Ves u Světlé, HB",
+      "location": "Nová Ves u Světlé",
       "id": "2041",
       "results": {
         "categories": [
@@ -726,9 +726,9 @@
         ]
       },
       "id": "2040",
-      "location": "Kámen, HB",
+      "location": "Kámen",
       "date": "05.09.2009 13:00",
-      "title": "O pohár obce Kámen",
+      "title": "O pohár SDH Kámen",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1008,8 +1008,8 @@
       "startingList": {
         "categories": []
       },
-      "location": "Olešná, HB",
-      "title": "O pohár obce Olešná",
+      "location": "Olešná",
+      "title": "O pohár SDH Olešná",
       "status": "completed",
       "id": "2039",
       "url": "vysledek-olesna-2009-08-01-2039.html",
@@ -1020,7 +1020,7 @@
     {
       "id": "2038",
       "date": "26.07.2009 13:00",
-      "title": "O pohár obce Kejžlice",
+      "title": "O pohár SDH Kejžlice",
       "url": "vysledek--2009-07-26-2038.html",
       "startingList": {
         "categories": []
@@ -1239,15 +1239,15 @@
           }
         ]
       },
-      "location": "Kejžlice, HB",
+      "location": "Kejžlice",
       "status": "completed",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "title": "O pohár obce Věž",
-      "location": "Věž, HB",
+      "title": "O pohár SDH Věž",
+      "location": "Věž",
       "date": "25.07.2009 13:00",
       "results": {
         "categories": [
@@ -1459,12 +1459,12 @@
     },
     {
       "date": "18.07.2009 13:00",
-      "title": "O pohár obce Kunemil",
+      "title": "O pohár SDH Kunemil",
       "startingList": {
         "categories": []
       },
       "id": "2043",
-      "location": "Kunemil, HB",
+      "location": "Kunemil",
       "results": {
         "categories": [
           {
@@ -1702,14 +1702,14 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Podmoklany, HB",
+      "location": "Podmoklany",
       "status": "completed",
       "url": "vysledek-podmoklany-2009-07-11-2034.html",
       "startingList": {
         "categories": []
       },
       "date": "11.07.2009 13:00",
-      "title": "O pohár obce Podmoklany",
+      "title": "O pohár SDH Podmoklany",
       "results": {
         "categories": [
           {
@@ -1938,7 +1938,7 @@
       "resultsURL": "https://hbhl.firesport.eu"
     },
     {
-      "location": "Květinov, HB",
+      "location": "Květinov",
       "title": "Květinov - noční soutěž",
       "date": "15.05.2009 13:00",
       "startingList": {

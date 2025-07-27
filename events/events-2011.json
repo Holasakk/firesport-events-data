@@ -568,11 +568,11 @@
           }
         ]
       },
-      "location": "_Věž_",
+      "location": "O pohár SDH Věž",
       "startingList": {
         "categories": []
       },
-      "title": "_Věž_",
+      "title": "Věž",
       "district": "",
       "startingListURL": "https://hbhl.firesport.eu",
       "resultsURL": "https://hbhl.firesport.eu"
@@ -1213,7 +1213,7 @@
       "url": "vysledek-kvetinov-8013.html",
       "id": "8013",
       "location": "Květinov",
-      "title": "Noční soutěž",
+      "title": "O pohár SDH Květinov - noční",
       "status": "completed",
       "startingList": {
         "categories": []
