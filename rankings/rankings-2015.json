@@ -1,0 +1,414 @@
+{
+  "year": 2015,
+  "teamRankingLists": [
+    {
+      "category": "Muži",
+      "rankings": [
+        {
+          "teamName": "Olešná",
+          "points": 208,
+          "position": 1,
+          "district": "Havlíčkův Brod",
+          "bestTime": "16,76"
+        },
+        {
+          "teamName": "Kunemil",
+          "points": 145,
+          "position": 2,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,28"
+        },
+        {
+          "teamName": "Květinov",
+          "points": 141,
+          "position": 3,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,29"
+        },
+        {
+          "teamName": "Kynice",
+          "points": 124,
+          "position": 4,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,40"
+        },
+        {
+          "teamName": "Kejžlice",
+          "points": 109,
+          "position": 5,
+          "district": "Pelhřimov",
+          "bestTime": "18,08"
+        },
+        {
+          "teamName": "Žižkovo Pole A",
+          "points": 104,
+          "position": 6,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,12"
+        },
+        {
+          "teamName": "Podmoklany A",
+          "points": 101,
+          "position": 7,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,01"
+        },
+        {
+          "teamName": "Česká Bělá A",
+          "points": 93,
+          "position": 8,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,91"
+        },
+        {
+          "teamName": "Nová Ves u Světlé",
+          "points": 89,
+          "position": 9,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,38"
+        },
+        {
+          "teamName": "Golčův Jeníkov",
+          "points": 69,
+          "position": 10,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,49"
+        },
+        {
+          "teamName": "Světlá nad Sázavou B",
+          "points": 64,
+          "position": 11,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,38"
+        },
+        {
+          "teamName": "Petrovice",
+          "points": 62,
+          "position": 12,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,05"
+        },
+        {
+          "teamName": "Žižkovo Pole B",
+          "points": 52,
+          "position": 13,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,01"
+        },
+        {
+          "teamName": "Krasonice",
+          "points": 51,
+          "position": 14,
+          "district": "Jihlava",
+          "bestTime": "16,88"
+        },
+        {
+          "teamName": "Vepříkov",
+          "points": 40,
+          "position": 15,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,92"
+        },
+        {
+          "teamName": "Česká Bělá B",
+          "points": 39,
+          "position": 16,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,55"
+        },
+        {
+          "teamName": "Příseka",
+          "points": 35,
+          "position": 17,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,99"
+        },
+        {
+          "teamName": "Věž",
+          "points": 34,
+          "position": 18,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,79"
+        },
+        {
+          "teamName": "Pohled",
+          "points": 25,
+          "position": 19,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,86"
+        },
+        {
+          "teamName": "Sedlatice",
+          "points": 20,
+          "position": 20,
+          "district": "Jihlava",
+          "bestTime": "17,46"
+        },
+        {
+          "teamName": "Hrobice",
+          "points": 15,
+          "position": 21,
+          "district": "Pardubice",
+          "bestTime": "18,34"
+        },
+        {
+          "teamName": "Chotěmice",
+          "points": 13,
+          "position": 22,
+          "district": "Tábor",
+          "bestTime": "17,94"
+        },
+        {
+          "teamName": "Zdislavice",
+          "points": 11,
+          "position": 23,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,34"
+        },
+        {
+          "teamName": "Světlá nad Sázavou A",
+          "points": 8,
+          "position": 24,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,54"
+        },
+        {
+          "teamName": "Smilov",
+          "points": 8,
+          "position": 25,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,58"
+        },
+        {
+          "teamName": "Rovný",
+          "points": 4,
+          "position": 26,
+          "district": "Havlíčkův Brod",
+          "bestTime": "35,63"
+        },
+        {
+          "teamName": "Sedlatice B",
+          "points": 3,
+          "position": 27,
+          "district": "Jihlava",
+          "bestTime": "20,16"
+        },
+        {
+          "teamName": "Nová Ves u Světlé B",
+          "points": 2,
+          "position": 28,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,36"
+        },
+        {
+          "teamName": "Libkova Voda",
+          "points": 2,
+          "position": 29,
+          "district": "Pelhřimov",
+          "bestTime": "21,35"
+        },
+        {
+          "teamName": "Pohled B",
+          "points": 2,
+          "position": 30,
+          "district": "Havlíčkův Brod",
+          "bestTime": "21,55"
+        },
+        {
+          "teamName": "Choltice",
+          "points": 0,
+          "position": 31,
+          "district": "Pardubice",
+          "bestTime": "19,16"
+        },
+        {
+          "teamName": "Srch",
+          "points": 0,
+          "position": 32,
+          "district": "Pardubice",
+          "bestTime": "20,13"
+        },
+        {
+          "teamName": "Humpolec",
+          "points": 0,
+          "position": 33,
+          "district": "Pelhřimov",
+          "bestTime": "20,96"
+        },
+        {
+          "teamName": "Kaliště",
+          "points": 0,
+          "position": 34,
+          "district": "Pelhřimov",
+          "bestTime": "22,40"
+        },
+        {
+          "teamName": "Výsonín",
+          "points": 0,
+          "position": 35,
+          "district": "Chrudim",
+          "bestTime": "22,86"
+        },
+        {
+          "teamName": "Rohovládová Bělá",
+          "points": 0,
+          "position": 36,
+          "district": "Pardubice",
+          "bestTime": "24,79"
+        },
+        {
+          "teamName": "Krásná Hora",
+          "points": 0,
+          "position": 37,
+          "district": "Havlíčkův Brod",
+          "bestTime": "27,03"
+        },
+        {
+          "teamName": "Broumova Lhota",
+          "points": 0,
+          "position": 38,
+          "district": "Havlíčkův Brod",
+          "bestTime": "32,32"
+        },
+        {
+          "teamName": "Kejžlice B",
+          "points": 0,
+          "position": 39,
+          "district": "Pelhřimov",
+          "bestTime": "33,00"
+        },
+        {
+          "teamName": "Bašnice",
+          "points": 0,
+          "position": 40,
+          "district": "Jičín",
+          "bestTime": "NP"
+        },
+        {
+          "teamName": "Kámen",
+          "points": 0,
+          "position": 41,
+          "district": "Havlíčkův Brod",
+          "bestTime": "NP"
+        },
+        {
+          "teamName": "Česká Bělá C",
+          "points": 0,
+          "position": 42,
+          "district": "Havlíčkův Brod",
+          "bestTime": "NP"
+        },
+        {
+          "teamName": "Jindřichovice",
+          "points": 0,
+          "position": 43,
+          "district": "Jihlava",
+          "bestTime": "NP"
+        },
+        {
+          "teamName": "Podmoklany B",
+          "points": 0,
+          "position": 44,
+          "district": "Havlíčkův Brod",
+          "bestTime": "NP"
+        },
+        {
+          "teamName": "Střížov",
+          "points": 0,
+          "position": 45,
+          "district": "Jihlava",
+          "bestTime": "NP"
+        }
+      ]
+    },
+    {
+      "category": "Ženy",
+      "rankings": [
+        {
+          "teamName": "Ždírec nad Doubravou",
+          "points": 102,
+          "position": 1,
+          "district": "Havlíčkův Brod",
+          "bestTime": "16,74"
+        },
+        {
+          "teamName": "Kejžlice",
+          "points": 95,
+          "position": 2,
+          "district": "Pelhřimov",
+          "bestTime": "17,55"
+        },
+        {
+          "teamName": "Olešná",
+          "points": 87,
+          "position": 3,
+          "district": "Havlíčkův Brod",
+          "bestTime": "17,08"
+        },
+        {
+          "teamName": "Česká Bělá",
+          "points": 51,
+          "position": 4,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,70"
+        },
+        {
+          "teamName": "Dolní Krupá",
+          "points": 45,
+          "position": 5,
+          "district": "Havlíčkův Brod",
+          "bestTime": "19,17"
+        },
+        {
+          "teamName": "Zdislavice",
+          "points": 40,
+          "position": 6,
+          "district": "Havlíčkův Brod",
+          "bestTime": "19,38"
+        },
+        {
+          "teamName": "Herálec",
+          "points": 37,
+          "position": 7,
+          "district": "Havlíčkův Brod",
+          "bestTime": "18,38"
+        },
+        {
+          "teamName": "Golčův Jeníkov",
+          "points": 11,
+          "position": 8,
+          "district": "Havlíčkův Brod",
+          "bestTime": "19,71"
+        },
+        {
+          "teamName": "Boršov",
+          "points": 6,
+          "position": 9,
+          "district": "Jihlava",
+          "bestTime": "18,74"
+        },
+        {
+          "teamName": "Světlá nad Sázavou",
+          "points": 6,
+          "position": 10,
+          "district": "Havlíčkův Brod",
+          "bestTime": "25,71"
+        },
+        {
+          "teamName": "Chotěboř",
+          "points": 2,
+          "position": 11,
+          "district": "Havlíčkův Brod",
+          "bestTime": "24,73"
+        },
+        {
+          "teamName": "Pohled",
+          "points": 0,
+          "position": 12,
+          "district": "Havlíčkův Brod",
+          "bestTime": "NP"
+        }
+      ]
+    }
+  ]
+}

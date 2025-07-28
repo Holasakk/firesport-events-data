@@ -1,0 +1,80 @@
+{
+  "year": 1999,
+  "teamRankingLists": [
+    {
+      "category": "Muži",
+      "rankings": [
+        {
+          "teamName": "Podmoklany",
+          "points": 86,
+          "position": 1,
+          "district": "Havlíčkův Brod",
+          "bestTime": "23,74"
+        },
+        {
+          "teamName": "Habry",
+          "points": 76,
+          "position": 2,
+          "district": "Havlíčkův Brod",
+          "bestTime": "23,45"
+        },
+        {
+          "teamName": "Vepříkov",
+          "points": 68,
+          "position": 3,
+          "district": "Havlíčkův Brod",
+          "bestTime": "24,81"
+        },
+        {
+          "teamName": "Květinov",
+          "points": 66,
+          "position": 4,
+          "district": "Havlíčkův Brod",
+          "bestTime": "25,67"
+        },
+        {
+          "teamName": "Nová Ves u Světlé",
+          "points": 52,
+          "position": 5,
+          "district": "Havlíčkův Brod",
+          "bestTime": "25,25"
+        },
+        {
+          "teamName": "Ždírec nad Doubravou",
+          "points": 48,
+          "position": 6,
+          "district": "Havlíčkův Brod",
+          "bestTime": "24,92"
+        },
+        {
+          "teamName": "Herálec",
+          "points": 39,
+          "position": 7,
+          "district": "Havlíčkův Brod",
+          "bestTime": "26,76"
+        },
+        {
+          "teamName": "Sloupno",
+          "points": 38,
+          "position": 8,
+          "district": "Havlíčkův Brod",
+          "bestTime": "26,71"
+        },
+        {
+          "teamName": "Smilov",
+          "points": 34,
+          "position": 9,
+          "district": "Havlíčkův Brod",
+          "bestTime": "27,06"
+        },
+        {
+          "teamName": "Klouzovy",
+          "points": 24,
+          "position": 10,
+          "district": "Havlíčkův Brod",
+          "bestTime": "27,90"
+        }
+      ]
+    }
+  ]
+}

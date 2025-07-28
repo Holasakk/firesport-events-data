@@ -1,0 +1,59 @@
+{
+  "year": 2002,
+  "teamRankingLists": [
+    {
+      "category": "Muži",
+      "rankings": [
+        {
+          "teamName": "Podmoklany",
+          "points": 62,
+          "position": 1,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,24"
+        },
+        {
+          "teamName": "Nová Ves u Světlé",
+          "points": 61,
+          "position": 2,
+          "district": "Havlíčkův Brod",
+          "bestTime": "20,79"
+        },
+        {
+          "teamName": "Květinov",
+          "points": 59,
+          "position": 3,
+          "district": "Havlíčkův Brod",
+          "bestTime": "19,99"
+        },
+        {
+          "teamName": "Smilov",
+          "points": 31,
+          "position": 4,
+          "district": "Havlíčkův Brod",
+          "bestTime": "23,85"
+        },
+        {
+          "teamName": "Vepříkov",
+          "points": 27,
+          "position": 5,
+          "district": "Havlíčkův Brod",
+          "bestTime": "26,59"
+        },
+        {
+          "teamName": "Sloupno",
+          "points": 25,
+          "position": 6,
+          "district": "Havlíčkův Brod",
+          "bestTime": "24,25"
+        },
+        {
+          "teamName": "Habry",
+          "points": 16,
+          "position": 7,
+          "district": "Havlíčkův Brod",
+          "bestTime": "25,13"
+        }
+      ]
+    }
+  ]
+}
