@@ -252,6 +252,11 @@
                 "teamName": "Golčův Jeníkov"
               },
               {
+                "startPosition": 5,
+                "district": "Havlíčkův Brod",
+                "teamName": "Ždírec nad Doubravou"
+              },
+              {
                 "startPosition": 6,
                 "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole B"
@@ -277,9 +282,19 @@
                 "teamName": "Habry FŇ"
               },
               {
+                "startPosition": 11,
+                "district": "Jihlava",
+                "teamName": "Milíčov"
+              },
+              {
                 "startPosition": 14,
                 "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
+              },
+              {
+                "startPosition": 14,
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole C"
               }
             ]
           },
@@ -327,6 +342,36 @@
                 "teamName": "Nová Ves u Chotěboře Z"
               }
             ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "district": "Havlíčkův Brod",
+                "startPosition": 1,
+                "teamName": "Žižkovo Pole"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "startPosition": 2,
+                "teamName": "Nová Ves u Světlé"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "startPosition": 3,
+                "teamName": "Habry 88"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "startPosition": 4,
+                "teamName": "Veselý Žďár"
+              },
+              {
+                "district": "Havlíčkův Brod",
+                "startPosition": 8,
+                "teamName": "Lípa"
+              }
+            ]
           }
         ]
       },
@@ -342,6 +387,11 @@
             "category": "Muži",
             "teams": [
               {
+                  "district": "Havlíčkův Brod",
+                  "startPosition": 1,
+                  "teamName": "Smilov"
+              },
+              {
                 "startPosition": 2,
                 "district": "Havlíčkův Brod",
                 "teamName": "Žižkovo Pole Divadlo"
@@ -355,6 +405,11 @@
                 "startPosition": 4,
                 "district": "Havlíčkův Brod",
                 "teamName": "Golčův Jeníkov"
+              },
+              {
+                "startPosition": 5,
+                "district": "Havlíčkův Brod",
+                "teamName": "Stéblová"
               },
               {
                 "startPosition": 6,
@@ -382,9 +437,54 @@
                 "teamName": "Habry FŇ"
               },
               {
+                "startPosition": 11,
+                "district": "Jihlava",
+                "teamName": "Milíčov"
+              },
+              {
+                "startPosition": 12,
+                "district": "Pardubice",
+                "teamName": "Stéblová H"
+              },
+              {
+                "startPosition": 13,
+                "district": "Havlíčkův Brod",
+                "teamName": "Dolní Jablonná"
+              },
+              {
                 "startPosition": 14,
                 "district": "Havlíčkův Brod",
                 "teamName": "Lípa"
+              },
+              {
+                "startPosition": 15,
+                "district": "Havlíčkův Brod",
+                "teamName": "Kámen"
+              },
+              {
+                "startPosition": 16,
+                "district": "Havlíčkův Brod",
+                "teamName": "Žižkovo Pole C"
+              },
+              {
+                "startPosition": 17,
+                "district": "Havlíčkův Brod",
+                "teamName": "Dolní Jablonná B"
+              },
+              {
+                "startPosition": 18,
+                "district": "Havlíčkův Brod",
+                "teamName": "Nová Ves u Světlé"
+              },
+              {
+                "startPosition": 19,
+                "district": "Havlíčkův Brod",
+                "teamName": "Ždírec nad Doubravou"
+              },
+              {
+                "startPosition": 25,
+                "district": "Havlíčkův Brod",
+                "teamName": "Tis"
               }
             ]
           },
@@ -429,6 +529,66 @@
               {
                 "startPosition": 8,
                 "teamName": "Nová Ves u Chotěboře Z",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Stolany",
+                "district": "Chrudim"
+              },
+              {
+                "startPosition": 10,
+                "teamName": "Stéblová",
+                "district": "Pardubice"
+              }
+            ]
+          },
+          {
+            "category": "Smíšený dorost",
+            "teams": [
+              {
+                "startPosition": 1,
+                "teamName": "Žižkovo Pole",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 2,
+                "teamName": "Stéblová",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 3,
+                "teamName": "Habry 88",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 4,
+                "teamName": "Veselý Žďár",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Hněvkovice",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 6,
+                "teamName": "Pohled",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 7,
+                "teamName": "Dolní Jablonná",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 8,
+                "teamName": "Lípa",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 9,
+                "teamName": "Nová Ves u Světlé",
                 "district": "Havlíčkův Brod"
               }
             ]
