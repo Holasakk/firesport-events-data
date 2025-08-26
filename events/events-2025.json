@@ -298,6 +298,16 @@
                 "startPosition": 11,
                 "teamName": "Otín",
                 "district": "Žďár nad Sázavou"
+              },
+              {
+                "startPosition": 12,
+                "teamName": "Veselý Žďár",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 13,
+                "teamName": "Radostín nad Oslavou",
+                "district": "Žďár nad Sázavou"
               }
             ]
           },
@@ -323,6 +333,11 @@
                 "startPosition": 4,
                 "teamName": "Pohled",
                 "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 5,
+                "teamName": "Veselý Žďár",
+                "district": ""
               },
               {
                 "startPosition": 8,
@@ -452,11 +467,6 @@
                 "district": "Havlíčkův Brod"
               },
               {
-                "startPosition": 21,
-                "teamName": "Tis",
-                "district": "Havlíčkův Brod"
-              },
-              {
                 "startPosition": 22,
                 "teamName": "Kámen",
                 "district": "Havlíčkův Brod"
@@ -465,6 +475,11 @@
                 "startPosition": 23,
                 "teamName": "Seč",
                 "district": "Chrudim"
+              },
+              {
+                "startPosition": 25,
+                "teamName": "Tis",
+                "district": "Havlíčkův Brod"
               }
             ]
           },
@@ -589,6 +604,11 @@
               {
                 "startPosition": 10,
                 "teamName": "Malčín",
+                "district": "Havlíčkův Brod"
+              },
+              {
+                "startPosition": 11,
+                "teamName": "Světlá nad Sázavou",
                 "district": "Havlíčkův Brod"
               }
             ]
