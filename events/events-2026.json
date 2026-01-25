@@ -1,0 +1,170 @@
+{
+  "year": 2026,
+  "events": [
+    {
+      "title": "O pohár SDH Habry",
+      "location": "Habry",
+      "date": "30.05.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Seč",
+      "location": "Seč",
+      "date": "06.06.2026",
+      "status": "scheduled",
+      "district": "Chrudim",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Nová Ves u Světlé",
+      "location": "Nová Ves u Světlé",
+      "date": "13.06.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Žižkovo Pole",
+      "location": "Žižkovo Pole",
+      "date": "05.07.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Kámen",
+      "location": "Kámen",
+      "date": "11.07.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Kynice",
+      "location": "Kynice",
+      "date": "25.07.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Milíčov",
+      "location": "Batelov",
+      "date": "08.08.2026",
+      "status": "scheduled",
+      "district": "Jihlava",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Pohled",
+      "location": "Pohled",
+      "date": "15.08.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Smilov",
+      "location": "Smilov",
+      "date": "22.08.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Petrovice",
+      "location": "Petrovice",
+      "date": "29.08.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    },
+    {
+      "title": "O pohár SDH Česká Bělá",
+      "location": "Česká Bělá",
+      "date": "26.09.2026",
+      "status": "scheduled",
+      "district": "Havlíčkův Brod",
+      "startingList": {
+        "categories": []
+      },
+      "results": {
+        "categories": []
+      },
+      "startingListURL": "https://hbhl.firesport.eu",
+      "resultsURL": "https://hbhl.firesport.eu"
+    }
+  ]
+}
